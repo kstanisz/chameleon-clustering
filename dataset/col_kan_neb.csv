@@ -1,0 +1,2153 @@
+city,state_name,lat,lng
+O'Neill,Nebraska,42.4577811,-98.6475872
+Bloomfield,Nebraska,42.5988909,-97.6456195
+Ponca,Nebraska,42.5624971,-96.7055918
+Neligh,Nebraska,42.1286177,-98.0297887
+Oakland,Nebraska,41.8358265,-96.4669709
+North Bend,Nebraska,41.4619485,-96.7797515
+Scribner,Nebraska,41.6666664,-96.6658622
+Fullerton,Nebraska,41.3633475,-97.9692253
+Genoa,Nebraska,41.4486243,-97.7306077
+Belleville,Kansas,39.8244501,-97.6325415
+Washington,Kansas,39.8180592,-97.0508606
+Phillipsburg,Kansas,39.7561207,-99.3239853
+Hiawatha,Kansas,39.8525033,-95.5358156
+Horton,Kansas,39.6605573,-95.5263689
+Sabetha,Kansas,39.9022223,-95.8008225
+Seneca,Kansas,39.834165,-96.0641676
+Grand Island,Nebraska,40.9250123,-98.3420068
+Kearney,Nebraska,40.699457,-99.0814767
+Ravenna,Nebraska,41.0261229,-98.9125828
+Hastings,Nebraska,40.5861246,-98.388393
+Holdrege,Nebraska,40.4402885,-99.3698217
+Beatrice,Nebraska,40.2680555,-96.7469704
+Alma,Nebraska,40.0975108,-99.3620427
+Concordia,Kansas,39.5708354,-97.6625396
+Holton,Kansas,39.4652724,-95.7363723
+Atchison,Kansas,39.5630521,-95.1216356
+Goodland,Kansas,39.350833,-101.7101722
+Colby,Kansas,39.3958369,-101.0523773
+Clay Center,Kansas,39.3769407,-97.1247428
+Beloit,Kansas,39.4561178,-98.1061595
+Manhattan,Kansas,39.1836082,-96.5716694
+Lansing,Kansas,39.2486126,-94.9002413
+Leavenworth,Kansas,39.3111112,-94.9224637
+Junction City,Kansas,39.0286093,-96.8313978
+Topeka,Kansas,39.0483336,-95.6780371
+Bonner Springs,Kansas,39.059726,-94.8835754
+Edwardsville,Kansas,39.0611154,-94.8196847
+Kansas City,Kansas,39.1141708,-94.627457
+Ellis,Kansas,38.9380662,-99.5606669
+Hays,Kansas,38.8791783,-99.3267702
+Abilene,Kansas,38.9172216,-97.2139094
+Herington,Kansas,38.671119,-96.9425139
+Russell,Kansas,38.8952893,-98.8598061
+Lawrence,Kansas,38.9716689,-95.2352501
+De Soto,Kansas,38.9791709,-94.9685783
+Edgerton,Kansas,38.7647302,-95.0080224
+Fairway,Kansas,39.0222277,-94.6319018
+Gardner,Kansas,38.8108408,-94.9271868
+Lake Quivira,Kansas,39.0402827,-94.7766281
+Leawood,Kansas,38.966673,-94.6169012
+Lenexa,Kansas,38.9536174,-94.7335709
+Roeland Park,Kansas,39.0375053,-94.6321795
+Shawnee,Kansas,39.0416718,-94.7202376
+Spring Hill,Kansas,38.7430646,-94.8255166
+Westwood,Kansas,39.0405608,-94.6169013
+Prairie Village,Kansas,38.9916726,-94.6335684
+Salina,Kansas,38.8402805,-97.6114237
+Council Grove,Kansas,38.6611187,-96.4919473
+Ellsworth,Kansas,38.7305648,-98.2281126
+Emporia,Kansas,38.403903,-96.1816626
+Louisburg,Kansas,38.6194564,-94.6807903
+Paola,Kansas,38.5722354,-94.8791294
+Ellinwood,Kansas,38.3555675,-98.5809106
+Great Bend,Kansas,38.3644567,-98.7648073
+Hoisington,Kansas,38.5180672,-98.7781394
+Lindsborg,Kansas,38.5736176,-97.6744838
+McPherson,Kansas,38.3708415,-97.6642087
+Florence,Kansas,38.244462,-96.9280786
+Hillsboro,Kansas,38.3519556,-97.2044723
+Lyons,Kansas,38.3450104,-98.2017268
+Sterling,Kansas,38.2100112,-98.2070059
+Burlington,Kansas,38.1944667,-95.7427641
+Garnett,Kansas,38.2805772,-95.2419192
+Larned,Kansas,38.1805693,-99.098713
+Garden City,Kansas,37.9716898,-100.8726618
+Halstead,Kansas,38.0014004,-97.5086518
+Eureka,Kansas,37.8239167,-96.2891703
+Hutchinson,Kansas,38.0608445,-97.9297743
+Augusta,Kansas,37.6866844,-96.9767024
+El Dorado,Kansas,37.81724,-96.8622524
+Kinsley,Kansas,37.9230724,-99.4098384
+Yates Center,Kansas,37.8811472,-95.7333175
+Humboldt,Kansas,37.8105961,-95.4369264
+Iola,Kansas,37.9244799,-95.3999814
+La Harpe,Kansas,37.9169804,-95.2991465
+Fort Scott,Kansas,37.8397626,-94.7082951
+Dodge City,Kansas,37.7527982,-100.0170787
+Bel Aire,Kansas,37.7748508,-97.2456676
+Wichita,Kansas,37.6922361,-97.3375448
+Pratt,Kansas,37.6439071,-98.7375911
+Greensburg,Kansas,37.6027963,-99.2926131
+Haviland,Kansas,37.6194626,-99.1064954
+Kingman,Kansas,37.6458491,-98.1136734
+Fredonia,Kansas,37.5339386,-95.8266483
+Chanute,Kansas,37.6792135,-95.4572034
+Frontenac,Kansas,37.4556049,-94.689127
+Girard,Kansas,37.5111596,-94.8380215
+Pittsburg,Kansas,37.4108841,-94.70496
+Arkansas City,Kansas,37.0619736,-97.0383712
+Winfield,Kansas,37.2397486,-96.9955919
+Caldwell,Kansas,37.032247,-97.6069946
+Wellington,Kansas,37.2653004,-97.3717119
+Liberal,Kansas,37.0430812,-100.920999
+Caney,Kansas,37.0114608,-95.9352584
+Cherryvale,Kansas,37.270344,-95.5524788
+Coffeyville,Kansas,37.0373005,-95.6163665
+Independence,Kansas,37.2242358,-95.7083131
+Anthony,Kansas,37.1533554,-98.0311728
+Harper,Kansas,37.2866863,-98.0258945
+Chetopa,Kansas,37.0372916,-95.0899613
+Parsons,Kansas,37.3403384,-95.2610838
+Baxter Springs,Kansas,37.0236759,-94.7355042
+Columbus,Kansas,37.1692278,-94.8441239
+Galena,Kansas,37.0758952,-94.6396714
+Scammon,Kansas,37.2775569,-94.8249602
+Weir,Kansas,37.3100548,-94.7719043
+Creighton,Nebraska,42.4666706,-97.9061783
+Crofton,Nebraska,42.7288884,-97.4956183
+West Point,Nebraska,41.8416659,-96.7086432
+Wisner,Nebraska,41.9872249,-96.9142055
+Tilden,Nebraska,42.0472286,-97.8339503
+Newman Grove,Nebraska,41.7500096,-97.7753327
+Tekamah,Nebraska,41.7783218,-96.2211284
+Columbus,Nebraska,41.4297341,-97.3683753
+Fremont,Nebraska,41.4333328,-96.4980807
+Broken Bow,Nebraska,41.4019509,-99.6392794
+David City,Nebraska,41.2527908,-97.1300372
+Wahoo,Nebraska,41.2113915,-96.6203025
+Central City,Nebraska,41.1158476,-98.0017248
+Clay Center,Nebraska,40.5216783,-98.055326
+Sutton,Nebraska,40.6055658,-97.8592146
+Franklin,Nebraska,40.0961242,-98.9525807
+Oberlin,Kansas,39.8183384,-100.528201
+Norton,Kansas,39.8338946,-99.8915113
+Marysville,Kansas,39.8411129,-96.647242
+Osborne,Kansas,39.4388994,-98.6947949
+Minneapolis,Kansas,39.1219448,-97.7067028
+Merriam,Kansas,39.0236165,-94.6935701
+Mission,Kansas,39.0277832,-94.6557914
+Mission Hills,Kansas,39.0177834,-94.6169014
+Olathe,Kansas,38.8813958,-94.8191285
+Overland Park,Kansas,38.9822282,-94.6707917
+Osage City,Kansas,38.6338981,-95.8258207
+Ottawa,Kansas,38.6155668,-95.2677515
+Osawatomie,Kansas,38.4972372,-94.9505207
+Marion,Kansas,38.3483493,-97.017245
+Newton,Kansas,38.0466779,-97.3450365
+Nickerson,Kansas,38.1472334,-98.0836679
+Mullinville,Kansas,37.5861307,-99.475674
+Neodesha,Kansas,37.4183929,-95.6802581
+Mulberry,Kansas,37.5569911,-94.6219034
+Oswego,Kansas,37.1675652,-95.1099645
+Macy,Nebraska,42.1130467,-96.3564161
+Bridgeport,Nebraska,41.6652507,-103.0990976
+Harrisburg,Nebraska,41.5563636,-103.7385564
+Chalco,Nebraska,41.1838878,-96.1502969
+Brewster,Kansas,39.3666687,-101.3768295
+Brookville,Kansas,38.7750057,-97.8683772
+Brownell,Kansas,38.6402918,-99.7462292
+Bronson,Kansas,37.8958708,-95.0733077
+Crawford,Nebraska,42.6830237,-103.4127012
+Chadron,Nebraska,42.8294187,-102.999907
+Atkinson,Nebraska,42.5313912,-98.9781525
+Hartington,Nebraska,42.6224992,-97.2644985
+Ainsworth,Nebraska,42.5499993,-99.8626236
+Bassett,Nebraska,42.5858337,-99.5378941
+Dakota City,Nebraska,42.4155496,-96.4183637
+Alliance,Nebraska,42.1016344,-102.872145
+Battle Creek,Nebraska,41.9994496,-97.5983892
+Burwell,Nebraska,41.7816732,-99.1331539
+Bayard,Nebraska,41.7549697,-103.3241025
+Albion,Nebraska,41.6908444,-98.0036724
+Clarkson,Nebraska,41.7266741,-97.12226
+Humphrey,Nebraska,41.6916753,-97.4844907
+Hooper,Nebraska,41.6105534,-96.5480818
+Blair,Nebraska,41.5444379,-96.1250151
+Ashland,Nebraska,41.039165,-96.368346
+Bennington,Nebraska,41.3647193,-96.1577968
+Chappell,Nebraska,41.0927664,-102.4707445
+Bellevue,Nebraska,41.1366656,-95.8908446
+Gretna,Nebraska,41.1408322,-96.2397418
+Aurora,Nebraska,40.8672344,-98.0042212
+Henderson,Nebraska,40.7797333,-97.8122722
+Cozad,Nebraska,40.8597294,-99.9873442
+Hickman,Nebraska,40.6200009,-96.6291844
+Curtis,Nebraska,40.6300081,-100.5157004
+Imperial,Nebraska,40.5169402,-101.6432253
+Crete,Nebraska,40.6277824,-96.9614174
+Harvard,Nebraska,40.6189006,-98.0972736
+Auburn,Nebraska,40.3927792,-95.8388861
+Blue Springs,Nebraska,40.1394455,-96.6591898
+Blue Hill,Nebraska,40.3325134,-98.4486701
+Benkelman,Nebraska,40.0491615,-101.5329443
+Cambridge,Nebraska,40.2819509,-100.1656922
+Arapahoe,Nebraska,40.3041736,-99.900402
+Beaver City,Nebraska,40.1375072,-99.8295648
+Hebron,Nebraska,40.1663933,-97.5858752
+Deshler,Nebraska,40.1408402,-97.7228191
+Humboldt,Nebraska,40.1638893,-95.9449985
+Bird City,Kansas,39.7508287,-101.5329438
+Atwood,Kansas,39.806668,-101.0421012
+Herndon,Kansas,39.9097258,-100.7851525
+Burr Oak,Kansas,39.8661241,-98.3050528
+Cedar,Kansas,39.6572333,-98.9403591
+Athol,Kansas,39.7650117,-98.9195242
+Courtland,Kansas,39.7813975,-97.892822
+Cuba,Kansas,39.802781,-97.4558721
+Agenda,Kansas,39.7077797,-97.4317035
+Clifton,Kansas,39.5672207,-97.2786417
+Barnes,Kansas,39.7119465,-96.8744658
+Haddam,Kansas,39.8569478,-97.3017023
+Hanover,Kansas,39.8938922,-96.8794698
+Hollenberg,Kansas,39.9805597,-96.9922515
+Clayton,Kansas,39.7375045,-100.1776352
+Almena,Kansas,39.8922294,-99.707058
+Agra,Kansas,39.7616776,-99.1192544
+Axtell,Kansas,39.8716662,-96.2588985
+Beattie,Kansas,39.8611117,-96.4197364
+Blue Rapids,Kansas,39.6819447,-96.6597387
+Hamlin,Kansas,39.9161131,-95.62804
+Corning,Kansas,39.6572186,-96.0294417
+Centralia,Kansas,39.725831,-96.1272246
+Bern,Kansas,39.9622218,-95.9719422
+Highland,Kansas,39.8597208,-95.2696985
+Denton,Kansas,39.7327769,-95.2694196
+Clyde,Kansas,39.5911106,-97.3989229
+Aurora,Kansas,39.4519428,-97.5272565
+Circleville,Kansas,39.5083278,-95.8585993
+Hoyt,Kansas,39.247775,-95.706371
+Delia,Kansas,39.2405523,-95.9669352
+Denison,Kansas,39.3916635,-95.6280357
+Huron,Kansas,39.638333,-95.3516423
+Damar,Kansas,39.3188968,-99.5826102
+Alton,Kansas,39.4708437,-98.9481389
+Hoxie,Kansas,39.3575049,-100.441807
+Cawker City,Kansas,39.5125104,-98.4336717
+Hunter,Kansas,39.2341752,-98.397283
+Bogue,Kansas,39.3625071,-99.6873364
+Hill City,Kansas,39.3647281,-99.8420649
+Belvue,Kansas,39.2166634,-96.178051
+Havensville,Kansas,39.5111064,-96.0780519
+Basehor,Kansas,39.1416692,-94.9385763
+Culver,Kansas,38.9708357,-97.7589273
+Bennington,Kansas,39.0305556,-97.5941992
+Delphos,Kansas,39.2738894,-97.7719828
+Barnard,Kansas,39.1905604,-98.0419914
+Beverly,Kansas,39.0127825,-97.9756022
+Auburn,Kansas,38.906114,-95.8160968
+Alma,Kansas,39.0166657,-96.2891624
+Alta Vista,Kansas,38.8638916,-96.4891678
+Harveyville,Kansas,38.7900055,-95.9616564
+Grinnell,Kansas,39.12723,-100.6290314
+Carlton,Kansas,38.6872259,-97.2933586
+Chapman,Kansas,38.9722212,-97.0225139
+Hope,Kansas,38.6902839,-97.0766844
+Bunker Hill,Kansas,38.8758445,-98.7039655
+Dorrance,Kansas,38.8466777,-98.5895156
+Collyer,Kansas,39.0355632,-100.1179065
+Baldwin City,Kansas,38.775007,-95.1863603
+Assaria,Kansas,38.6802826,-97.6044806
+Gypsum,Kansas,38.7055591,-97.4280856
+Holyrood,Kansas,38.5869549,-98.4111777
+Burlingame,Kansas,38.7538947,-95.8349868
+Carbondale,Kansas,38.8186155,-95.6891498
+Bushong,Kansas,38.6430637,-96.2572195
+Admire,Kansas,38.6411197,-96.1030491
+Allen,Kansas,38.6561191,-96.1697173
+Americus,Kansas,38.506956,-96.2619425
+Hartford,Kansas,38.3083507,-95.9558234
+Dighton,Kansas,38.4819612,-100.4670844
+Horace,Kansas,38.4764046,-101.790729
+Bazine,Kansas,38.4444594,-99.692063
+Claflin,Kansas,38.525011,-98.5336841
+Albert,Kansas,38.4527906,-99.0114836
+Alexander,Kansas,38.4694588,-99.5531697
+Bison,Kansas,38.5227908,-99.1973224
+Canton,Kansas,38.3861194,-97.4280895
+Burns,Kansas,38.0902957,-96.8864144
+Cottonwood Falls,Kansas,38.3722364,-96.5427845
+Cedar Point,Kansas,38.2600169,-96.8197407
+Bushton,Kansas,38.5125105,-98.3953448
+Chase,Kansas,38.355011,-98.3495111
+Alden,Kansas,38.2422335,-98.3120105
+Gridley,Kansas,38.097803,-95.8836
+Colony,Kansas,38.0708626,-95.3655356
+Blue Mound,Kansas,38.0900303,-95.0063593
+Burdett,Kansas,38.19196,-99.5267844
+Deerfield,Kansas,37.9797442,-101.1332238
+Holcomb,Kansas,37.9861353,-100.989333
+Coolidge,Kansas,38.0416799,-102.0087927
+Hudson,Kansas,38.1055694,-98.6600832
+Hanston,Kansas,38.1219618,-99.7129011
+Burrton,Kansas,38.0239001,-97.6697675
+Hesston,Kansas,38.1383437,-97.4314267
+Climax,Kansas,37.7197539,-96.2233333
+Hamilton,Kansas,37.9794705,-96.1641647
+Buhler,Kansas,38.1344546,-97.7700478
+Abbyville,Kansas,37.9708468,-98.2042299
+Arlington,Kansas,37.8966808,-98.1786739
+Haven,Kansas,37.8989003,-97.7828272
+Cassoday,Kansas,38.0389075,-96.6391836
+Andover,Kansas,37.7139041,-97.1364294
+Benton,Kansas,37.7889039,-97.1086498
+Douglass,Kansas,37.5194642,-97.0128147
+Belpre,Kansas,37.9500155,-99.1003824
+Bassett,Kansas,37.9028142,-95.4041482
+Cimarron,Kansas,37.8066882,-100.3482003
+Copeland,Kansas,37.5419685,-100.6296
+Bucklin,Kansas,37.5472429,-99.6342901
+Clearwater,Kansas,37.5027959,-97.5044921
+Colwich,Kansas,37.7791785,-97.5364351
+Cheney,Kansas,37.6300146,-97.7825513
+Andale,Kansas,37.790567,-97.629492
+Bentley,Kansas,37.8861228,-97.516988
+Haysville,Kansas,37.5644615,-97.3522675
+Derby,Kansas,37.5455735,-97.2689331
+Byers,Kansas,37.7875166,-98.8670407
+Coats,Kansas,37.5119639,-98.8242617
+Cullison,Kansas,37.6305738,-98.9053762
+Cunningham,Kansas,37.6439067,-98.4311883
+Buffalo,Kansas,37.7097669,-95.6974822
+Coyville,Kansas,37.6861525,-95.8974859
+Altoona,Kansas,37.5239434,-95.6613696
+Benedict,Kansas,37.6253267,-95.7505373
+Cherokee,Kansas,37.3458874,-94.8088504
+Arcadia,Kansas,37.6419893,-94.6238481
+Arma,Kansas,37.5439358,-94.7002395
+Hepler,Kansas,37.661157,-94.9683048
+Grenola,Kansas,37.3486427,-96.4505641
+Howard,Kansas,37.4703117,-96.2636066
+Burden,Kansas,37.3128025,-96.7541973
+Cambridge,Kansas,37.3161377,-96.6644686
+Atlanta,Kansas,37.4364104,-96.7647517
+Dexter,Kansas,37.1772513,-96.7144722
+Conway Springs,Kansas,37.3902975,-97.6422723
+Argonia,Kansas,37.265854,-97.7656092
+Belle Plaine,Kansas,37.3939098,-97.281155
+Hunnewell,Kansas,37.0050268,-97.4047679
+Ashland,Kansas,37.1886376,-99.7656834
+Hardtner,Kansas,37.0139169,-98.6495279
+Hazelton,Kansas,37.090303,-98.3984073
+Hugoton,Kansas,37.1753025,-101.3496025
+Havana,Kansas,37.091735,-95.9419271
+Dearing,Kansas,37.0586882,-95.713312
+Danville,Kansas,37.286131,-97.8920016
+Attica,Kansas,37.2414101,-98.226735
+Bluff City,Kansas,37.0764125,-97.8750572
+Coldwater,Kansas,37.2689131,-99.3267808
+Altamont,Kansas,37.1903448,-95.2971928
+Bartlett,Kansas,37.0547927,-95.2107992
+Cedar Vale,Kansas,37.1042039,-96.5000112
+Chautauqua,Kansas,37.0203354,-96.1766559
+Gordon,Nebraska,42.8047197,-102.203218
+Laurel,Nebraska,42.4294449,-97.0897704
+Elgin,Nebraska,41.9833412,-98.0836773
+Norfolk,Nebraska,42.0283379,-97.4169964
+Gering,Nebraska,41.8258016,-103.6604995
+Minatare,Nebraska,41.8094127,-103.5038293
+Mitchell,Nebraska,41.9402435,-103.8085573
+Fort Calhoun,Nebraska,41.4558282,-96.0264024
+Ogallala,Nebraska,41.1280481,-101.7196184
+North Platte,Nebraska,41.1357584453,-100.771081409
+Kimball,Nebraska,41.2358138,-103.6629967
+La Vista,Nebraska,41.1838878,-96.031127
+Gothenburg,Nebraska,40.9294511,-100.1606824
+Lexington,Nebraska,40.7808398,-99.7415045
+Gibbon,Nebraska,40.7483472,-98.8448009
+Milford,Nebraska,40.7744509,-97.0505887
+Grant,Nebraska,40.8419409,-101.725172
+Nebraska City,Nebraska,40.6766683,-95.8591686
+Geneva,Nebraska,40.5269512,-97.5958818
+Friend,Nebraska,40.6536172,-97.2861572
+Edgar,Nebraska,40.3722317,-97.971432
+Fairfield,Nebraska,40.4316782,-98.1058806
+Minden,Nebraska,40.4986252,-98.9478594
+Nelson,Nebraska,40.2016771,-98.0678201
+Fairbury,Nebraska,40.1372247,-97.1805914
+McCook,Nebraska,40.2019477,-100.6257077
+Indianola,Nebraska,40.2344497,-100.4173683
+Falls City,Nebraska,40.0608352,-95.6019294
+McDonald,Kansas,39.7858301,-101.375718
+Esbon,Kansas,39.8222345,-98.4358923
+Formoso,Kansas,39.7800098,-97.9922672
+Jewell,Kansas,39.671399,-98.1536611
+Gaylord,Kansas,39.6439,-98.8475779
+Kensington,Kansas,39.7669559,-99.0317506
+Lebanon,Kansas,39.8097343,-98.5556199
+Munden,Kansas,39.913894,-97.5380968
+Narka,Kansas,39.9605603,-97.4258732
+Greenleaf,Kansas,39.7283364,-96.9761341
+Morrowville,Kansas,39.8444478,-97.1716984
+Dresden,Kansas,39.6241709,-100.4223636
+Norcatur,Kansas,39.8369494,-100.1879139
+Jennings,Kansas,39.6794486,-100.2934724
+Edmond,Kansas,39.6272279,-99.8226191
+Lenora,Kansas,39.61056,-100.0026272
+Glade,Kansas,39.6847319,-99.3098186
+Kirwin,Kansas,39.6730662,-99.1223108
+Frankfort,Kansas,39.7055548,-96.4169555
+Oketo,Kansas,39.9636134,-96.5997429
+Everest,Kansas,39.6772236,-95.4247001
+Fairview,Kansas,39.8411112,-95.7280415
+Morrill,Kansas,39.9283346,-95.6919303
+Goff,Kansas,39.6638854,-95.9322154
+Elwood,Kansas,39.7555499,-94.8724661
+Leona,Kansas,39.7872224,-95.3216436
+Glasco,Kansas,39.3566689,-97.841152
+Miltonvale,Kansas,39.3483299,-97.4461408
+Jamestown,Kansas,39.5994495,-97.8611542
+Mayetta,Kansas,39.3388851,-95.7224828
+Netawaka,Kansas,39.6027744,-95.7183173
+Effingham,Kansas,39.5222207,-95.4008084
+Muscotah,Kansas,39.5527772,-95.5216451
+Lancaster,Kansas,39.5727762,-95.3027512
+Kanorado,Kansas,39.3330542,-102.0379596
+Gem,Kansas,39.4277818,-100.8976516
+Menlo,Kansas,39.3569496,-100.7226471
+Oakley,Kansas,39.133341,-100.8637593
+Downs,Kansas,39.4986215,-98.5420098
+Natoma,Kansas,39.1908441,-99.0287006
+Green,Kansas,39.4277759,-97.0019605
+Oak Hill,Kansas,39.2483279,-97.3414139
+Morganville,Kansas,39.4663857,-97.2019703
+Glen Elder,Kansas,39.4986212,-98.3086666
+Morland,Kansas,39.3494489,-100.0756851
+Ogden,Kansas,39.1111086,-96.706117
+Leonardville,Kansas,39.3644416,-96.8589009
+Emmett,Kansas,39.3072183,-96.0561047
+McLouth,Kansas,39.1958333,-95.2083035
+Meriden,Kansas,39.1888874,-95.5697001
+Nortonville,Kansas,39.4166649,-95.3335839
+Easton,Kansas,39.3449988,-95.1158011
+Grandview Plaza,Kansas,39.0291649,-96.7891746
+Milford,Kansas,39.1683299,-96.9125112
+Eskridge,Kansas,38.8588923,-96.1091595
+McFarland,Kansas,39.0527764,-96.2377728
+Grainfield,Kansas,39.1136186,-100.4651386
+Enterprise,Kansas,38.9027781,-97.1169619
+Gorham,Kansas,38.8816784,-99.0231471
+Eudora,Kansas,38.9433372,-95.0985808
+Lecompton,Kansas,39.0444449,-95.3946967
+New Cambria,Kansas,38.8791678,-97.5058645
+Dunlap,Kansas,38.5763988,-96.3658336
+Dwight,Kansas,38.8444474,-96.5933373
+Latimer,Kansas,38.7388946,-96.8455665
+Kanopolis,Kansas,38.7111197,-98.1572769
+Melvern,Kansas,38.5069575,-95.6377619
+Neosho Rapids,Kansas,38.3694601,-95.9919352
+Lane,Kansas,38.4397392,-95.0821916
+Fontana,Kansas,38.4258511,-94.8382949
+Leoti,Kansas,38.479741,-101.3587713
+Ness City,Kansas,38.4527935,-99.9065136
+Galatia,Kansas,38.6416788,-98.9587015
+McCracken,Kansas,38.5805694,-99.5712246
+La Crosse,Kansas,38.5314022,-99.3087154
+Galva,Kansas,38.3819523,-97.5375375
+Marquette,Kansas,38.5555632,-97.8336559
+Moundridge,Kansas,38.203065,-97.5192065
+Inman,Kansas,38.2319537,-97.7733809
+Durham,Kansas,38.4861202,-97.2280808
+Goessel,Kansas,38.2463992,-97.3489233
+Lehigh,Kansas,38.3727872,-97.3030858
+Elmdale,Kansas,38.3736255,-96.6447322
+Matfield Green,Kansas,38.1591843,-96.5605664
+Frederick,Kansas,38.5133432,-98.2683947
+Geneseo,Kansas,38.5161207,-98.1567235
+New Strawn,Kansas,38.2625197,-95.7419311
+Lebo,Kansas,38.4166818,-95.8530441
+LeRoy,Kansas,38.0839164,-95.6344292
+Greeley,Kansas,38.3666861,-95.1269156
+Kincaid,Kansas,38.0841964,-95.1535856
+Mound City,Kansas,38.1428068,-94.8135732
+La Cygne,Kansas,38.3500206,-94.7613476
+Garfield,Kansas,38.0777924,-99.2448316
+Lakin,Kansas,37.9405752,-101.254892
+Jetmore,Kansas,38.0844625,-99.8934619
+North Newton,Kansas,38.0722333,-97.3455918
+Fall River,Kansas,37.6078166,-96.0280426
+Langdon,Kansas,37.8539044,-98.3245146
+Elbing,Kansas,38.0527925,-97.1278103
+Latham,Kansas,37.5361329,-96.6419654
+Leon,Kansas,37.6902964,-96.7822508
+Offerle,Kansas,37.8908512,-99.5578985
+Lewis,Kansas,37.9361268,-99.2526111
+Neosho Falls,Kansas,38.0055869,-95.557206
+Elsmore,Kansas,37.7944858,-95.1502554
+Gas,Kansas,37.9236467,-95.3460916
+Mildred,Kansas,38.0236431,-95.1710867
+Moran,Kansas,37.9161474,-95.1702546
+Fulton,Kansas,38.0100354,-94.7196824
+Ensign,Kansas,37.6527997,-100.2337527
+Montezuma,Kansas,37.5958564,-100.4432047
+Ingalls,Kansas,37.8277995,-100.4545927
+Ford,Kansas,37.6361315,-99.754016
+Eastborough,Kansas,37.6880698,-97.2636551
+Garden Plain,Kansas,37.6583471,-97.6836604
+Goddard,Kansas,37.6597363,-97.5753256
+Mount Hope,Kansas,37.8686224,-97.665047
+Kechi,Kansas,37.7958457,-97.279487
+Iuka,Kansas,37.7291841,-98.7350909
+Johnson City,Kansas,37.5698876,-101.7443105
+Nashville,Kansas,37.4416863,-98.4225773
+Norwich,Kansas,37.4572405,-97.8489433
+New Albany,Kansas,37.5683765,-95.9377613
+Earlton,Kansas,37.5881072,-95.4691472
+Erie,Kansas,37.5681066,-95.2433113
+Galesburg,Kansas,37.4736673,-95.358589
+McCune,Kansas,37.3547791,-95.0166333
+Elk Falls,Kansas,37.3672642,-96.1886038
+Moline,Kansas,37.3603149,-96.3038876
+Geuda Springs,Kansas,37.114194,-97.149207
+Mayfield,Kansas,37.2583549,-97.5447709
+Mulvane,Kansas,37.474464,-97.2439325
+Milan,Kansas,37.2597433,-97.6739404
+Fowler,Kansas,37.3855792,-100.1956968
+Meade,Kansas,37.2855796,-100.3401456
+Englewood,Kansas,37.0383622,-99.9834688
+Minneola,Kansas,37.4433558,-100.0151355
+Medicine Lodge,Kansas,37.2811339,-98.580361
+Isabel,Kansas,37.4666865,-98.550361
+Kiowa,Kansas,37.0172493,-98.4853539
+Elkhart,Kansas,37.0080792,-101.8901664
+Moscow,Kansas,37.3236349,-101.2057164
+Kismet,Kansas,37.2055766,-100.7021002
+Elk City,Kansas,37.2892269,-95.9116515
+Liberty,Kansas,37.1556278,-95.5947005
+Freeport,Kansas,37.1986325,-97.8570009
+Edna,Kansas,37.0597959,-95.3594159
+Mound Valley,Kansas,37.2053457,-95.4049746
+Labette,Kansas,37.2306195,-95.1835788
+Elgin,Kansas,37.0044964,-96.2766608
+Niotaze,Kansas,37.0736771,-96.0135947
+Rushville,Nebraska,42.7183176,-102.4640647
+Randolph,Nebraska,42.3786127,-97.3570005
+Long Pine,Nebraska,42.5363882,-99.7006772
+South Sioux City,Nebraska,42.4738831,-96.4136407
+Osmond,Nebraska,42.3600032,-97.5967282
+Pierce,Nebraska,42.19917,-97.5267247
+Plainview,Nebraska,42.3497266,-97.7920091
+Madison,Nebraska,41.8283401,-97.455048
+Stanton,Nebraska,41.950284,-97.2239336
+Lyons,Nebraska,41.9374929,-96.4772509
+Oshkosh,Nebraska,41.404983,-102.3443564
+Scottsbluff,Nebraska,41.8666341,-103.6671662
+Saint Edward,Nebraska,41.5700122,-97.8658897
+Schuyler,Nebraska,41.4472309,-97.0594786
+Sargent,Nebraska,41.640562,-99.3712162
+Ord,Nebraska,41.6033429,-98.9261987
+Sidney,Nebraska,41.1427623,-102.9779785
+Stromsburg,Nebraska,41.1141811,-97.5989405
+Osceola,Nebraska,41.1797366,-97.5475501
+Saint Paul,Nebraska,41.2147347,-98.4581247
+Loup City,Nebraska,41.275565,-98.9667532
+Omaha,Nebraska,41.2586096,-95.937792
+Ralston,Nebraska,41.2052767,-96.0425166
+Springfield,Nebraska,41.0819432,-96.13446
+Papillion,Nebraska,41.1544433,-96.0422378
+Louisville,Nebraska,40.9977765,-96.1622352
+Plattsmouth,Nebraska,41.0113881,-95.8822312
+Seward,Nebraska,40.906953,-97.0989229
+Lincoln,Nebraska,40.8000011,-96.6669599
+Syracuse,Nebraska,40.6572236,-96.1863975
+Peru,Nebraska,40.4741686,-95.7336054
+Tecumseh,Nebraska,40.3666666,-96.19612
+Red Cloud,Nebraska,40.0889025,-98.5195049
+Superior,Nebraska,40.020847,-98.0700443
+Pawnee City,Nebraska,40.1083334,-96.1544512
+Saint Francis,Kansas,39.7722151,-101.799897
+Mankato,Kansas,39.7872343,-98.2100511
+Randall,Kansas,39.642508,-98.0447687
+Smith Center,Kansas,39.7791786,-98.7850749
+Republic,Kansas,39.9236213,-97.8217096
+Scandia,Kansas,39.794452,-97.7836543
+Linn,Kansas,39.6800019,-97.0841919
+Mahaska,Kansas,39.9875046,-97.3542053
+Palmer,Kansas,39.631945,-97.1403042
+Logan,Kansas,39.6616746,-99.5703854
+Long Island,Kansas,39.9494537,-99.5359389
+Speed,Kansas,39.6772312,-99.4209344
+Prairie View,Kansas,39.8325083,-99.5726073
+Summerfield,Kansas,39.9972231,-96.3502918
+Powhattan,Kansas,39.7616682,-95.6299834
+Reserve,Kansas,39.977225,-95.5619281
+Robinson,Kansas,39.8166687,-95.4105347
+Oneida,Kansas,39.8638876,-95.9391621
+Severance,Kansas,39.7672208,-95.2499751
+Soldier,Kansas,39.5361062,-95.9641595
+Stockton,Kansas,39.4380656,-99.2650967
+Palco,Kansas,39.2522304,-99.5628877
+Plainville,Kansas,39.2347323,-99.2981556
+Rexford,Kansas,39.4716708,-100.7434815
+Portis,Kansas,39.5636219,-98.6934054
+Selden,Kansas,39.5408373,-100.567644
+Longford,Kansas,39.1699957,-97.3314134
+Simpson,Kansas,39.3852814,-97.931432
+Scottsville,Kansas,39.5436162,-97.9530997
+Randolph,Kansas,39.4305534,-96.7600113
+Riley,Kansas,39.2988853,-96.8308436
+Louisville,Kansas,39.250274,-96.3147204
+Olsburg,Kansas,39.4305527,-96.6155635
+Onaga,Kansas,39.4888846,-96.1699986
+Saint George,Kansas,39.1911081,-96.4202773
+Saint Marys,Kansas,39.194164,-96.0711041
+Oskaloosa,Kansas,39.215277,-95.3127498
+Ozawkie,Kansas,39.2333317,-95.4669194
+Perry,Kansas,39.0758335,-95.3933077
+Linwood,Kansas,39.0013921,-95.0391356
+Tescott,Kansas,39.008059,-97.8755983
+Olpe,Kansas,38.2625174,-96.16694
+Reading,Kansas,38.5194564,-95.9586015
+Pomona,Kansas,38.6083436,-95.4516456
+Princeton,Kansas,38.4889038,-95.275252
+Rantoul,Kansas,38.5486246,-95.1002471
+Richmond,Kansas,38.4027955,-95.2538631
+Scott City,Kansas,38.4825192,-100.9070949
+Ransom,Kansas,38.6361254,-99.9337342
+Susank,Kansas,38.6408447,-98.7739711
+Olmitz,Kansas,38.516679,-98.9364797
+Pawnee Rock,Kansas,38.2652911,-98.9809292
+Liebenthal,Kansas,38.6550128,-99.3192707
+Otis,Kansas,38.5347349,-99.0531508
+Rush Center,Kansas,38.4652912,-99.3101052
+Lincolnville,Kansas,38.4933471,-96.9600163
+Lost Springs,Kansas,38.5661225,-96.9664045
+Tampa,Kansas,38.5472314,-97.1530774
+Peabody,Kansas,38.1694596,-97.1066965
+Ramona,Kansas,38.5972316,-97.0619627
+Sylvan Grove,Kansas,39.0094539,-98.394228
+Silver Lake,Kansas,39.104166,-95.8585978
+Rossville,Kansas,39.1361097,-95.9516563
+Maple Hill,Kansas,39.0847215,-96.0280469
+Paxico,Kansas,39.0694432,-96.1663827
+Russell Springs,Kansas,38.913344,-101.1815451
+Sharon Springs,Kansas,38.8977867,-101.7521158
+Schoenchen,Kansas,38.7133459,-99.3323264
+Park,Kansas,39.112507,-100.3587474
+Quinter,Kansas,39.0694514,-100.2323551
+Manchester,Kansas,39.094719,-97.3247462
+Solomon,Kansas,38.9194442,-97.371137
+Lucas,Kansas,39.0561219,-98.5364559
+Luray,Kansas,39.1105665,-98.6889633
+Paradise,Kansas,39.1136222,-98.9184186
+Smolan,Kansas,38.7386158,-97.6844824
+Parker,Kansas,38.3283548,-94.9919123
+Pleasanton,Kansas,38.1778054,-94.7113471
+Prescott,Kansas,38.0636439,-94.6955145
+Rozel,Kansas,38.1958479,-99.4031691
+Syracuse,Kansas,37.9805686,-101.7526718
+Sedgwick,Kansas,37.9166784,-97.422541
+Madison,Kansas,38.1355772,-96.135829
+Severy,Kansas,37.6222547,-96.2280527
+South Hutchinson,Kansas,38.0280671,-97.9403303
+Sylvia,Kansas,37.9577924,-98.4081285
+Partridge,Kansas,37.9672349,-98.0925584
+Plevna,Kansas,37.9722362,-98.3086791
+Pretty Prairie,Kansas,37.7800136,-98.0197792
+Parkerville,Kansas,38.763894,-96.6613952
+Lorraine,Kansas,38.5688989,-98.3167294
+Lyndon,Kansas,38.6100099,-95.684429
+Olivet,Kansas,38.4805694,-95.7516535
+Overbrook,Kansas,38.7805607,-95.5572026
+Quenemo,Kansas,38.5797331,-95.5269256
+Scranton,Kansas,38.7816717,-95.7385956
+Strong City,Kansas,38.397236,-96.5369507
+Little River,Kansas,38.3980652,-98.0119966
+Raymond,Kansas,38.2769561,-98.4159041
+Lone Elm,Kansas,38.0800294,-95.2433104
+Macksville,Kansas,37.959182,-98.9687099
+Stafford,Kansas,37.9622372,-98.6006375
+Radium,Kansas,38.1741804,-98.8934264
+Saint John,Kansas,38.0022371,-98.7600887
+Seward,Kansas,38.1777913,-98.7948107
+Potwin,Kansas,37.9389063,-97.0197557
+Rose Hill,Kansas,37.5583517,-97.1350405
+Savonburg,Kansas,37.7494876,-95.1441446
+Mapleton,Kansas,38.015034,-94.8835775
+Redfield,Kansas,37.836707,-94.8810794
+Spearville,Kansas,37.8500191,-99.7567932
+Maize,Kansas,37.7791787,-97.4672674
+Park City,Kansas,37.8000123,-97.3183762
+Preston,Kansas,37.7589061,-98.553138
+Sawyer,Kansas,37.4972417,-98.6823111
+Manter,Kansas,37.5230727,-101.884896
+Sublette,Kansas,37.4816911,-100.8437736
+Satanta,Kansas,37.4372467,-100.9721109
+Spivey,Kansas,37.4458514,-98.1633992
+Penalosa,Kansas,37.7166835,-98.3197934
+Stark,Kansas,37.6900455,-95.1430326
+Thayer,Kansas,37.4931121,-95.4702575
+Saint Paul,Kansas,37.5189412,-95.1733086
+Longton,Kansas,37.3778244,-96.0808216
+South Haven,Kansas,37.0519704,-97.4053235
+Oxford,Kansas,37.2741908,-97.1689296
+Plains,Kansas,37.2602994,-100.5926524
+Sharon,Kansas,37.2486335,-98.4206316
+Sun City,Kansas,37.3786333,-98.9159328
+Richfield,Kansas,37.2661342,-101.7823886
+Rolla,Kansas,37.1200251,-101.6321057
+Protection,Kansas,37.2014145,-99.4840075
+Roseland,Kansas,37.2811683,-94.8505165
+Peru,Kansas,37.0886713,-96.0947095
+Sedan,Kansas,37.1267196,-96.1869361
+Bristow,Nebraska,42.8419432,-98.5848065
+Butte,Nebraska,42.9113874,-98.8492562
+Anoka,Nebraska,42.9469422,-98.8309221
+Burton,Nebraska,42.9116688,-99.5917793
+Valentine,Nebraska,42.8727833,-100.5509669
+Chambers,Nebraska,42.2050051,-98.7489783
+Center,Nebraska,42.6094469,-97.8767339
+Wakefield,Nebraska,42.2691672,-96.8650419
+Allen,Nebraska,42.4163878,-96.8453182
+Brunswick,Nebraska,42.3377827,-97.9706228
+Clearwater,Nebraska,42.1700064,-98.1884044
+Wayne,Nebraska,42.2305588,-97.0178236
+Carroll,Nebraska,42.2761129,-97.1892171
+Brewster,Nebraska,41.9388904,-99.8648479
+Broadwater,Nebraska,41.5960876,-102.8527033
+Cedar Rapids,Nebraska,41.560013,-98.1445085
+Callaway,Nebraska,41.2919504,-99.9226213
+Anselmo,Nebraska,41.6186139,-99.8651238
+Ansley,Nebraska,41.2877859,-99.3817682
+Arcadia,Nebraska,41.4233426,-99.126204
+Bruno,Nebraska,41.2838989,-96.9586435
+Abie,Nebraska,41.3341756,-96.9489211
+Yutan,Nebraska,41.2450007,-96.3972475
+Cedar Bluffs,Nebraska,41.3969461,-96.6114157
+Ceresco,Nebraska,41.0572232,-96.6447377
+Brule,Nebraska,41.0941591,-101.8879558
+Bushnell,Nebraska,41.2322031,-103.8918913
+Chapman,Nebraska,41.0241795,-98.1592257
+Clarks,Nebraska,41.2152927,-97.8358893
+Valley,Nebraska,41.3127771,-96.3461353
+Weeping Water,Nebraska,40.8700007,-96.1405661
+Cedar Creek,Nebraska,41.0366655,-96.0994583
+Alvo,Nebraska,40.8719438,-96.38751
+York,Nebraska,40.8680673,-97.5919955
+Wood River,Nebraska,40.820569,-98.6000704
+Cairo,Nebraska,41.0011236,-98.6075718
+Alda,Nebraska,40.8711238,-98.4681219
+Amherst,Nebraska,40.8381294565,-99.2669323226
+Waverly,Nebraska,40.9174986,-96.5283425
+Burr,Nebraska,40.5355554,-96.3000112
+Wilber,Nebraska,40.4813926,-96.9605841
+Brock,Nebraska,40.4800008,-95.9594476
+Brownville,Nebraska,40.3977793,-95.6580455
+Wymore,Nebraska,40.1222236,-96.6625231
+Clatonia,Nebraska,40.4652804,-96.8497484
+Adams,Nebraska,40.4594441,-96.5100171
+Campbell,Nebraska,40.2983478,-98.7320163
+Bruning,Nebraska,40.336115,-97.5658775
+Byron,Nebraska,40.0038996,-97.7689313
+Carleton,Nebraska,40.3005604,-97.6786532
+Chester,Nebraska,40.0102854,-97.6183755
+Alexandria,Nebraska,40.2452794,-97.3892076
+Burchard,Nebraska,40.1475004,-96.3502917
+Webber,Kansas,39.935013,-98.0350445
+Vining,Kansas,39.5669429,-97.2953088
+Vermillion,Kansas,39.7194429,-96.2658411
+Waterville,Kansas,39.6911121,-96.7475191
+Willis,Kansas,39.7250036,-95.5058139
+Wetmore,Kansas,39.6333297,-95.8113764
+Troy,Kansas,39.7830511,-95.0899721
+Wathena,Kansas,39.7591606,-94.9496907
+White Cloud,Kansas,39.9763876,-95.2969223
+Whiting,Kansas,39.5897206,-95.612759
+Woodston,Kansas,39.4552881,-99.0956452
+Zurich,Kansas,39.2344536,-99.4381608
+Wakefield,Kansas,39.2133293,-97.0055692
+Tipton,Kansas,39.3430652,-98.4708966
+Wamego,Kansas,39.2019412,-96.3049976
+Westmoreland,Kansas,39.3938853,-96.4136138
+Wheaton,Kansas,39.5022185,-96.3208362
+Valley Falls,Kansas,39.3433316,-95.460253
+Winchester,Kansas,39.3222209,-95.2669155
+Tonganoxie,Kansas,39.109724,-95.0877465
+Willard,Kansas,39.0933327,-95.9419336
+Winona,Kansas,39.0633412,-101.244325
+Wallace,Kansas,38.9113982,-101.5915563
+Victoria,Kansas,38.8527896,-99.1475967
+Woodbine,Kansas,38.7961151,-96.9586243
+Waldo,Kansas,39.1183443,-98.7981352
+WaKeeney,Kansas,39.0250082,-99.8795656
+White City,Kansas,38.7955599,-96.7358413
+Wilsey,Kansas,38.6361197,-96.6752855
+Wilson,Kansas,38.8250106,-98.4753437
+Wellsville,Kansas,38.7183422,-95.0816354
+Williamsburg,Kansas,38.4805697,-95.4669245
+Tribune,Kansas,38.4697378,-101.7526723
+Utica,Kansas,38.6439032,-100.1698521
+Timken,Kansas,38.4736242,-99.1781558
+Windom,Kansas,38.383898,-97.9100492
+Waverly,Kansas,38.3939053,-95.6030394
+Westphalia,Kansas,38.1819684,-95.4902605
+Walton,Kansas,38.1177891,-97.2567001
+Virgil,Kansas,37.9808617,-96.01027
+Turon,Kansas,37.8072386,-98.4267424
+Willowbrook,Kansas,38.1019555,-97.9919979
+Towanda,Kansas,37.797517,-96.999758
+Whitewater,Kansas,37.9647365,-97.1475347
+Toronto,Kansas,37.7989253,-95.9491562
+Uniontown,Kansas,37.8472619,-94.9752495
+Valley Center,Kansas,37.8347342,-97.3733759
+Viola,Kansas,37.4830742,-97.6439386
+Ulysses,Kansas,37.5814095,-101.3551696
+Zenda,Kansas,37.442241,-98.2820154
+Walnut,Kansas,37.6014373,-95.0780294
+Udall,Kansas,37.3875221,-97.1142063
+Tyro,Kansas,37.0378531,-95.8213686
+Waldron,Kansas,37.002248,-98.1825666
+Wilmore,Kansas,37.3358562,-99.2101104
+Treece,Kansas,37.0004851,-94.8436929
+West Mineral,Kansas,37.2842249,-94.9230182
+Harrison,Nebraska,42.6871883,-103.8827115
+Hay Springs,Nebraska,42.6838618,-102.6899007
+Clinton,Nebraska,42.7599927,-102.3493352
+Whitney,Nebraska,42.7827483,-103.2560282
+Gross,Nebraska,42.94583,-98.5723057
+Lynch,Nebraska,42.8302762,-98.4661932
+Monowi,Nebraska,42.8286091,-98.3298021
+Naper,Nebraska,42.9636101,-99.0967626
+Spencer,Nebraska,42.8738877,-98.7014753
+Springview,Nebraska,42.8244444,-99.7490055
+Kilgore,Nebraska,42.9383394,-100.9557047
+Cody,Nebraska,42.9358404,-101.2445962
+Crookston,Nebraska,42.9283394,-100.7523631
+Merriman,Nebraska,42.9197225,-101.7007033
+Nenzel,Nebraska,42.9277842,-101.1029289
+Wood Lake,Nebraska,42.6386118,-100.2381825
+Inman,Nebraska,42.3819482,-98.5281388
+Emmet,Nebraska,42.4755589,-98.8062032
+Ewing,Nebraska,42.2577833,-98.3464655
+Page,Nebraska,42.4008369,-98.4173022
+Stuart,Nebraska,42.5991677,-99.1426014
+Bazile Mills,Nebraska,42.5127813,-97.9050675
+Santee,Nebraska,42.8411104,-97.8509008
+Niobrara,Nebraska,42.7547231,-98.0286823
+Winnetoon,Nebraska,42.5125035,-97.9609016
+Verdel,Nebraska,42.8111096,-98.1925768
+Verdigre,Nebraska,42.5969469,-98.0336814
+Wausa,Nebraska,42.4994468,-97.542007
+Belden,Nebraska,42.4130563,-97.2067186
+Coleridge,Nebraska,42.5061111,-97.2036635
+Fordyce,Nebraska,42.6986102,-97.3622796
+Saint Helena,Nebraska,42.8097196,-97.2489418
+Magnet,Nebraska,42.4550021,-97.4700604
+Obert,Nebraska,42.6897205,-97.0281016
+Wynot,Nebraska,42.7402759,-97.169217
+Johnstown,Nebraska,42.5716664,-100.0581809
+Newport,Nebraska,42.6013894,-99.3273303
+Concord,Nebraska,42.3836121,-96.9883785
+Dixon,Nebraska,42.4161117,-96.9972675
+Emerson,Nebraska,42.2786092,-96.7267048
+Martinsburg,Nebraska,42.5083314,-96.8308729
+Maskell,Nebraska,42.6899982,-96.9825446
+Newcastle,Nebraska,42.6513871,-96.8736527
+Waterbury,Nebraska,42.4577753,-96.7347589
+Jackson,Nebraska,42.4486067,-96.5647556
+Homer,Nebraska,42.3216611,-96.4894782
+Hubbard,Nebraska,42.3866626,-96.5894792
+Hadar,Nebraska,42.1050038,-97.449221
+Foster,Nebraska,42.2738929,-97.6645062
+McLean,Nebraska,42.3855579,-97.4686705
+Hemingford,Nebraska,42.3216288,-103.0729757
+Royal,Nebraska,42.332227,-98.1259044
+Oakdale,Nebraska,42.0697291,-97.9692312
+Orchard,Nebraska,42.3355602,-98.242852
+Hoskins,Nebraska,42.1122261,-97.3061614
+Winside,Nebraska,42.176392,-97.1750483
+Sholes,Nebraska,42.3327792,-97.2944982
+Rosalie,Nebraska,42.0563826,-96.5125319
+Pender,Nebraska,42.1141648,-96.7072585
+Winnebago,Nebraska,42.2358272,-96.4725338
+Thurston,Nebraska,42.17722,-96.7008704
+Walthill,Nebraska,42.1483269,-96.4883663
+Hyannis,Nebraska,42.0005407,-101.7618438
+Mullen,Nebraska,42.0427753,-101.0426593
+Bancroft,Nebraska,42.0127727,-96.5728101
+Beemer,Nebraska,41.930001,-96.8117024
+Meadow Grove,Nebraska,42.028895,-97.733948
+Pilger,Nebraska,42.0086158,-97.0539311
+Halsey,Nebraska,41.9033332,-100.2690244
+Seneca,Nebraska,42.0433311,-100.8329274
+Thedford,Nebraska,41.978332,-100.5762518
+Bartlett,Nebraska,41.8852859,-98.5523003
+Ericson,Nebraska,41.7800087,-98.6773029
+Dunning,Nebraska,41.8286113,-100.1045775
+Taylor,Nebraska,41.7702829,-99.3787184
+Craig,Nebraska,41.7855467,-96.3639109
+Decatur,Nebraska,42.0074879,-96.2497439
+Lewellen,Nebraska,41.3313749,-102.1437951
+Henry,Nebraska,41.9985752,-104.0474487
+Lyman,Nebraska,41.9171885,-104.0391159
+McGrew,Nebraska,41.7466364,-103.4182717
+Melbeta,Nebraska,41.7816356,-103.5177186
+Morrill,Nebraska,41.9632982,-103.9263362
+Terrytown,Nebraska,41.8474678,-103.6616105
+Primrose,Nebraska,41.6230681,-98.2381225
+Petersburg,Nebraska,41.8533427,-98.0786758
+Leigh,Nebraska,41.7052868,-97.2380953
+Howells,Nebraska,41.7250059,-97.0028133
+Richland,Nebraska,41.4355664,-97.2125375
+Rogers,Nebraska,41.465284,-96.9150314
+Lindsay,Nebraska,41.7000097,-97.6939411
+Cornlea,Nebraska,41.6800092,-97.5664373
+Creston,Nebraska,41.7066754,-97.362543
+Duncan,Nebraska,41.3894574,-97.4947685
+Monroe,Nebraska,41.4741792,-97.5994926
+Platte Center,Nebraska,41.5375111,-97.4883783
+Tarnov,Nebraska,41.6158431,-97.5022682
+Inglewood,Nebraska,41.4163886,-96.5014142
+Dodge,Nebraska,41.7211147,-96.8828111
+Nickerson,Nebraska,41.534442,-96.470302
+Winslow,Nebraska,41.6091635,-96.5044699
+Snyder,Nebraska,41.7038909,-96.7886426
+Uehling,Nebraska,41.7341615,-96.505026
+Arthur,Nebraska,41.5716538,-101.691565
+Wolbach,Nebraska,41.3969577,-98.3942356
+Scotia,Nebraska,41.4664006,-98.7031344
+Spalding,Nebraska,41.6889002,-98.363404
+Arnold,Nebraska,41.4225018,-100.1934649
+Berwyn,Nebraska,41.3511185,-99.4995515
+Comstock,Nebraska,41.5565728,-99.2407465
+Mason City,Nebraska,41.2230641,-99.3003753
+Merna,Nebraska,41.483894,-99.7601181
+Oconto,Nebraska,41.1411186,-99.7631704
+Gandy,Nebraska,41.4697205,-100.4584735
+Stapleton,Nebraska,41.4802754,-100.5129196
+Elyria,Nebraska,41.6808417,-99.0062026
+North Loup,Nebraska,41.4952891,-98.773137
+Arlington,Nebraska,41.4524974,-96.3511329
+Kennard,Nebraska,41.4730512,-96.2033513
+Herman,Nebraska,41.6733239,-96.215017
+Washington,Nebraska,41.3974968,-96.2080754
+Belgrade,Nebraska,41.4730692,-98.0683949
+Bellwood,Nebraska,41.3427903,-97.2383727
+Brainard,Nebraska,41.1838999,-97.0039204
+Linwood,Nebraska,41.4122295,-96.9314206
+Dwight,Nebraska,41.0836209,-97.0200294
+Garrison,Nebraska,41.1772348,-97.1672602
+Rising City,Nebraska,41.1994582,-97.2961538
+Octavia,Nebraska,41.3480661,-97.0589235
+Surprise,Nebraska,41.1086243,-97.3111549
+Ulysses,Nebraska,41.0719563,-97.201984
+Ithaca,Nebraska,41.1627787,-96.5397423
+Leshara,Nebraska,41.3297222,-96.4283583
+Colon,Nebraska,41.2975026,-96.6058604
+Prague,Nebraska,41.3102835,-96.8083629
+Malmo,Nebraska,41.2661152,-96.7222503
+Mead,Nebraska,41.2277792,-96.4878023
+Memphis,Nebraska,41.0949989,-96.431404
+Morse Bluff,Nebraska,41.4319484,-96.7664179
+Valparaiso,Nebraska,41.0813941,-96.8316893
+Weston,Nebraska,41.1941707,-96.7428032
+Gurley,Nebraska,41.3222034,-102.9707586
+Lodgepole,Nebraska,41.1497086,-102.6363041
+Dalton,Nebraska,41.4072018,-102.9738152
+Potter,Nebraska,41.2174813,-103.3157655
+Paxton,Nebraska,41.1241604,-101.3562761
+Brady,Nebraska,41.0222267,-100.3676328
+Hershey,Nebraska,41.1586079,-101.002652
+Maxwell,Nebraska,41.0788913,-100.5248608
+Sutherland,Nebraska,41.1569398,-101.1262683
+Wallace,Nebraska,40.8383355,-101.1648782
+Wellfleet,Nebraska,40.7522303,-100.7298694
+Polk,Nebraska,41.0766813,-97.783944
+Shelby,Nebraska,41.1922363,-97.4253245
+Dix,Nebraska,41.2352583,-103.4863254
+Palmer,Nebraska,41.2222351,-98.2572855
+Silver Creek,Nebraska,41.3089032,-97.6578294
+Boelus (Howard City),Nebraska,41.0752201,-98.7155124
+Cotesfield,Nebraska,41.3572342,-98.6325756
+Cushing,Nebraska,41.2972351,-98.3684007
+Dannebrog,Nebraska,41.1183456,-98.5459042
+Elba,Nebraska,41.2855679,-98.5678508
+Farwell,Nebraska,41.2155676,-98.6281299
+Ashton,Nebraska,41.2480665,-98.7942467
+Litchfield,Nebraska,41.1575093,-99.1556476
+Hazard,Nebraska,41.0905657,-99.0792558
+Rockville,Nebraska,41.118345,-98.8317472
+Boys Town,Nebraska,41.2611099,-96.1319649
+Waterloo,Nebraska,41.2869434,-96.2855797
+Big Springs,Nebraska,41.0613809,-102.074349
+Hampton,Nebraska,40.8789014,-97.8858867
+Hordville,Nebraska,41.07557,-97.8853342
+Giltner,Nebraska,40.7739007,-98.1536672
+Marquette,Nebraska,41.0030693,-98.0095019
+Phillips,Nebraska,40.8972344,-98.2147807
+Stockham,Nebraska,40.7161219,-97.9397727
+Avoca,Nebraska,40.796113,-96.1175089
+Greenwood,Nebraska,40.9627758,-96.4411197
+Eagle,Nebraska,40.8166665,-96.4302879
+Elmwood,Nebraska,40.8416672,-96.2936215
+Manley,Nebraska,40.9197221,-96.165845
+Murdock,Nebraska,40.925555,-96.2800116
+Murray,Nebraska,40.915278,-95.9302863
+Nehawka,Nebraska,40.8294461,-95.9916752
+South Bend,Nebraska,41.0016652,-96.2452913
+Union,Nebraska,40.8133348,-95.9227839
+Benedict,Nebraska,41.0058474,-97.6064412
+Bradshaw,Nebraska,40.8839016,-97.7469963
+Gresham,Nebraska,41.0283465,-97.4022694
+Lushton,Nebraska,40.7247325,-97.7250484
+McCool Junction,Nebraska,40.7441762,-97.5975499
+Thayer,Nebraska,40.9686242,-97.4972726
+Waco,Nebraska,40.8969559,-97.4633831
+Doniphan,Nebraska,40.7719572,-98.3695069
+Eddyville,Nebraska,41.0113969,-99.6242755
+Farnam,Nebraska,40.7058411,-100.2148552
+Overton,Nebraska,40.7386198,-99.5376053
+Sumner,Nebraska,40.9500085,-99.5053822
+Elm Creek,Nebraska,40.7194545,-99.3720431
+Pleasanton,Nebraska,40.967511,-99.0864775
+Riverdale,Nebraska,40.7844559,-99.1623131
+Miller,Nebraska,40.927787,-99.3931555
+Shelton,Nebraska,40.7791808,-98.7309078
+Beaver Crossing,Nebraska,40.7786191,-97.2822684
+Bee,Nebraska,41.0063982,-97.057252
+Goehner,Nebraska,40.8322307,-97.2211541
+Cordova,Nebraska,40.7172296,-97.3531033
+Garland,Nebraska,40.9447298,-96.9855818
+Pleasant Dale,Nebraska,40.7919495,-96.9322487
+Staplehurst,Nebraska,40.9750104,-97.1725378
+Utica,Nebraska,40.8961217,-97.3453243
+Bennet,Nebraska,40.6799999,-96.5064018
+Hallam,Nebraska,40.5377803,-96.7872462
+Davey,Nebraska,40.9875007,-96.666124
+Denton,Nebraska,40.7377811,-96.8444676
+Firth,Nebraska,40.5325007,-96.60613
+Raymond,Nebraska,40.9569475,-96.7827954
+Roca,Nebraska,40.6575011,-96.6580734
+Malcolm,Nebraska,40.9066713,-96.8627994
+Panama,Nebraska,40.5977776,-96.5108481
+Sprague,Nebraska,40.6258352,-96.7447432
+Elsie,Nebraska,40.847498,-101.3884967
+Madrid,Nebraska,40.8499965,-101.5435011
+Venango,Nebraska,40.7636078,-102.0407383
+Lorton,Nebraska,40.595557,-96.0244507
+Douglas,Nebraska,40.5955557,-96.3875124
+Dunbar,Nebraska,40.6680577,-96.0300068
+Otoe,Nebraska,40.7236135,-96.1169524
+Palmyra,Nebraska,40.7044451,-96.3875109
+Talmage,Nebraska,40.5305564,-96.0216723
+Unadilla,Nebraska,40.6833346,-96.2697318
+Eustis,Nebraska,40.6625066,-100.0295705
+Maywood,Nebraska,40.6575085,-100.6220914
+Moorefield,Nebraska,40.6900081,-100.3993066
+Stockville,Nebraska,40.5327852,-100.3834757
+Ayr,Nebraska,40.4375138,-98.4403373
+Juniata,Nebraska,40.590014,-98.5061754
+Kenesaw,Nebraska,40.6211255,-98.6575705
+Holstein,Nebraska,40.4652924,-98.6520134
+Prosser,Nebraska,40.6872361,-98.576735
+Roseland,Nebraska,40.4702922,-98.5592316
+Elwood,Nebraska,40.590284,-99.8609545
+Smithfield,Nebraska,40.5725064,-99.7423391
+Hamlet,Nebraska,40.3849973,-101.2346069
+Hayes Center,Nebraska,40.5108385,-101.0196016
+Lamar,Nebraska,40.5719404,-101.9785158
+Wauneta,Nebraska,40.4183299,-101.3712753
+Grafton,Nebraska,40.6280649,-97.7139366
+Exeter,Nebraska,40.6441737,-97.4503271
+Fairmont,Nebraska,40.6369525,-97.585327
+Milligan,Nebraska,40.5002823,-97.3875472
+Ohiowa,Nebraska,40.4144482,-97.4528239
+Shickley,Nebraska,40.4166737,-97.7225446
+Strang,Nebraska,40.4155608,-97.5869905
+De Witt,Nebraska,40.3936136,-96.922806
+Dorchester,Nebraska,40.6472277,-97.1133703
+Swanton,Nebraska,40.3786139,-97.0797558
+Tobias,Nebraska,40.4180589,-97.3361553
+Western,Nebraska,40.3936138,-97.1980952
+Deweese,Nebraska,40.3547334,-98.1386573
+Glenvil,Nebraska,40.5041799,-98.2531079
+Saronville,Nebraska,40.6011218,-97.9383817
+Ong,Nebraska,40.3986192,-97.8358772
+Trumbull,Nebraska,40.679457,-98.2733907
+Axtell,Nebraska,40.4783461,-99.1267558
+Heartwell,Nebraska,40.5705702,-98.787853
+Norman,Nebraska,40.4797369,-98.7922971
+Wilcox,Nebraska,40.3650122,-99.1700909
+Atlanta,Nebraska,40.3666766,-99.4731595
+Bertrand,Nebraska,40.5266744,-99.6337228
+Loomis,Nebraska,40.4783424,-99.50705
+Funk,Nebraska,40.4625119,-99.249261
+Johnson,Nebraska,40.4108337,-95.9980593
+Julian,Nebraska,40.5227791,-95.867778
+Nemaha,Nebraska,40.3383347,-95.6730453
+Barneston,Nebraska,40.0483352,-96.5769654
+Liberty,Nebraska,40.0847234,-96.4827962
+Cortland,Nebraska,40.5055573,-96.7058558
+Filley,Nebraska,40.2861111,-96.5352971
+Odell,Nebraska,40.0500028,-96.8033594
+Pickrell,Nebraska,40.378612,-96.7286354
+Virginia,Nebraska,40.2458333,-96.496963
+Cook,Nebraska,40.5097222,-96.1636195
+Crab Orchard,Nebraska,40.3349998,-96.4216822
+Elk Creek,Nebraska,40.2861112,-96.129451
+Sterling,Nebraska,40.4591663,-96.3775136
+Bladen,Nebraska,40.3222362,-98.594788
+Guide Rock,Nebraska,40.0747357,-98.3306068
+Cowles,Nebraska,40.17168,-98.445613
+Bloomington,Nebraska,40.0941794,-99.0370287
+Hildreth,Nebraska,40.337235,-99.0436967
+Riverton,Nebraska,40.0894585,-98.7589619
+Naponee,Nebraska,40.0766788,-99.1414774
+Upland,Nebraska,40.3186247,-98.9011905
+Hardy,Nebraska,40.0089018,-97.9269874
+Lawrence,Nebraska,40.2919567,-98.2600483
+Ruskin,Nebraska,40.1438979,-97.8692079
+Nora,Nebraska,40.1616768,-97.9703189
+Oak,Nebraska,40.2369518,-97.9033736
+Haigler,Nebraska,40.0138799,-101.9393485
+Hendley,Nebraska,40.1302843,-99.9698492
+Holbrook,Nebraska,40.3047287,-100.010129
+Edison,Nebraska,40.2772297,-99.7770633
+Oxford,Nebraska,40.2483421,-99.633445
+Wilsonville,Nebraska,40.1119506,-100.107078
+Belvidere,Nebraska,40.2519471,-97.5578197
+Hubbell,Nebraska,40.0091719,-97.4975419
+Davenport,Nebraska,40.3127844,-97.8119862
+Gilead,Nebraska,40.1463919,-97.4130963
+Harbine,Nebraska,40.1922243,-96.9725297
+Jansen,Nebraska,40.18528,-97.083644
+Daykin,Nebraska,40.3222242,-97.2986525
+Diller,Nebraska,40.1094471,-96.9350288
+Endicott,Nebraska,40.0833366,-97.0983663
+Plymouth,Nebraska,40.3030578,-96.9889187
+Reynolds,Nebraska,40.0597261,-97.3355944
+Steele City,Nebraska,40.0377816,-97.0247529
+Bartley,Nebraska,40.2491727,-100.3120875
+Lebanon,Nebraska,40.0505614,-100.276252
+Danbury,Nebraska,40.0394503,-100.4043111
+Culbertson,Nebraska,40.2297222,-100.838491
+Palisade,Nebraska,40.3491653,-101.1076608
+Stratton,Nebraska,40.1480519,-101.2268291
+Trenton,Nebraska,40.175554,-101.0129379
+Huntley,Nebraska,40.2100114,-99.2923179
+Ragan,Nebraska,40.3102892,-99.2898181
+Republican City,Nebraska,40.0997339,-99.2203698
+Orleans,Nebraska,40.129177,-99.4553802
+Stamford,Nebraska,40.1330647,-99.5928867
+Lewiston,Nebraska,40.2433333,-96.4036266
+Du Bois,Nebraska,40.0347221,-96.0483352
+Steinauer,Nebraska,40.2077778,-96.2341767
+Table Rock,Nebraska,40.1783333,-96.0966714
+Barada,Nebraska,40.2186112,-95.5777628
+Dawson,Nebraska,40.1311123,-95.8305486
+Preston,Nebraska,40.0344469,-95.5172051
+Rulo,Nebraska,40.0519451,-95.4269253
+Salem,Nebraska,40.0755572,-95.7208212
+Shubert,Nebraska,40.23639,-95.6822109
+Stella,Nebraska,40.2330574,-95.7733254
+Verdon,Nebraska,40.1483349,-95.7127664
+Atwood,Colorado,40.5477619,-103.2696575
+Laporte,Colorado,40.6263711,-105.1377578
+Allenspark,Colorado,40.1944294,-105.5255549
+Eldora,Colorado,39.9485981,-105.5638886
+Eldorado Springs,Colorado,39.9324862,-105.2769348
+Gold Hill,Colorado,40.063337,-105.409607
+Battlement Mesa,Colorado,39.441367,-108.0250738
+Edwards,Colorado,39.644986,-106.5942
+El Jebel,Colorado,39.3949838,-107.0903259
+Keystone,Colorado,39.5994311,-105.9872386
+Aspen Park,Colorado,39.539155,-105.2947148
+Evergreen,Colorado,39.6333213,-105.3172146
+Indian Hills,Colorado,39.6166546,-105.2372124
+Kittredge,Colorado,39.6547101,-105.2997139
+Byers,Colorado,39.7113708,-104.2277358
+Louviers,Colorado,39.4777665,-105.0072061
+Franktown,Colorado,39.3913788,-104.752753
+Clifton,Colorado,39.0919256,-108.4489784
+Fruitvale,Colorado,39.081648,-108.4967579
+Black Forest,Colorado,39.0130484,-104.7008083
+Colorado City,Colorado,37.9452861,-104.8352628
+Avondale,Colorado,38.2375025,-104.3510792
+Fort Garland,Colorado,37.4288974,-105.4338999
+Arboles,Colorado,37.0280607,-107.4192149
+Dacono,Colorado,40.0847062,-104.9394216
+Craig,Colorado,40.5152491,-107.5464541
+Padroni,Colorado,40.7777652,-103.1727038
+Red Feather Lakes,Colorado,40.802481,-105.5916629
+Brush,Colorado,40.2588686,-103.6238367
+Tabernash,Colorado,39.9935977,-105.8430661
+Niwot,Colorado,40.103874,-105.1708193
+Boulder,Colorado,40.0149856,-105.2705456
+Broomfield,Colorado,39.9205411,-105.0866504
+Brighton,Colorado,39.9852617,-104.8205283
+Commerce City,Colorado,39.8083196,-104.9338675
+Central City,Colorado,39.8019322,-105.5141639
+Black Hawk,Colorado,39.7969322,-105.4938853
+Arvada,Colorado,39.8027644,-105.0874842
+Denver,Colorado,39.7391536,-104.9847034
+Idaho Springs,Colorado,39.7424881,-105.5136082
+Centennial,Colorado,39.579155,-104.8769227
+Cherry Hills Village,Colorado,39.6416544,-104.9594253
+Aurora,Colorado,39.7294319,-104.8319195
+Strasburg,Colorado,39.7383163,-104.3232925
+Burlington,Colorado,39.3061082,-102.2693563
+Sedalia,Colorado,39.4369336,-104.9597046
+Westcreek,Colorado,39.1524911,-105.1636015
+Orchard Mesa,Colorado,39.0430375,-108.5523153
+Redlands,Colorado,39.0788705,-108.6356516
+Aspen,Colorado,39.1910983,-106.8175387
+Delta,Colorado,38.7422062,-108.0689582
+Cripple Creek,Colorado,38.7466555,-105.1783149
+Security,Colorado,38.7485185,-104.7138795
+Colorado Springs,Colorado,38.8338816,-104.8213634
+Lincoln Park,Colorado,38.4291649,-105.2199896
+Penrose,Colorado,38.4250001,-105.0227624
+Cañon City,Colorado,38.440985,-105.242447
+Pueblo West,Colorado,38.3500016,-104.7227546
+Salt Creek,Colorado,38.238385,-104.587134
+Alamosa,Colorado,37.4694491,-105.8700215
+Towaoc,Colorado,37.2044387,-108.7295415
+Cortez,Colorado,37.3488827,-108.5859265
+Durango,Colorado,37.27528,-107.8800667
+Evans,Colorado,40.3763701,-104.6921874
+Fort Lupton,Colorado,40.0847055,-104.8130275
+Greeley,Colorado,40.4233142,-104.7091322
+Ault,Colorado,40.5824804,-104.7319112
+Fort Collins,Colorado,40.5852602,-105.084423
+Loveland,Colorado,40.3977612,-105.0749801
+Berthoud,Colorado,40.3083174,-105.0810924
+Holyoke,Colorado,40.5844369,-102.3024103
+Fort Morgan,Colorado,40.2502582,-103.799951
+Longmont,Colorado,40.1672069,-105.1019275
+Louisville,Colorado,39.977763,-105.1319296
+Lafayette,Colorado,39.9935959,-105.0897058
+Glenwood Springs,Colorado,39.5505376,-107.3247762
+Rifle,Colorado,39.5347023,-107.7831198
+Northglenn,Colorado,39.885541,-104.9872026
+Bennett,Colorado,39.7588736,-104.427461
+Avon,Colorado,39.6313749,-106.5222541
+Basalt,Colorado,39.3688731,-107.0328242
+Edgewater,Colorado,39.7530425,-105.0641503
+Golden,Colorado,39.755543,-105.2210997
+Lakewood,Colorado,39.7047095,-105.0813734
+Glendale,Colorado,39.7036402,-104.9351229
+Englewood,Colorado,39.6477653,-104.9877597
+Greenwood Village,Colorado,39.6172101,-104.9508141
+Littleton,Colorado,39.613321,-105.0166498
+Bethune,Colorado,39.3041624,-102.4246395
+Lone Tree,Colorado,39.531381,-104.861962
+Arriba,Colorado,39.2860997,-103.2754955
+Leadville,Colorado,39.2508229,-106.2925238
+Fruita,Colorado,39.1588696,-108.7289882
+Grand Junction,Colorado,39.0638705,-108.5506486
+Gunnison,Colorado,38.5458246,-106.9253207
+Fountain,Colorado,38.682219,-104.7008056
+Manitou Springs,Colorado,38.8597127,-104.9171989
+Florence,Colorado,38.3902777,-105.1185988
+Montrose,Colorado,38.4783198,-107.8761738
+Pueblo,Colorado,38.2544472,-104.609141
+Ouray,Colorado,38.0227716,-107.6714487
+Lamar,Colorado,38.0872307,-102.6207496
+Las Animas,Colorado,38.0666735,-103.222708
+Rocky Ford,Colorado,38.052508,-103.7202274
+La Junta,Colorado,37.9850091,-103.5438321
+Monte Vista,Colorado,37.5791696,-106.1480843
+Bayfield,Colorado,37.2255593,-107.5981123
+Eaton,Colorado,40.5302582,-104.7113542
+Platteville,Colorado,40.2149829,-104.8227494
+Raymer,Colorado,40.6080418,-103.8424501
+Erie,Colorado,40.0502623,-105.0499817
+Firestone,Colorado,40.1124839,-104.9366436
+Frederick,Colorado,40.0991506,-104.9371993
+Garden City,Colorado,40.39387,-104.6894093
+Gilcrest,Colorado,40.2819266,-104.7777472
+Grover,Colorado,40.8713729,-104.2252275
+Hudson,Colorado,40.0735941,-104.6430199
+Johnstown,Colorado,40.3369272,-104.9121967
+Keenesburg,Colorado,40.1083158,-104.5199585
+Kersey,Colorado,40.387481,-104.5616256
+La Salle,Colorado,40.3488703,-104.7019102
+Lochbuie,Colorado,40.0072056,-104.7160792
+Steamboat Springs,Colorado,40.4849769,-106.8317158
+Hayden,Colorado,40.495287,-107.257288
+Dinosaur,Colorado,40.243578,-109.0145613
+Sterling,Colorado,40.6255415,-103.207709
+Crook,Colorado,40.8588799,-102.8010264
+Fleming,Colorado,40.6799914,-102.8393627
+Iliff,Colorado,40.759156,-103.0665894
+Julesburg,Colorado,40.9883258,-102.2643519
+Estes Park,Colorado,40.3772059,-105.5216651
+Haxtun,Colorado,40.6411022,-102.6268584
+Hillrose,Colorado,40.3258129,-103.521889
+Log Lane Village,Colorado,40.2705364,-103.8296732
+Fraser,Colorado,39.9449868,-105.8172316
+Granby,Colorado,40.086097,-105.9394597
+Grand Lake,Colorado,40.2522073,-105.8230671
+Hot Sulphur Springs,Colorado,40.0730411,-106.1027991
+Kremmling,Colorado,40.0588744,-106.3889199
+Wray,Colorado,40.0758231,-102.2232495
+Yuma,Colorado,40.1222084,-102.7252096
+Eckley,Colorado,40.1138772,-102.4907576
+Akron,Colorado,40.1605373,-103.2143843
+Jamestown,Colorado,40.1155412,-105.3886051
+Rangely,Colorado,40.0874759,-108.8048292
+Thornton,Colorado,39.8680412,-104.9719243
+Westminster,Colorado,39.8366528,-105.0372046
+Eagle,Colorado,39.6552635,-106.8286507
+Red Cliff,Colorado,39.5122083,-106.3680837
+Gypsum,Colorado,39.6469295,-106.9517109
+Blue River,Colorado,39.4297098,-106.0439074
+Breckenridge,Colorado,39.4816537,-106.0383518
+Dillon,Colorado,39.6302643,-106.0433518
+Frisco,Colorado,39.5744309,-106.0975204
+Wheat Ridge,Colorado,39.766098,-105.0772063
+Empire,Colorado,39.7613763,-105.6844479
+Georgetown,Colorado,39.7060984,-105.6975041
+Bow Mar,Colorado,39.628321,-105.0499841
+Sheridan,Colorado,39.6469319,-105.025261
+Deer Trail,Colorado,39.6149821,-104.0444033
+Foxfield,Colorado,39.5916552,-104.7924749
+Flagler,Colorado,39.2930463,-103.0671582
+Larkspur,Colorado,39.2286021,-104.8872031
+Elizabeth,Colorado,39.3602662,-104.596915
+Kiowa,Colorado,39.3472095,-104.4644112
+Genoa,Colorado,39.2783208,-103.5002239
+Hugo,Colorado,39.1361004,-103.4699447
+Limon,Colorado,39.2638762,-103.6921737
+Alma,Colorado,39.2838783,-106.0627967
+Fairplay,Colorado,39.2247126,-106.0019618
+De Beque,Colorado,39.3344233,-108.2150816
+Crested Butte,Colorado,38.8697146,-106.9878232
+Crawford,Colorado,38.7038767,-107.6089466
+Hotchkiss,Colorado,38.799707,-107.7195032
+Victor,Colorado,38.7099896,-105.1399807
+Woodland Park,Colorado,38.9938808,-105.0569301
+Ramah,Colorado,39.1216554,-104.165794
+Green Mountain Falls,Colorado,38.9349905,-105.0169263
+Buena Vista,Colorado,38.8422178,-106.1311288
+Salida,Colorado,38.5347193,-105.9989022
+Poncha Springs,Colorado,38.5127752,-106.0772384
+Kit Carson,Colorado,38.7611129,-102.7893667
+Brookside,Colorado,38.4152765,-105.1919336
+Rockvale,Colorado,38.3697222,-105.1638889
+Eads,Colorado,38.4805615,-102.7818629
+Haswell,Colorado,38.4522255,-103.162984
+Boone,Colorado,38.248613,-104.2569104
+Rye,Colorado,37.9236194,-104.9302662
+Crowley,Colorado,38.1930607,-103.8560646
+Bonanza,Colorado,38.2947216,-106.1422425
+Crestone,Colorado,37.9963881,-105.6997332
+Saguache,Colorado,38.0875,-106.1419671
+Ridgway,Colorado,38.1527685,-107.7617263
+Granada,Colorado,38.0638982,-102.3104674
+Hartman,Colorado,38.1202879,-102.2199104
+Holly,Colorado,38.0522337,-102.122685
+Fowler,Colorado,38.1291721,-104.0232934
+Lake City,Colorado,38.0299967,-107.3153335
+Walsenburg,Colorado,37.6241793,-104.7802645
+La Veta,Colorado,37.5050118,-105.0077747
+Creede,Colorado,37.8491662,-106.9264345
+Dove Creek,Colorado,37.7661,-108.9059393
+Rico,Colorado,37.6927729,-108.0303502
+Del Norte,Colorado,37.6788919,-106.3533684
+Branson,Colorado,37.0175227,-103.8844083
+Trinidad,Colorado,37.1694632,-104.5005407
+Aguilar,Colorado,37.4027931,-104.6533188
+Kim,Colorado,37.2466855,-103.3521611
+Hooper,Colorado,37.7427776,-105.8752987
+Blanca,Colorado,37.4380633,-105.515846
+Pritchett,Colorado,37.3702934,-102.8596463
+Dolores,Colorado,37.4738818,-108.5045356
+Ignacio,Colorado,37.1150037,-107.633113
+Antonito,Colorado,37.079179,-106.0086329
+Romeo,Colorado,37.1722327,-105.9853004
+La Jara,Colorado,37.2750084,-105.960301
+Mead,Colorado,40.2333174,-104.99859
+Milliken,Colorado,40.3294268,-104.85525
+Nunn,Colorado,40.7035917,-104.7808024
+Pierce,Colorado,40.635536,-104.7552458
+Severance,Colorado,40.5241479,-104.8510819
+Windsor,Colorado,40.4774818,-104.9013617
+Oak Creek,Colorado,40.2749806,-106.9583829
+Yampa,Colorado,40.1524837,-106.9086582
+Walden,Colorado,40.7316433,-106.2836373
+Merino,Colorado,40.4824824,-103.3513279
+Peetz,Colorado,40.9627642,-103.1124241
+Ovid,Colorado,40.9605474,-102.3879647
+Sedgwick,Colorado,40.9363799,-102.5254665
+Timnath,Colorado,40.5291491,-104.9852533
+Wellington,Colorado,40.7038712,-105.0085856
+Paoli,Colorado,40.6122133,-102.4726893
+Wiggins,Colorado,40.2305363,-104.0727278
+Winter Park,Colorado,39.8916537,-105.7630624
+Otis,Colorado,40.1488722,-102.9629927
+Lyons,Colorado,40.2247075,-105.271378
+Nederland,Colorado,39.9613759,-105.5108312
+Superior,Colorado,39.9527634,-105.1685977
+Ward,Colorado,40.0722083,-105.5083316
+Meeker,Colorado,40.0374733,-107.9131299
+New Castle,Colorado,39.5727585,-107.5364443
+Parachute,Colorado,39.4519225,-108.0528529
+Carbondale,Colorado,39.4022054,-107.2111628
+Silt,Colorado,39.5485917,-107.6561707
+Minturn,Colorado,39.5863749,-106.4308631
+Vail,Colorado,39.6402638,-106.3741955
+Montezuma,Colorado,39.581098,-105.8672338
+Silverthorne,Colorado,39.632139,-106.074281
+Morrison,Colorado,39.6535988,-105.1910996
+Mountain View,Colorado,39.7744311,-105.0555389
+Silver Plume,Colorado,39.6960983,-105.7258386
+Seibert,Colorado,39.2991591,-102.8690977
+Stratton,Colorado,39.3033276,-102.6046454
+Vona,Colorado,39.3036044,-102.7429831
+Parker,Colorado,39.5186002,-104.7613634
+Castle Rock,Colorado,39.3722121,-104.8560902
+Castle Pines,Colorado,39.4580448,-104.8960911
+Simla,Colorado,39.1416551,-104.0838479
+Palisade,Colorado,39.1102588,-108.3509193
+Collbran,Colorado,39.2405343,-107.9611808
+Snowmass Village,Colorado,39.2130418,-106.9378207
+Marble,Colorado,39.0722106,-107.1889377
+Mount Crested Butte,Colorado,38.908619,-106.969468
+Pitkin,Colorado,38.6091612,-106.5166958
+Orchard City,Colorado,38.8283161,-107.9708995
+Paonia,Colorado,38.8683204,-107.5920017
+Cedaredge,Colorado,38.9016487,-107.926454
+Monument,Colorado,39.0916586,-104.872758
+Palmer Lake,Colorado,39.1222138,-104.917204
+Calhan,Colorado,39.0355459,-104.297186
+Cheyenne Wells,Colorado,38.8213951,-102.3532435
+Coal Creek,Colorado,38.3611112,-105.1483222
+Williamsburg,Colorado,38.3819441,-105.1519331
+Naturita,Colorado,38.2183239,-108.5687033
+Nucla,Colorado,38.2694347,-108.5478691
+Olathe,Colorado,38.6049854,-107.9822884
+Sheridan Lake,Colorado,38.466681,-102.2921309
+Olney Springs,Colorado,38.1661162,-103.9446792
+Ordway,Colorado,38.2180608,-103.7560606
+Sugar City,Colorado,38.2319494,-103.6630011
+Moffat,Colorado,37.9988882,-105.9100156
+Center,Colorado,37.7530563,-106.1086379
+Wiley,Colorado,38.1541748,-102.7196403
+Silver Cliff,Colorado,38.1352779,-105.4463902
+Westcliffe,Colorado,38.134722,-105.4658353
+Manzanola,Colorado,38.1094509,-103.8660658
+Cheraw,Colorado,38.1069515,-103.5102184
+Swink,Colorado,38.014453,-103.6282798
+Mountain Village,Colorado,37.9313827,-107.8564531
+Norwood,Colorado,38.1305461,-108.2923037
+Ophir,Colorado,37.8569392,-107.8325644
+Sawpit,Colorado,37.9952702,-108.0017339
+Telluride,Colorado,37.9374939,-107.8122852
+Silverton,Colorado,37.811941,-107.6645057
+South Fork,Colorado,37.6700041,-106.6397638
+Cokedale,Colorado,37.1452975,-104.6210994
+Starkville,Colorado,37.115298,-104.5241533
+San Luis,Colorado,37.2008483,-105.4239012
+Campo,Colorado,37.105019,-102.5796377
+Springfield,Colorado,37.4083486,-102.6143616
+Two Buttes,Colorado,37.5611244,-102.3976887
+Vilas,Colorado,37.3736272,-102.446301
+Walsh,Colorado,37.3861271,-102.2782394
+Mancos,Colorado,37.344996,-108.2892487
+Pagosa Springs,Colorado,37.26945,-107.0097617
+Manassa,Colorado,37.1741778,-105.9375215
+Sanford,Colorado,37.2583426,-105.9047442
+Brownlee,Nebraska,42.2880549,-100.6256949
+Lindy,Nebraska,42.7341677,-97.7400645
+Aten,Nebraska,42.8399983,-97.4408942
+Bow Valley,Nebraska,42.7147205,-97.2494975
+Berea,Nebraska,42.2141299,-102.9801994
+Tryon,Nebraska,41.552772,-100.9576549
+Westerville,Nebraska,41.3961189,-99.3809359
+Fontanelle,Nebraska,41.538608,-96.4280786
+Wann,Nebraska,41.1466661,-96.3558527
+Lorenzo,Nebraska,41.0474855,-103.0679793
+Sunol,Nebraska,41.1552634,-102.7635293
+Belmar,Nebraska,41.2988773,-101.916568
+Keystone,Nebraska,41.2161022,-101.5835052
+Lemoyne,Nebraska,41.2724893,-101.8132325
+Martin,Nebraska,41.2561012,-101.6910078
+Roscoe,Nebraska,41.1305481,-101.5857267
+Sarben,Nebraska,41.1649935,-101.3071087
+Archer,Nebraska,41.1652914,-98.1358939
+Saint Libory,Nebraska,41.0819567,-98.3553421
+King Lake,Nebraska,41.3136099,-96.3011348
+Venice,Nebraska,41.2338891,-96.3536355
+La Platte,Nebraska,41.0747212,-95.9236223
+Richfield,Nebraska,41.1083321,-96.0752931
+Overland,Nebraska,41.0775141,-97.9861687
+Willow Island,Nebraska,40.8886183,-100.0715134
+Poole,Nebraska,40.979734,-98.9698068
+Tamora,Nebraska,40.8938986,-97.2250424
+Walton,Nebraska,40.7986111,-96.5619568
+Phippsburg,Colorado,40.2322039,-106.9436599
+Maybell,Colorado,40.5177463,-108.0870285
+Amherst,Colorado,40.6827729,-102.1660185
+Champion,Nebraska,40.4691616,-101.7485059
+Enders,Nebraska,40.4552735,-101.5337781
+Inland,Nebraska,40.596957,-98.2225538
+Orchard,Colorado,40.3310931,-104.1182837
+Snyder,Colorado,40.3291471,-103.5963357
+Weldona,Colorado,40.346094,-103.9691172
+Holmesville,Nebraska,40.2008337,-96.657801
+Parshall,Colorado,40.0569298,-106.1753016
+Idalia,Colorado,39.7038813,-102.2938052
+Joes,Colorado,39.6563785,-102.6788174
+Kirk,Colorado,39.6133239,-102.591592
+Laird,Colorado,40.0824905,-102.1035224
+Vernon,Colorado,39.946379,-102.3154743
+Inavale,Nebraska,40.0914028,-98.6495118
+Max,Nebraska,40.1138843,-101.4026645
+Parks,Nebraska,40.0416595,-101.7251724
+Sugarloaf,Colorado,40.0169306,-105.4072169
+Valmont,Colorado,40.0319298,-105.2144324
+Catherine,Colorado,39.4072057,-107.1528278
+Cattle Creek,Colorado,39.4583159,-107.2625533
+Chacra,Colorado,39.575259,-107.4467208
+Rollinsville,Colorado,39.9172094,-105.5011084
+Dotsero,Colorado,39.6497065,-107.0603258
+Fulford,Colorado,39.5149852,-106.6564233
+McCoy,Colorado,39.9160983,-106.7255937
+Wolcott,Colorado,39.7027642,-106.6786462
+Heeney,Colorado,39.8724857,-106.3011389
+Idledale,Colorado,39.6660989,-105.2441566
+Peoria,Colorado,39.6797039,-104.1141248
+Asherville,Kansas,39.4058375,-97.9769886
+Twin Lakes,Colorado,39.0827698,-106.3819698
+Norrie,Colorado,39.3247087,-106.6555894
+Redstone,Colorado,39.1808189,-107.2397727
+Woody Creek,Colorado,39.2702633,-106.8861523
+Ada,Kansas,39.1513917,-97.8892088
+Detroit,Kansas,38.9349995,-97.1208507
+Talmage,Kansas,39.0249974,-97.2605772
+Divide,Colorado,38.9419355,-105.1572091
+Florissant,Colorado,38.9458249,-105.2894358
+Goldfield,Colorado,38.7177669,-105.126091
+Midland,Colorado,38.8583232,-105.1616509
+Peyton,Colorado,39.0288809,-104.4830238
+Garfield,Colorado,38.5516638,-106.2922456
+Johnson Village,Colorado,38.8108291,-106.1066835
+Maysville,Colorado,38.5386086,-106.1902979
+Falun,Kansas,38.6711171,-97.7594855
+Kipp,Kansas,38.7838911,-97.4544748
+Coaldale,Colorado,38.3655533,-105.7577836
+Cotopaxi,Colorado,38.3702754,-105.6880593
+Howard,Colorado,38.4486084,-105.8352853
+Brandon,Colorado,38.4463998,-102.4396334
+Towner,Colorado,38.4708492,-102.0796258
+Blende,Colorado,38.2458362,-104.5685844
+Vineland,Colorado,38.2455583,-104.4594147
+Colona,Colorado,38.3249881,-107.7797816
+Portland,Colorado,38.0813814,-107.7014486
+Hasty,Colorado,38.112507,-102.9574232
+La Junta Gardens,Colorado,37.9994533,-103.5535548
+North La Junta,Colorado,37.9969533,-103.5318872
+Cathedral,Colorado,38.0958289,-107.0339372
+Alpine,Colorado,37.6891702,-106.58893
+Gerrard,Colorado,37.6772259,-106.5930967
+El Moro,Colorado,37.2244618,-104.4666499
+Hoehne,Colorado,37.2811273,-104.3810911
+Jansen,Colorado,37.15716,-104.53815
+Lynn,Colorado,37.4272372,-104.6410958
+Segundo,Colorado,37.1252983,-104.7555468
+Valdez,Colorado,37.1222427,-104.7019346
+Weston,Colorado,37.1327981,-104.8488836
+San Acacio,Colorado,37.2139025,-105.5644584
+Lewis,Colorado,37.4997136,-108.6692637
+Capulin,Colorado,37.2838961,-106.1114164
+Loretto,Nebraska,41.7647326,-98.0806195
+Raeville,Nebraska,41.8963977,-98.0539534
+Odessa,Nebraska,40.7016778,-99.256761
+Ames,Nebraska,41.4522236,-96.6244714
+Home,Kansas,39.8416678,-96.5197389
+Baileyville,Kansas,39.8444434,-96.1850063
+Bendena,Kansas,39.7411084,-95.1794178
+Levant,Kansas,39.3855585,-101.1948806
+Elbert,Colorado,39.2194337,-104.5371916
+Guffey,Colorado,38.7511041,-105.521384
+Grantville,Kansas,39.0833331,-95.5613668
+Loma,Colorado,39.1958139,-108.813158
+Wakarusa,Kansas,38.8858364,-95.6958162
+Weskan,Kansas,38.8666747,-101.9643432
+Catharine,Kansas,38.9272337,-99.216766
+Munjor,Kansas,38.8111231,-99.2648236
+Ellicott,Colorado,38.8383279,-104.3869093
+Vassar,Kansas,38.647231,-95.6224828
+Bucyrus,Kansas,38.7263985,-94.7182912
+Hillsdale,Kansas,38.6597333,-94.8502396
+Healy,Kansas,38.6000158,-100.6170867
+Marienthal,Kansas,38.4875203,-101.2129337
+Odin,Kansas,38.5661222,-98.6086868
+Redvale,Colorado,38.1749906,-108.4173088
+Roxbury,Kansas,38.5508396,-97.430309
+Harris,Kansas,38.3194636,-95.4363692
+Welda,Kansas,38.1694699,-95.2946995
+Yoder,Kansas,37.9402895,-97.8683847
+Rosalia,Kansas,37.8152985,-96.6197416
+Piqua,Kansas,37.922813,-95.535261
+Fort Dodge,Kansas,37.7319646,-99.9354098
+Wright,Kansas,37.7805754,-99.892075
+Franklin,Kansas,37.5264361,-94.7057953
+Chicopee,Kansas,37.3819962,-94.7419051
+Milton,Kansas,37.4316858,-97.7714412
+Conejos,Colorado,37.0883453,-106.0197445
+Riverton,Kansas,37.0750626,-94.7046724
+Lowell,Kansas,37.0486746,-94.7016158
+Carr,Colorado,40.8960939,-104.8749699
+Briggsdale,Colorado,40.634705,-104.3268953
+Cornish,Colorado,40.5230373,-104.4132867
+Lucerne,Colorado,40.4819249,-104.699687
+Gill,Colorado,40.4541475,-104.5421798
+Masters,Colorado,40.3094255,-104.2449505
+Vollmar,Colorado,40.1349833,-104.8388616
+Wattenberg,Colorado,40.0277615,-104.8366398
+Prospect Valley,Colorado,40.0735938,-104.4149556
+Buckingham,Colorado,40.6213763,-103.9777276
+Stoneham,Colorado,40.6055399,-103.6666134
+Hereford,Colorado,40.9749835,-104.3057869
+Keota,Colorado,40.7027642,-104.0752263
+Galeton,Colorado,40.5208139,-104.5857927
+Roggen,Colorado,40.1674816,-104.3721765
+Columbine,Colorado,40.8541365,-106.9658839
+Milner,Colorado,40.4846976,-107.0194975
+Toponas,Colorado,40.0602639,-106.8080984
+Kings Canyon,Colorado,40.9269193,-106.2269664
+Cowdrey,Colorado,40.859697,-106.3130817
+Coalmont,Colorado,40.5624796,-106.4444767
+Rand,Colorado,40.4538703,-106.1814128
+Hiawatha,Colorado,40.9882955,-108.6203857
+Powder Wash,Colorado,40.9457977,-108.3114847
+Greystone,Colorado,40.6094097,-108.6739967
+Massadona,Colorado,40.2527481,-108.640381
+Elk Springs,Colorado,40.355524,-108.4484305
+Lay,Colorado,40.5266363,-107.8820209
+Axial,Colorado,40.2852508,-107.7920157
+Hamilton,Colorado,40.3671955,-107.6131216
+Blue Mountain,Colorado,40.2483026,-108.8617781
+Proctor,Colorado,40.8069347,-102.951586
+Dailey,Colorado,40.6566582,-102.7238042
+Willard,Colorado,40.554426,-103.4863297
+Livermore,Colorado,40.7944262,-105.2172034
+Glendevey,Colorado,40.8102559,-105.9350102
+Buckeye,Colorado,40.827205,-105.0949763
+Bellvue,Colorado,40.626371,-105.1716479
+Glen Haven,Colorado,40.4538722,-105.4491614
+Drake,Colorado,40.431928,-105.340268
+Poudre Park,Colorado,40.6860926,-105.3047078
+Masonville,Colorado,40.4874831,-105.2108177
+Goodrich,Colorado,40.3510939,-104.061617
+Hoyt,Colorado,40.0155398,-104.0749503
+Hale,Colorado,39.6297158,-102.142688
+Platner,Colorado,40.1552603,-103.0674384
+Woodrow,Colorado,39.9883181,-103.591612
+Last Chance,Colorado,39.7408195,-103.5916136
+Anton,Colorado,39.7416502,-103.2171616
+Cope,Colorado,39.6638771,-102.8510448
+Lindon,Colorado,39.7394298,-103.4138313
+Hygiene,Colorado,40.1885962,-105.1808192
+Wallstreet,Colorado,40.0388749,-105.3908274
+Wondervu,Colorado,39.9255423,-105.394994
+Pinecliffe,Colorado,39.9319312,-105.4283284
+Crescent,Colorado,39.9283198,-105.3427701
+Marshall,Colorado,39.9555414,-105.229711
+Rio Blanco,Colorado,39.7377544,-107.9453508
+Cardiff,Colorado,39.5060932,-107.3108871
+Eastlake,Colorado,39.9238739,-104.9613679
+Henderson,Colorado,39.9205405,-104.8658084
+Western Hills,Colorado,39.8322082,-104.9972033
+Irondale,Colorado,39.8494303,-104.8971991
+Dupont,Colorado,39.8380416,-104.911922
+Adams City,Colorado,39.8266528,-104.9288672
+East Portal,Colorado,39.9033204,-105.6444469
+State Bridge,Colorado,39.8577646,-106.6497581
+Meredith,Colorado,39.3630413,-106.7300359
+Burns,Colorado,39.8738755,-106.8855987
+Bond,Colorado,39.8744314,-106.6872591
+Gilman,Colorado,39.5327639,-106.3939176
+Kokomo,Colorado,39.4241542,-106.1897452
+Leyden,Colorado,39.8447087,-105.1841539
+Wah Keeney Park,Colorado,39.6602658,-105.3405484
+Bergen Park,Colorado,39.6913769,-105.3616598
+Pleasant View,Colorado,39.734154,-105.1716538
+Marshdale,Colorado,39.5924882,-105.3122149
+Herzman Mesa,Colorado,39.6105437,-105.3102701
+Stanley Park,Colorado,39.6183213,-105.2927696
+Fenders,Colorado,39.573877,-105.2169343
+Pine Grove,Colorado,39.4099891,-105.3238838
+Buffalo Creek,Colorado,39.3866559,-105.2702714
+South Platte,Colorado,39.4074892,-105.1713788
+Conifer,Colorado,39.5210995,-105.3052708
+Brookvale,Colorado,39.6297105,-105.419162
+Peconic,Colorado,39.3208312,-102.1487967
+Matheson,Colorado,39.1716547,-103.9755125
+Agate,Colorado,39.461651,-103.9421807
+Boyero,Colorado,38.942772,-103.2791055
+Karval,Colorado,38.7333302,-103.537165
+Singleton,Colorado,39.443044,-105.6019476
+Como,Colorado,39.3160998,-105.892792
+Hartsel,Colorado,39.0216594,-105.7958419
+Tarryall,Colorado,39.1219354,-105.4755554
+Garo,Colorado,39.1077697,-105.8902904
+Lake George,Colorado,38.9797141,-105.3574944
+Jefferson,Colorado,39.3772101,-105.8005662
+Grant,Colorado,39.45971,-105.6616715
+Bailey,Colorado,39.4055449,-105.4733328
+Climax,Colorado,39.3688772,-106.1836335
+Mack,Colorado,39.2238693,-108.8651045
+Mesa,Colorado,39.1663687,-108.138966
+Whitewater,Colorado,38.9910934,-108.4534226
+Molina,Colorado,39.1891459,-108.0603513
+Snowmass,Colorado,39.3316513,-106.986156
+Somerset,Colorado,38.926378,-107.4703329
+Almont,Colorado,38.6647149,-106.8461506
+Ohio,Colorado,38.5666602,-106.6116988
+Powderhorn,Colorado,38.2769386,-107.0958841
+Grand Mesa,Colorado,39.0402581,-107.9497893
+Lazear,Colorado,38.7799842,-107.7817267
+Bowie,Colorado,38.9213767,-107.5400563
+Crystola,Colorado,38.9558243,-105.0272053
+Cascade,Colorado,38.8966566,-104.9722013
+Pikeview,Colorado,38.9152705,-104.8221988
+Falcon,Colorado,38.9330494,-104.6085826
+Broadmoor,Colorado,38.7955477,-104.8413626
+Yoder,Colorado,38.8394378,-104.221905
+Rush,Colorado,38.8399934,-104.0921799
+Wigwam,Colorado,38.5394433,-104.6355279
+Chipita Park,Colorado,38.9244346,-105.0066477
+Granite,Colorado,39.0436045,-106.2633553
+Nathrop,Colorado,38.7472183,-106.0755712
+Aroya,Colorado,38.8541641,-103.1254894
+Wild Horse,Colorado,38.8258322,-103.0115971
+Arapahoe,Colorado,38.8500072,-102.1821277
+Texas Creek,Colorado,38.4130528,-105.5805556
+Hillside,Colorado,38.2652764,-105.6116699
+Prospect Heights,Colorado,38.426387,-105.2374901
+Portland,Colorado,38.3911118,-105.0249852
+Bedrock,Colorado,38.3149897,-108.8909363
+Cimarron,Colorado,38.4424881,-107.5567252
+Uravan,Colorado,38.3683225,-108.7364871
+Chivington,Colorado,38.436398,-102.5435242
+Arlington,Colorado,38.3361148,-103.3432665
+Stone City,Colorado,38.4486112,-104.8610909
+Greenhorn,Colorado,37.9069531,-104.8533195
+Cedarwood,Colorado,37.9416751,-104.617478
+Beulah,Colorado,38.0750064,-104.986655
+La Garita,Colorado,37.8408348,-106.2466966
+Sargents,Colorado,38.404163,-106.415028
+Villa Grove,Colorado,38.2486102,-105.9491798
+Camp Bird,Colorado,37.9727718,-107.7264495
+Bristol,Colorado,38.1222316,-102.3115786
+Wetmore,Colorado,38.2380585,-105.0847113
+Greenwood,Colorado,38.2050032,-105.0969343
+Rosita,Colorado,38.0972238,-105.33611
+McClave,Colorado,38.1375074,-102.8504765
+Caddoa,Colorado,38.0609199248,-102.9245369
+Toonerville,Colorado,37.7750091,-103.1640973
+Hawley,Colorado,37.9827869,-103.711061
+Timpas,Colorado,37.8180667,-103.7741187
+Egnar,Colorado,37.9163803,-108.9401062
+Pandora,Colorado,37.9333274,-107.7856178
+Slick Rock,Colorado,38.04277,-108.8887148
+Placerville,Colorado,38.0166587,-108.0534031
+Gardner,Colorado,37.7833397,-105.1655542
+Cuchara,Colorado,37.3791796,-105.100281
+Dunton,Colorado,37.7727718,-108.0939632
+Cahone,Colorado,37.6588778,-108.8078804
+Delhi,Colorado,37.6422351,-104.0180174
+Ludlow,Colorado,37.3333493,-104.583318
+Vigil,Colorado,37.1611305,-104.9416651
+Boncarbo,Colorado,37.2166848,-104.6949893
+Ninaview,Colorado,37.6439004,-103.2407667
+Villegreen,Colorado,37.3058514,-103.5202222
+Andrix,Colorado,37.2794624,-103.1927114
+Stonewall,Colorado,37.1522416,-105.0172236
+Tyrone,Colorado,37.4541811,-104.2083047
+Gulnare,Colorado,37.3172387,-104.7519341
+Model,Colorado,37.3722372,-104.2449743
+Trinchera,Colorado,37.0422445,-104.0474707
+Thatcher,Colorado,37.545847,-104.1088551
+Estrella,Colorado,37.3661178,-105.9244671
+Mosca,Colorado,37.6483347,-105.8739101
+San Pablo,Colorado,37.1491837,-105.3969555
+Jaroso,Colorado,37.0027979,-105.6241786
+Chama,Colorado,37.1619611,-105.3783446
+San Pedro,Colorado,37.1597388,-105.4025112
+Mesita,Colorado,37.0983505,-105.6019574
+Garcia,Colorado,37.0041878,-105.5372323
+Deora,Colorado,37.5802899,-102.9665924
+Lycan,Colorado,37.6152909,-102.2007392
+Utleyville,Colorado,37.2711282,-103.0313184
+Stonington,Colorado,37.2936295,-102.1874017
+Edler,Colorado,37.176407,-102.7782556
+Pleasant View,Colorado,37.589434,-108.7651009
+Yellow Jacket,Colorado,37.534435,-108.7173212
+Stoner,Colorado,37.5894381,-108.3200841
+Mayday,Colorado,37.3505543,-108.0767407
+Hesperus,Colorado,37.2861114,-108.0395165
+Kline,Colorado,37.1441668,-108.1195189
+Trimble,Colorado,37.3902785,-107.8464554
+Gem Village,Colorado,37.2191704,-107.6372804
+Tiffany,Colorado,37.0327823,-107.5381081
+Tacoma,Colorado,37.5236105,-107.7820096
+Marvel,Colorado,37.1125001,-108.1267413
+Bondad,Colorado,37.0458355,-107.8761767
+Redmesa,Colorado,37.0944441,-108.1703542
+Oxford,Colorado,37.1688923,-107.7142277
+Allison,Colorado,37.0244493,-107.4881059
+Pagosa Junction,Colorado,37.0380618,-107.1992086
+Chromo,Colorado,37.0363995,-106.8433697
+Chimney Rock,Colorado,37.194448,-107.3011576
+San Antonio,Colorado,37.0208467,-106.028077
+Mogote,Colorado,37.0594564,-106.0922463
+Wheeler,Kansas,39.76416,-101.7129494
+Beardsley,Kansas,39.8144428,-101.2276597
+Blakeman,Kansas,39.8222223,-101.1171025
+Ludell,Kansas,39.8555579,-100.959878
+Montrose,Kansas,39.7844552,-98.0878254
+Ionia,Kansas,39.6639002,-98.3475569
+Lovewell,Kansas,39.8652891,-97.981711
+Northbranch,Kansas,39.9727914,-98.3717201
+Claudell,Kansas,39.662511,-99.0292514
+Harlan,Kansas,39.6055666,-98.7670195
+Kackley,Kansas,39.7000068,-97.8530993
+Wayne,Kansas,39.7147249,-97.5419838
+Traer,Kansas,39.9283378,-100.666261
+Cedar Bluffs,Kansas,39.9788944,-100.5618147
+Leoville,Kansas,39.5816708,-100.4609753
+Dellvale,Kansas,39.7722271,-100.035129
+Reager,Kansas,39.8269494,-100.096243
+New Almelo,Kansas,39.5941707,-100.1179098
+Densmore,Kansas,39.6383396,-99.7392821
+Woodruff,Kansas,39.9927881,-99.4264895
+Herkimer,Kansas,39.8911135,-96.7111333
+Marietta,Kansas,39.9430578,-96.6086317
+Winifred,Kansas,39.7694448,-96.4808477
+Padonia,Kansas,39.9233361,-95.562761
+Saint Benedict,Kansas,39.8872212,-96.0988918
+Kelly,Kansas,39.7377748,-96.0033308
+Iowa Point,Kansas,39.928331,-95.2385873
+Fanning,Kansas,39.834719,-95.1613629
+Doniphan,Kansas,39.6416624,-95.0808028
+Huscher,Kansas,39.5241668,-97.589204
+Rice,Kansas,39.5722226,-97.5555929
+Saint Joseph,Kansas,39.5097201,-97.4061439
+Birmingham,Kansas,39.4091627,-95.6824818
+Farmington,Kansas,39.5186091,-95.3096949
+Arrington,Kansas,39.4627757,-95.5363667
+Potter,Kansas,39.425831,-95.1419128
+Cummings,Kansas,39.4627757,-95.2474709
+Codell,Kansas,39.1933439,-99.1773178
+Edson,Kansas,39.3372235,-101.5404449
+Covert,Kansas,39.2802884,-98.8109127
+Bloomington,Kansas,39.4516773,-98.7870213
+Seguin,Kansas,39.3375053,-100.594866
+Tasco,Kansas,39.3541709,-100.2912482
+Studley,Kansas,39.3530598,-100.163744
+Angelus,Kansas,39.1911181,-100.6843115
+Idana,Kansas,39.357495,-97.2641926
+Broughton,Kansas,39.3213851,-97.05335
+Saint Peter,Kansas,39.1897279,-100.0892959
+Nicodemus,Kansas,39.394452,-99.6170555
+Bala,Kansas,39.3097187,-96.9497353
+Keats,Kansas,39.2236074,-96.7086173
+Laclede,Kansas,39.3472183,-96.2211091
+Duluth,Kansas,39.5247184,-96.2230566
+Fostoria,Kansas,39.4397188,-96.5077834
+Rock Creek,Kansas,39.2458313,-95.5371988
+Williamstown,Kansas,39.0627783,-95.3327512
+Lowemont,Kansas,39.3805539,-95.0557997
+Fairmount,Kansas,39.1916687,-94.9355203
+Reno,Kansas,39.0511131,-95.1199698
+Wells,Kansas,39.1388872,-97.550864
+Verdi,Kansas,38.9916662,-97.5030853
+Niles,Kansas,38.969444,-97.4628064
+Ash Grove,Kansas,39.1613974,-98.3620041
+Denmark,Kansas,39.0891744,-98.2870015
+Vesper,Kansas,39.0319521,-98.2800569
+Lincoln,Kansas,39.0408395,-98.1447743
+Westfall,Kansas,38.9300056,-98.0114372
+Grove,Kansas,39.1674982,-95.8591536
+Richland,Kansas,38.8836141,-95.5397011
+Elmont,Kansas,39.1652763,-95.7030377
+Tecumseh,Kansas,39.0480558,-95.5791453
+Dover,Kansas,38.9647239,-95.9374886
+Pauline,Kansas,38.963335,-95.6905377
+Wabaunsee,Kansas,39.1461086,-96.346109
+Volland,Kansas,38.9444451,-96.404443
+Piper,Kansas,39.1430586,-94.8613521
+Wolcott,Kansas,39.1888916,-94.8016283
+Pomeroy,Kansas,39.1683365,-94.7613496
+Page City,Kansas,39.0897299,-101.1462666
+Yocemento,Kansas,38.9072335,-99.4239958
+Antonino,Kansas,38.7839011,-99.3926061
+Pfeifer,Kansas,38.7080679,-99.1656536
+Gove,Kansas,38.9577876,-100.4887486
+Industry,Kansas,39.1333293,-97.1714082
+Upland,Kansas,39.0888862,-97.0191805
+Navarre,Kansas,38.7969471,-97.1058511
+Elmo,Kansas,38.6841707,-97.230023
+Fairport,Kansas,39.0458446,-99.0306464
+Ogallah,Kansas,38.991398,-99.7323388
+Big Springs,Kansas,39.0130561,-95.4849762
+Clinton,Kansas,38.9116696,-95.390531
+Stull,Kansas,38.9711124,-95.4560872
+Pleasant Grove,Kansas,38.8555603,-95.2696954
+Lone Star,Kansas,38.8666708,-95.3552528
+Vinland,Kansas,38.83945,-95.1821935
+Lackmans,Kansas,38.924451,-94.7641272
+Clare,Kansas,38.8269519,-94.8713519
+Stilwell,Kansas,38.7691755,-94.6563454
+Stanley,Kansas,38.8544521,-94.6657907
+Kenneth,Kansas,38.8550077,-94.6119004
+Glendale,Kansas,38.8983378,-97.8750433
+Bavaria,Kansas,38.7972268,-97.7555952
+Hedville,Kansas,38.8627816,-97.7614282
+Bridgeport,Kansas,38.6277833,-97.6130924
+Mentor,Kansas,38.7405596,-97.6030911
+Skiddy,Kansas,38.8680578,-96.7944533
+Delavan,Kansas,38.6561193,-96.8133443
+Burdick,Kansas,38.5636222,-96.8455682
+Carneiro,Kansas,38.7388962,-98.0308833
+Langley,Kansas,38.5466753,-97.962827
+Barclay,Kansas,38.5772329,-95.8802665
+Plymouth,Kansas,38.4139025,-96.3322223
+Miller,Kansas,38.6344536,-95.9905464
+Centropolis,Kansas,38.7161188,-95.3502536
+Le Loup,Kansas,38.6952871,-95.1599708
+Homewood,Kansas,38.5147358,-95.3788661
+Peoria,Kansas,38.5847346,-95.1488595
+Beagle,Kansas,38.4180736,-94.9549657
+Jingo,Kansas,38.4039073,-94.6960683
+New Lancaster,Kansas,38.4625165,-94.7330136
+Chiles,Kansas,38.679733,-94.7616256
+Wagstaff,Kansas,38.6650111,-94.7963489
+Grigston,Kansas,38.48474,-100.7170916
+Shallow Water,Kansas,38.3736317,-100.9129314
+Shields,Kansas,38.6155707,-100.4451374
+Amy,Kansas,38.4819617,-100.6018105
+Alamota,Kansas,38.4611276,-100.3101357
+Selkirk,Kansas,38.4733499,-101.5434993
+Beeler,Kansas,38.4444607,-100.194855
+Beaver,Kansas,38.6402889,-98.6670217
+Hitschmann,Kansas,38.6241777,-98.5814624
+Heizer,Kansas,38.4222347,-98.8892565
+Dundee,Kansas,38.308624,-98.8906469
+Loretta,Kansas,38.6536237,-99.1806545
+Nekoma,Kansas,38.473625,-99.4420547
+Elyria,Kansas,38.2905643,-97.6269867
+Conway,Kansas,38.369453,-97.7864348
+Antelope,Kansas,38.4361259,-96.9739075
+Aulne,Kansas,38.2761266,-97.0766933
+Hymer,Kansas,38.4861237,-96.6891761
+Clements,Kansas,38.3000159,-96.7408481
+Mitchell,Kansas,38.3838988,-98.0997779
+Saxman,Kansas,38.280566,-98.125891
+Sharpe,Kansas,38.2819637,-95.6919302
+Ottumwa,Kansas,38.2777968,-95.7988764
+Halls Summit,Kansas,38.3472398,-95.6752631
+Agricola,Kansas,38.4194601,-95.5349823
+Aliceville,Kansas,38.1544693,-95.5519282
+Mont Ida,Kansas,38.2166898,-95.3683124
+Bush City,Kansas,38.2111359,-95.1446951
+Selma,Kansas,38.1347501,-95.1233065
+Goodrich,Kansas,38.2847454,-94.9919126
+Boicourt,Kansas,38.2708567,-94.7202354
+Centerville,Kansas,38.2208588,-95.0141361
+Sanford,Kansas,38.1805696,-99.3142772
+Wolf,Kansas,38.0322448,-101.0990556
+Friend,Kansas,38.260022,-100.9115457
+Kalvesta,Kansas,38.0594637,-100.2862511
+Pierceville,Kansas,37.8783557,-100.676822
+Kendall,Kansas,37.9347373,-101.5460038
+Patterson,Kansas,37.9433447,-97.6550458
+Teterville,Kansas,38.0430763,-96.4205631
+Hilltop,Kansas,38.0555809,-96.0397152
+Quincy,Kansas,37.8819768,-95.992769
+Sallyards,Kansas,37.8214116,-96.5072359
+Reece,Kansas,37.7989133,-96.4463999
+Neal,Kansas,37.834199,-96.0802724
+Piedmont,Kansas,37.6236395,-96.3655604
+Lamont,Kansas,38.1125234,-96.0266589
+Castleton,Kansas,37.8677904,-97.9692213
+Medora,Kansas,38.1488992,-97.8456052
+Beaumont,Kansas,37.6580791,-96.5327926
+Gordon,Kansas,37.5886301,-96.9905918
+Fellsburg,Kansas,37.8119605,-99.1753866
+Trousdale,Kansas,37.815294,-99.0856608
+Vernon,Kansas,37.9805874,-95.6569291
+Petrolia,Kansas,37.7458767,-95.4716486
+Carlyle,Kansas,37.9936436,-95.3908145
+Xenia,Kansas,37.9953117,-94.9863594
+Devon,Kansas,37.92226,-94.8191316
+Harding,Kansas,37.9939244,-94.8196863
+Hammond,Kansas,37.9355932,-94.695238
+Hiattville,Kansas,37.7222662,-94.8716353
+Pawnee Station,Kansas,37.7000442,-94.7913545
+Garland,Kansas,37.7317097,-94.6224594
+Charleston,Kansas,37.8652997,-100.5648738
+Bloom,Kansas,37.4864106,-99.8962428
+Bellefont,Kansas,37.8725185,-99.6579014
+Windhorst,Kansas,37.7852965,-99.6420679
+Kingsdown,Kansas,37.5250214,-99.7587385
+Peck,Kansas,37.477519,-97.3722679
+Furley,Kansas,37.8791795,-97.2128162
+Saint Marks,Kansas,37.7358454,-97.5622694
+Greenwich Heights,Kansas,37.653349,-97.2053203
+Schulte,Kansas,37.6230708,-97.4714355
+Midland Park,Kansas,37.5889054,-97.3378228
+Hopewell,Kansas,37.8047385,-98.9956573
+Natrona,Kansas,37.711962,-98.6648099
+Croft,Kansas,37.5033532,-98.9948246
+Cairo,Kansas,37.6500181,-98.5545275
+Saunders,Kansas,37.471128,-102.0393435
+Big Bow,Kansas,37.5650188,-101.5615582
+Hickok,Kansas,37.5611335,-101.2287809
+Wellsford,Kansas,37.6166851,-99.0287147
+Calista,Kansas,37.6397393,-98.28257
+Varner,Kansas,37.7189032,-98.0364472
+Rago,Kansas,37.4527954,-98.0817291
+Midway,Kansas,37.6616811,-97.9358888
+Saint Leo,Kansas,37.5291852,-98.4103547
+Willowdale,Kansas,37.5152958,-98.3017385
+Belmont,Kansas,37.5236274,-97.9892249
+Murdock,Kansas,37.6111263,-97.9308891
+Lafontaine,Kansas,37.3992228,-95.8452598
+Roper,Kansas,37.6611582,-95.7327598
+Vilas,Kansas,37.6542147,-95.5863704
+Buxton,Kansas,37.4483826,-95.9205379
+South Mound,Kansas,37.4372785,-95.2285857
+Kimball,Kansas,37.6611577,-95.1635882
+Urbana,Kansas,37.5581083,-95.399424
+Shaw,Kansas,37.6022722,-95.3174793
+Morehead,Kansas,37.384228,-95.5077571
+Opolis,Kansas,37.3444975,-94.6210673
+Beulah,Kansas,37.4403286,-94.8282975
+Brazilton,Kansas,37.5597708,-94.9574698
+Farlington,Kansas,37.6178239,-94.8277441
+Englevale,Kansas,37.5939348,-94.7274629
+Yale,Kansas,37.4839373,-94.6419037
+Oak Valley,Kansas,37.3433858,-96.0099862
+Silverdale,Kansas,37.0419749,-96.9033673
+Rock,Kansas,37.4402994,-97.0064255
+Rome,Kansas,37.1614153,-97.1428179
+Hackney,Kansas,37.1661374,-97.1475402
+Floral,Kansas,37.3528015,-96.9208678
+Wilmot,Kansas,37.3761342,-96.8758665
+Ashton,Kansas,37.0830827,-97.2386534
+Portland,Kansas,37.0778043,-97.312266
+Riverdale,Kansas,37.3900205,-97.3725455
+Anson,Kansas,37.3652979,-97.5297704
+Perth,Kansas,37.1747453,-97.5053256
+Corbin,Kansas,37.1264125,-97.5439376
+Cicero,Kansas,37.3339105,-97.3406004
+Sitka,Kansas,37.1750265,-99.6515129
+Lake City,Kansas,37.3533557,-98.8209282
+Aetna,Kansas,37.0839169,-98.9628777
+Jefferson,Kansas,37.1122964,-95.7613684
+Wayside,Kansas,37.1247917,-95.8733154
+Sycamore,Kansas,37.3270085,-95.7155358
+Duquoin,Kansas,37.3827963,-98.0736735
+Corwin,Kansas,37.0841914,-98.3045152
+Angola,Kansas,37.1056293,-95.4494197
+Montana,Kansas,37.2753392,-95.1241339
+Dennis,Kansas,37.3470063,-95.4127545
+Lawton,Kansas,37.2220015,-94.6360652
+Melrose,Kansas,37.0309011,-94.9582899
+Faulkner,Kansas,37.101455,-95.0116268
+Neutral,Kansas,37.0978407,-94.7949532
+Sherwin,Kansas,37.1800624,-94.9477381
+Stippville,Kansas,37.2222813,-94.8377367
+Sherman,Kansas,37.2572835,-95.0571872
+Wauneta,Kansas,37.1130985,-96.3805585
+Hewins,Kansas,37.0408773,-96.4083376
+Bingham,Nebraska,42.0210928,-102.0885188
+Ellsworth,Nebraska,42.0585908,-102.2807463
+Lakeside,Nebraska,42.0558101,-102.4249162
+Whiteclay,Nebraska,42.9969295,-102.554607
+Antioch,Nebraska,42.0683069,-102.5821415
+Marsland,Nebraska,42.4438527,-103.2985373
+Mills,Nebraska,42.9405573,-99.4439972
+Norden,Nebraska,42.868615,-100.0740112
+Eli,Nebraska,42.9436147,-101.491259
+Sparks,Nebraska,42.9411166,-100.2559607
+Arabia,Nebraska,42.7311139,-100.372629
+Elsmere,Nebraska,42.1652766,-100.1854091
+Amelia,Nebraska,42.23556,-98.9120422
+Menominee,Nebraska,42.7869427,-97.3745025
+Rose,Nebraska,42.1805572,-99.5256719
+Ashby,Nebraska,42.0219276,-101.9276811
+Whitman,Nebraska,42.0419371,-101.5232243
+Enola,Nebraska,41.9038947,-97.462828
+Purdum,Nebraska,42.0650001,-100.2584664
+Almeria,Nebraska,41.8258371,-99.5220576
+Angora,Nebraska,41.8519134,-103.1252082
+Redington,Nebraska,41.5838627,-103.2729895
+Perrin,Nebraska,41.8124688,-103.2463219
+Haig,Nebraska,41.8794116,-103.7591125
+Carlson,Nebraska,41.8730226,-103.5149404
+Mintle,Nebraska,41.9457989,-103.6804995
+Boone,Nebraska,41.6264005,-97.9175582
+Saint Bernard,Nebraska,41.7219534,-97.6289394
+Ringgold,Nebraska,41.5086062,-100.791539
+Flats,Nebraska,41.5688808,-101.3518361
+Bucktail,Nebraska,41.5649908,-101.4304487
+Greeley,Nebraska,41.5486236,-98.5311848
+Milburn,Nebraska,41.7194473,-99.7312313
+Weissert,Nebraska,41.4672295,-99.4431613
+Loma,Nebraska,41.1280642,-96.9419724
+Touhy,Nebraska,41.1330611,-96.8230802
+Swedeburg,Nebraska,41.1361128,-96.6247422
+Brownson,Nebraska,41.1874828,-103.1129824
+Dickens,Nebraska,40.8261177,-100.9929277
+Elk City,Nebraska,41.3716643,-96.2677997
+Irvington,Nebraska,41.3211087,-96.0547389
+Kronborg,Nebraska,41.0027917,-97.9400567
+Mynard,Nebraska,40.9736105,-95.9238984
+Darr,Nebraska,40.8208402,-99.8837305
+Sweetwater,Nebraska,41.0444553,-99.0075863
+Ruby,Nebraska,40.8313963,-97.0769783
+Agnew,Nebraska,41.0169486,-96.8147413
+Kramer,Nebraska,40.5883367,-96.8753036
+Princeton,Nebraska,40.5736127,-96.7047431
+West Lincoln,Nebraska,40.8377796,-96.731128
+Brandon,Nebraska,40.8033299,-101.9124008
+Grainton,Nebraska,40.8230555,-101.2873823
+Paul,Nebraska,40.5952793,-95.8966688
+Assumption,Nebraska,40.5100145,-98.572288
+Hansen,Nebraska,40.6964019,-98.370339
+Pauline,Nebraska,40.4164022,-98.3456104
+Lowell,Nebraska,40.6475141,-98.8473004
+Keene,Nebraska,40.4252909,-99.0659199
+Howe,Nebraska,40.3219459,-95.819162
+Ellis,Nebraska,40.2183344,-96.8758615
+Rockford,Nebraska,40.2516666,-96.6002994
+Saint Mary,Nebraska,40.4241664,-96.2900114
+Vesta,Nebraska,40.3563887,-96.337513
+Rosemont,Nebraska,40.2869572,-98.3642206
+Macon,Nebraska,40.205013,-98.9525813
+Angus,Nebraska,40.2822308,-97.9794853
+Bostwick,Nebraska,40.0483468,-98.1842129
+Saint Stephens,Nebraska,40.2536232,-98.2561584
+Powell,Nebraska,40.2208348,-97.2847615
+Marion,Nebraska,40.0158394,-100.480424
+Mascot,Nebraska,40.264454,-99.5462183
+Lisco,Nebraska,41.4972022,-102.6201979
+Northport,Nebraska,41.6821948,-103.0874308
+Skyline,Nebraska,41.2497214,-96.2494692
+Elkhorn,Nebraska,41.2863875,-96.2344678
+Campion,Colorado,40.3494282,-105.0777585
+Gateway,Colorado,38.6824845,-108.9751087
+Watkins,Colorado,39.7473803164,-104.6201098
+Parlin,Colorado,38.5038781888,-106.726718628
+Doyleville,Colorado,38.4532910603,-106.614562133
+Mineral Hot Springs,Colorado,38.1736613319,-105.925412804
+Lawson,Colorado,39.7641624435,-105.628843967
+Dumont,Colorado,39.7643374222,-105.598796271
+El Rancho,Colorado,39.6998795165,-105.331404381

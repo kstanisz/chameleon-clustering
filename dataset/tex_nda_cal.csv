@@ -252,6 +252,7 @@ Oakes,North Dakota,46.1385787,-98.0903794
 Bowman,North Dakota,46.1830618,-103.3949061
 Gascoyne,North Dakota,46.1183391,-103.0798921
 Rhame,North Dakota,46.2325063,-103.6554735
+Goleta,California,34.4358295,-119.8276389
 Circle D-KC Estates,Texas,30.1610157,-97.2349344
 Taft Southwest,Texas,27.972997,-97.4056664
 La Feria North,Texas,26.1778878,-97.8231565
@@ -368,8 +369,228 @@ Erie,North Dakota,47.1152573,-97.3878665
 Cannon Ball,North Dakota,46.3894387,-100.5940114
 White Shield,North Dakota,47.6613928,-101.8451675
 Wheatland,North Dakota,46.907475,-97.345368
+Edgewood,California,41.4582041,-122.4316846
+Macdoel,California,41.8268154,-122.0052851
+McCloud,California,41.2557119,-122.1394487
+Gazelle,California,41.5207015,-122.5202995
+Greenview,California,41.5506937,-122.905589
+Grenada,California,41.6470887,-122.5200223
+Hornbrook,California,41.9101394,-122.5558584
+Klamath,California,41.5265092,-124.0384069
+Bayview,California,40.7726266,-124.1839502
+McKinleyville,California,40.9465152,-124.1006205
+Hydesville,California,40.5476338,-124.097272
+Hayfork,California,40.5543106,-123.1830839
+Lewiston,California,40.7073681,-122.8075227
+Cottonwood,California,40.3857087,-122.2808356
+Big Bend,California,41.0207132,-121.911107
+Burney,California,40.8823811,-121.6608205
+Fall River Mills,California,41.0046076,-121.4383139
+McArthur,California,41.0501635,-121.3991469
+French Gulch,California,40.7007031,-122.6383512
+Los Molinos,California,40.0212684,-122.1002666
+Manton,California,40.4351568,-121.8699903
+Clio,California,39.7432328,-120.5802171
+Crescent Mills,California,40.0965579,-120.9107882
+Cromberg,California,39.8601738,-120.6916117
+Almanor,California,40.2173857,-121.1741296
+Beckwourth,California,39.8201799,-120.3788225
+Belden,California,40.0059971,-121.2491316
+Blairsden,California,39.7810095,-120.6166077
+Canyondam,California,40.1718324,-121.0727378
+Caribou,California,40.0804428,-121.1577397
+Chester,California,40.3062736,-121.2319098
+East Quincy,California,39.9340591,-120.8980083
+Graeagle,California,39.7662874,-120.6185519
+Greenville,California,40.1396126,-120.9510675
+Hamilton Branch,California,40.274887,-121.0913504
+Indian Falls,California,40.0568353,-120.9638446
+Johnsville,California,39.7607303,-120.6954985
+Keddie,California,40.0148913,-120.9610663
+La Porte,California,39.6821146,-120.9841206
+Lake Davis,California,39.8726783,-120.4788267
+Magalia,California,39.8121058,-121.5783059
+Covelo,California,39.7929324,-123.2480687
+Laytonville,California,39.6882116,-123.4827942
+Hamilton City,California,39.7426598,-122.0135914
+Loma Rica,California,39.3118348,-121.4177419
+Clearlake Oaks,California,39.0262841,-122.6719304
+Cobb,California,38.8221258,-122.7230451
+Lower Lake,California,38.9104546,-122.6102614
+Lucerne,California,39.0901709,-122.7963806
+Hidden Valley Lake,California,38.8079573,-122.5583155
+Kelseyville,California,38.9779531,-122.8394375
+Alta Sierra,California,39.1415618,-121.0538368
+Lake of the Pines,California,39.0396185,-121.0566129
+Arbuckle,California,39.0173963,-122.0577477
+Foresthill,California,39.0201768,-120.8179891
+Granite Bay,California,38.7632346,-121.1638361
+Kings Beach,California,39.2376846,-120.0265798
+El Dorado Hills,California,38.6857367,-121.082167
+Georgetown,California,38.9068445,-120.8385462
+Bear Valley,California,38.4646337,-120.0399088
+Markleeville,California,38.6949057,-119.7801768
+Esparto,California,38.6921258,-122.0171925
+Angwin,California,38.5757402,-122.4499796
+Bodega Bay,California,38.33325,-123.0480571
+Boyes Hot Springs,California,38.3138029,-122.4819253
+El Verano,California,38.2976922,-122.491648
+Eldridge,California,38.348802,-122.510815
+Forestville,California,38.4735237,-122.8902721
+Glen Ellen,California,38.3640795,-122.5241487
+Graton,California,38.4363022,-122.8697158
+Guerneville,California,38.5018575,-122.9961102
+Carmichael,California,38.617127,-121.3282843
+Fair Oaks,California,38.6446264,-121.2721718
+Florin,California,38.4960187,-121.4088416
+Foothill Farms,California,38.678773,-121.351144
+Gold River,California,38.6262937,-121.2466156
+Kirkwood,California,38.7026857,-120.0726855
+Elmira,California,38.3482442,-121.9099638
+Green Valley,California,38.2529705,-122.1621917
+Copperopolis,California,37.9810358,-120.6418716
+Arnold,California,38.2554729,-120.3510307
+Avery,California,38.204363,-120.3699194
+Forest Meadows,California,38.1679751,-120.4054756
+Columbia,California,38.0363119,-120.4013061
+Chinese Camp,California,37.8710381,-120.4332511
+East Sonora,California,37.9777024,-120.361304
+Jamestown,California,37.9532584,-120.4226952
+Bolinas,California,37.9093702,-122.6863733
+Inverness,California,38.1010337,-122.8569377
+Kentfield,California,37.9521465,-122.5571997
+Lagunitas-Forest Knolls,California,38.0180254,-122.691301
+Farmington,California,37.929925,-121.0002168
+French Camp,California,37.8840922,-121.2710555
+Clyde,California,38.0254763,-122.029407
+Crockett,California,38.0524208,-122.2130236
+Alamo,California,37.8502033,-122.032184
+Bethel Island,California,38.0149216,-121.6405085
+Byron,California,37.8671477,-121.6380069
+El Sobrante,California,37.9771452,-122.2952474
+Kensington,California,37.9104805,-122.2802471
+Knightsen,California,37.9688117,-121.6680084
+Empire,California,37.6382642,-120.9021536
+Grayson,California,37.5638204,-121.1793811
+Hickman,California,37.6235429,-120.7538163
+Keyes,California,37.5565994,-120.9154858
+Ashland,California,37.6946528,-122.1138531
+Castro Valley,California,37.6940973,-122.0863522
+Bootjack,California,37.4649385,-119.8865571
+Mariposa,California,37.4849377,-119.9662843
+Broadmoor,California,37.6866,-122.4827509
+El Granada,California,37.5027185,-122.4694214
+Highlands-Baywood Park,California,37.522645,-122.344766
+Le Grand,California,37.228554,-120.2482336
+Auberry,California,37.0807823,-119.4854113
+Biola,California,36.8021676,-120.0162684
+Bowles,California,36.6041167,-119.7509723
+Cantua Creek,California,36.50134,-120.3162666
+Caruthers,California,36.5427271,-119.8331965
+Easton,California,36.6502271,-119.7906977
+Malaga,California,36.6835611,-119.7337514
+Friant,California,36.9877274,-119.7118118
+Lanare,California,36.4305054,-119.9309749
+Laton,California,36.4332835,-119.686799
+Alum Rock,California,37.3660513,-121.8271756
+Cambrian Park,California,37.2568879,-121.930789
+Big Pine,California,37.1649307,-118.289546
+Cartago,California,36.3207709,-118.0264725
+Lone Pine,California,36.6060444,-118.0628654
+Valley Wells,California,35.8282862,-117.331723
+Independence,California,36.8027102,-118.2000951
+Keeler,California,36.4871576,-117.8739694
+Corralitos,California,36.988562,-121.8063418
+Aptos,California,36.9771729,-121.8994016
+Ben Lomond,California,37.0891143,-122.0863528
+Boulder Creek,California,37.1260578,-122.1221869
+Felton,California,37.0513374,-122.0732973
+Freedom,California,36.9352303,-121.7730065
+Interlaken,California,36.9513409,-121.7338382
+Chualar,California,36.5705171,-121.5185514
+Aromas,California,36.8885646,-121.6430011
+Bradley,California,35.8632993,-120.8007321
+Castroville,California,36.7657904,-121.758005
+Elkhorn,California,36.8243999,-121.7405047
+Alpaugh,California,35.8877316,-119.4873422
+East Porterville,California,36.0574518,-118.9756551
+London,California,36.4760619,-119.4431785
+Goshen,California,36.3510616,-119.4201204
+Ivanhoe,California,36.3871725,-119.2178889
+Lemon Cove,California,36.378978,-119.0312445
+Armona,California,36.3157833,-119.7084642
+Home Garden,California,36.3032834,-119.6362393
+Kettleman City,California,36.0082865,-119.9617998
+Lemoore Station,California,36.2632757,-119.9048457
 Hartley,Texas,35.8855927,-102.3968605
+Crestline,California,34.2419509,-117.2855993
+Big Bear City,California,34.2611183,-116.84503
+Big River,California,34.1400159,-114.3613425
+Bloomington,California,34.07029,-117.3958797
+Bluewater,California,34.1744603,-114.2713396
+Johannesburg,California,35.3727406,-117.6347823
+Joshua Tree,California,34.134728,-116.3130661
+Lake Arrowhead,California,34.2483396,-117.1892078
+Lenwood,California,34.8766497,-117.1039314
+Los Osos,California,35.3110858,-120.8324006
+Cambria,California,35.5641381,-121.0807468
+Cayucos,California,35.4427512,-120.8921254
+Lake Nacimiento,California,35.7283018,-120.879626
+Bear Valley Springs,California,35.1591307,-118.6284245
+Bodfish,California,35.588009,-118.4920303
+Boron,California,34.9994202,-117.6497822
+Buttonwillow,California,35.400517,-119.4695619
+Edwards Air Force Base,California,34.9044901,-117.9294619
+Lost Hills,California,35.616349,-119.6942941
+McKittrick,California,35.3055201,-119.6226239
+Fellows,California,35.1785779,-119.5412328
+Ford City,California,35.1544112,-119.4562299
+Frazier Park,California,34.8227556,-118.9448219
+Golden Hills,California,35.142465,-118.4903643
+Inyokern,California,35.6468991,-117.8125674
+Keene,California,35.2235728,-118.5623117
+Kernville,California,35.7546732,-118.4253627
+Lake Isabella,California,35.6180087,-118.473141
+Lake of the Woods,California,34.8174781,-118.9964906
+Lamont,California,35.2596833,-118.9142666
+Lebec,California,34.8416435,-118.8648189
+Los Alamos,California,34.7444264,-120.2782114
+Isla Vista,California,34.4133292,-119.8609718
+Casa Conejo,California,34.1836165,-118.9434316
+El Rio,California,34.235783,-119.16383
+Citrus,California,34.1150082,-117.8917287
+Acton,California,34.469994,-118.1967418
+Altadena,California,34.1897275,-118.1311819
+Charter Oak,California,34.1030645,-117.8458938
+Marina del Rey,California,33.9802893,-118.4517449
+Hacienda Heights,California,33.9930677,-117.9686755
+Lake Los Angeles,California,34.6124905,-117.8281193
+Lennox,California,33.9380695,-118.3525752
+Bermuda Dunes,California,33.7427991,-116.2891752
+Cabazon,California,33.9175154,-116.7872399
+Cherry Valley,California,33.9725153,-116.9772484
+El Cerrito,California,33.8405721,-117.5228254
+Glen Avon,California,34.0116799,-117.4847714
+Highgrove,California,34.0158479,-117.3333772
+Home Gardens,California,33.8780714,-117.5208816
+Homeland,California,33.7430759,-117.1091967
+Lakeland Village,California,33.6386334,-117.3439286
+Lakeview,California,33.8386295,-117.1180873
 Lake Kiowa,Texas,33.5770541,-97.0130633
+Alpine,California,32.8350521,-116.7664109
+Bonita,California,32.6578318,-117.0300269
+Bonsall,California,33.2889226,-117.2255903
+Borrego Springs,California,33.2558717,-116.375012
+Bostonia,California,32.8075509,-116.9364153
+Fallbrook,California,33.3764196,-117.2511466
+Harbison Canyon,California,32.8203296,-116.8300236
+Jamul,California,32.7169988,-116.8761347
+Julian,California,33.0786552,-116.6019637
+La Presa,California,32.7081085,-116.9972487
+Lake San Marcos,California,33.1261506,-117.2083682
+Lakeside,California,32.8572718,-116.9222488
+Bombay Beach,California,33.3508667,-115.7297152
+Heber,California,32.7308911,-115.529718
 Briar,Texas,32.9951242,-97.5428007
 Girard,Texas,33.3623119,-100.6628976
 Elbert,Texas,33.2662152,-98.993959
@@ -463,14 +684,250 @@ Lozano,Texas,26.1892413,-97.5410972
 La Paloma,Texas,26.0459111,-97.667491
 Laguna Heights,Texas,26.0800784,-97.2538639
 Laureles,Texas,26.1092429,-97.4941516
+Mount Hebron,California,41.7870939,-122.0041737
+Tennant,California,41.5837652,-121.9133367
+Dorris,California,41.9673696,-121.91806
+Dunsmuir,California,41.2082089,-122.2719529
+Crescent City,California,41.7559481,-124.2017474
+Alturas,California,41.4871146,-120.5424555
+Cutten,California,40.7698498,-124.1428379
+Myrtletown,California,40.7887388,-124.1303382
+Redway,California,40.1201443,-123.8233635
+Willow Creek,California,40.9395774,-123.6314412
+Arcata,California,40.8665166,-124.0828396
+Blue Lake,California,40.8829072,-123.9839488
+Weaverville,California,40.7309778,-122.9419708
+Westwood,California,40.3059999,-121.0057931
+Shingletown,California,40.4923784,-121.8891586
+Millville,California,40.5493195,-122.1752786
+Montgomery Creek,California,40.8415447,-121.9236074
+Palo Cedro,California,40.5637631,-122.2388916
+Round Mountain,California,40.7940442,-121.9419412
+Anderson,California,40.448208,-122.2977815
+Mineral,California,40.3476588,-121.5949804
+Rancho Tehama Reserve,California,40.015688,-122.400717
+Corning,California,39.9276572,-122.1791556
+Delleker,California,39.8087896,-120.4979932
+Spring Garden,California,39.8948939,-120.7860601
+Meadow Valley,California,39.9296124,-121.0607909
+Paxton,California,40.0379464,-120.9949562
+Prattville,California,40.208775,-121.1566291
+Quincy,California,39.9368363,-120.9471764
+Tobin,California,39.9379409,-121.3085769
+Twain,California,40.0201673,-121.0719031
+Storrie,California,39.9173852,-121.3232992
+Taylorsville,California,40.0754477,-120.8396752
+Durham,California,39.6462733,-121.7999767
+South Oroville,California,39.4965532,-121.5521921
+Palermo,California,39.4354432,-121.5380243
+Chico,California,39.7284945,-121.8374777
+Biggs,California,39.4123876,-121.7127513
+Thermalito,California,39.5112752,-121.5869154
+Mendocino,California,39.3076744,-123.7994591
+Talmage,California,39.1332266,-123.167782
+Linda,California,39.1276702,-121.5507976
+Olivehurst,California,39.0954484,-121.5521858
+Middletown,California,38.7524045,-122.6149853
+Nice,California,39.1232253,-122.848327
+North Lakeport,California,39.0882903,-122.9054114
+Upper Lake,California,39.1646129,-122.9105515
+Colusa,California,39.2143343,-122.0094175
+Dollar Point,California,39.1879625,-120.0999135
+Meadow Vista,California,39.0010079,-121.0218887
+Auburn,California,38.8965654,-121.0768901
+Tahoe Vista,California,39.2399068,-120.0510249
+Colfax,California,39.1007298,-120.9532759
+Sutter,California,39.1598915,-121.7527482
+Diamond Springs,California,38.6946259,-120.8149355
+Shingle Springs,California,38.6657375,-120.9260509
+Pollock Pines,California,38.7612923,-120.5865935
+Davis,California,38.5449065,-121.7405167
+American Canyon,California,38.1749179,-122.2608044
+Calistoga,California,38.5787966,-122.5797054
+Monte Rio,California,38.4654695,-123.0088886
+Occidental,California,38.4074146,-122.9483307
+Cloverdale,California,38.8054624,-123.0172227
+Temelec,California,38.2665819,-122.4927593
+Cotati,California,38.3268593,-122.7072098
+North Highlands,California,38.6857362,-121.3721745
+Orangevale,California,38.6785145,-121.2257818
+Rio Linda,California,38.6910138,-121.4485654
+Rosemont,California,38.5518508,-121.3646739
+Citrus Heights,California,38.7071247,-121.2810611
+Vineyard,California,38.464488,-121.346917
+Walnut Grove,California,38.2421371,-121.5116197
+Wilton,California,38.4118551,-121.2721709
+Isleton,California,38.1618614,-121.6116206
+Amador City,California,38.4193553,-120.824103
+Ione,California,38.3526913,-120.9327177
+Jackson,California,38.3488024,-120.7741018
+Benicia,California,38.049365,-122.1585777
+Dixon,California,38.4454641,-121.8232958
+Dorrington,California,38.3013054,-120.277139
+Mokelumne Hill,California,38.3004709,-120.7063219
+Mountain Ranch,California,38.2282509,-120.5407599
+Murphys,California,38.1374202,-120.4596437
+Rail Road Flat,California,38.3432471,-120.5121479
+Rancho Calaveras,California,38.1275,-120.8583333
+San Andreas,California,38.1960298,-120.6804872
+Vallecito,California,38.0901992,-120.4735322
+Valley Springs,California,38.1915856,-120.8291033
+Wallace,California,38.1940853,-120.9779962
+West Point,California,38.3990786,-120.527426
+Angels,California,38.0706893,-120.5501372
+Soulsbyville,California,37.9846467,-120.2638005
+Mi-Wuk Village,California,38.0657551,-120.1849105
+Mono Vista,California,37.997702,-120.2699117
+Tuolumne City,California,37.9627027,-120.2412999
+Twain Harte,California,38.0396452,-120.2326891
+Dillon Beach,California,38.2507515,-122.9652768
+Muir Beach,California,37.8621493,-122.5813667
+Point Reyes Station,California,38.0690895,-122.8069356
+San Geronimo,California,38.0132562,-122.6638731
+Santa Venetia,California,37.9985338,-122.5252541
+Tomales,California,38.246307,-122.9055518
+Woodacre,California,38.0127006,-122.645261
+Belvedere,California,37.8727044,-122.4644171
+Stinson Beach,California,37.9004816,-122.6444263
+Tamalpais Valley,California,37.8792233,-122.5381056
+Linden,California,38.0213118,-121.0838313
+Lockeford,California,38.1635297,-121.1499447
+Diablo,California,37.8349258,-121.9580149
+Discovery Bay,California,37.9085357,-121.6002291
+Pacheco,California,37.9835332,-122.0752413
+Port Costa,California,38.0463097,-122.1833005
+Rodeo,California,38.0329771,-122.2669138
+Clayton,California,37.9410341,-121.9357925
+Vine Hill,California,38.0085326,-122.0960753
+Antioch,California,38.0049214,-121.805789
+Brentwood,California,37.931868,-121.6957863
+Concord,California,37.9779777,-122.0310733
+Denair,California,37.526323,-120.7968711
+East Oakdale,California,37.7879834,-120.8038204
+Salida,California,37.7057623,-121.0849369
+Shackelford,California,37.61382,-120.9927111
+Ceres,California,37.5949316,-120.9577098
+Westley,California,37.549376,-121.1991036
+San Lorenzo,California,37.6810422,-122.1244088
+Alameda,California,37.7652065,-122.2416355
+Berkeley,California,37.8715926,-122.272747
+Sunol,California,37.5943781,-121.8885683
+Dublin,California,37.7021521,-121.9357918
+Brisbane,California,37.6897178,-122.3400151
+Oakhurst,California,37.3279997,-119.6493154
+Chowchilla,California,37.1229997,-120.2601754
+Yosemite Lakes,California,37.1910585,-119.772653
+Montara,California,37.5421617,-122.5160892
+Moss Beach,California,37.5274401,-122.5133117
+Belmont,California,37.5202145,-122.2758008
+Burlingame,California,37.5841026,-122.3660825
+Daly City,California,37.7057657,-122.4619166
+Delhi,California,37.4321589,-120.7785354
+South Dos Palos,California,36.9643919,-120.653239
+Planada,California,37.2907749,-120.3185161
+Winton,California,37.389383,-120.6132516
+Atwater,California,37.3477174,-120.609084
+Dos Palos,California,36.9860582,-120.6265722
+Del Rey,California,36.6591171,-119.593744
+Shaver Lake,California,37.104114,-119.3176258
+Squaw Valley,California,36.7402261,-119.246785
+Raisin City,California,36.6024481,-119.9040349
+Riverdale,California,36.431061,-119.8595833
+Tranquillity,California,36.648839,-120.2526596
+Clovis,California,36.8252277,-119.7029194
+Coalinga,California,36.139678,-120.3601496
+Huron,California,36.2027308,-120.1029177
+San Martin,California,37.0849464,-121.6102216
+Campbell,California,37.2871651,-121.9499568
+Cupertino,California,37.3229978,-122.0321823
+Darwin,California,36.2679969,-117.5917348
+Shoshone,California,35.9730179,-116.2711387
+Olancha,California,36.2818827,-118.0064718
+Round Valley,California,37.4193758,-118.5876191
+Bishop,California,37.3635404,-118.3951101
+Tecopa,California,35.8482993,-116.2264127
+Soquel,California,36.9880057,-121.9566267
+Rio del Mar,California,36.9573339,-121.8834813
+Capitola,California,36.9752283,-121.953293
+Ridgemark,California,36.8124564,-121.3657673
+Del Monte Forest,California,36.5863492,-121.9474558
+Spreckels,California,36.6219046,-121.6468895
+Moss Landing,California,36.8044003,-121.7868953
+Pajaro,California,36.9041201,-121.7485609
+Prunedale,California,36.7757907,-121.6696689
+San Ardo,California,36.0205207,-120.9051826
+San Lucas,California,36.1288547,-121.0204672
+Carmel-by-the-Sea,California,36.5552387,-121.9232879
+Del Rey Oaks,California,36.5932934,-121.8349515
+Cutler,California,36.5232834,-119.2867823
+Ducor,California,35.8916196,-119.047324
+Earlimart,California,35.8841206,-119.2723328
+East Orosi,California,36.5480054,-119.2606704
+Springville,California,36.1302265,-118.8181495
+Orosi,California,36.5449499,-119.2873384
+Pixley,California,35.9685649,-119.2917785
+Richgrove,California,35.7966198,-119.1078814
+Three Rivers,California,36.4388364,-118.9045445
+Tipton,California,36.0593973,-119.3120577
+Traver,California,36.4552287,-119.4848471
+Woodville,California,36.0935637,-119.1989975
+Strathmore,California,36.145507,-119.0606587
+Terra Bella,California,35.962453,-119.0442687
+Dinuba,California,36.5432837,-119.3870656
 Morse,Texas,36.0625353,-101.4754422
 Dalhart,Texas,36.0594772,-102.5132497
 Lipscomb,Texas,36.2333711,-100.2709665
+Avenal,California,36.0041223,-120.1290272
+Stratford,California,36.1893956,-119.8231877
+Corcoran,California,36.098007,-119.5604015
 Canadian,Texas,35.91282,-100.3820772
 Borger,Texas,35.6678204,-101.3973876
 Channing,Texas,35.6836536,-102.3301953
 Cactus,Texas,36.0522574,-102.0023993
 Dumas,Texas,35.8655949,-101.9732353
+Mentone,California,34.070013,-117.1344806
+Morongo Valley,California,34.046955,-116.5808472
+Mountain View Acres,California,34.496663,-117.3489352
+Running Springs,California,34.2077859,-117.1092049
+San Antonio Heights,California,34.1555638,-117.6564437
+Chino,California,34.0122346,-117.688944
+Chino Hills,California,33.993796,-117.758884
+Wrightwood,California,34.3608341,-117.6333884
+Adelanto,California,34.5827699,-117.409215
+Barstow,California,34.8985937,-117.022818
+Big Bear Lake,California,34.2438964,-116.9114215
+Colton,California,34.0739016,-117.3136547
+Shandon,California,35.6552465,-120.3754325
+Nipomo,California,35.0427547,-120.4759986
+Oceano,California,35.0988648,-120.612393
+San Miguel,California,35.7524679,-120.6962826
+Arroyo Grande,California,35.1185869,-120.5907252
+Atascadero,California,35.4894169,-120.6707255
+Templeton,California,35.5496939,-120.7060049
+Derby Acres,California,35.2471876,-119.5954004
+Dustin Acres,California,35.2194092,-119.3906711
+South Taft,California,35.1346895,-119.4562301
+Squirrel Mountain Valley,California,35.6232866,-118.4098058
+Stallion Springs,California,35.0888553,-118.6425912
+Mettler,California,35.0638557,-118.9701023
+Mojave,California,35.0524699,-118.1739645
+Mountain Mesa,California,35.6393975,-118.4056391
+North Edwards,California,35.0166405,-117.8328431
+Oildale,California,35.4196799,-119.0195452
+Onyx,California,35.6902305,-118.220634
+Randsburg,California,35.3685739,-117.6581161
+Rosamond,California,34.8641446,-118.1634075
+Rosedale,California,35.3835708,-119.1453834
+Tupman,California,35.2980185,-119.3512247
+Valley Acres,California,35.2060764,-119.406783
+Weedpatch,California,35.2380173,-118.9151002
+Weldon,California,35.6657864,-118.2903579
+Wofford Heights,California,35.7068961,-118.4561967
+Arvin,California,35.209129,-118.828431
+Bakersfield,California,35.3732921,-119.0187125
+California City,California,35.125801,-117.9859038
+Taft Heights,California,35.1346895,-119.4726196
+Delano,California,35.7688425,-119.2470536
 Adrian,Texas,35.2747775,-102.6652114
 Amarillo,Texas,35.2219971,-101.8312969
 Clarendon,Texas,34.9378289,-100.8881993
@@ -478,6 +935,62 @@ Quail,Texas,34.9097746,-100.398456
 Samnorwood,Texas,35.0522736,-100.2806743
 Canyon,Texas,34.9803342,-101.9188024
 Claude,Texas,35.1117176,-101.3632223
+Montecito,California,34.4366626,-119.6320753
+Orcutt,California,34.8652574,-120.4359966
+Santa Ynez,California,34.6144313,-120.079868
+Vandenberg Village,California,34.7083155,-120.4676641
+Buellton,California,34.613597,-120.1926505
+Carpinteria,California,34.3988838,-119.5184564
+Summerland,California,34.4213845,-119.5965173
+Meiners Oaks,California,34.4469383,-119.2792795
+Mira Monte,California,34.4336056,-119.2851131
+Oak Park,California,34.1791716,-118.7628685
+Oak View,California,34.399996,-119.3001134
+Piru,California,34.4152743,-118.7939824
+Camarillo,California,34.2163937,-119.0376023
+Littlerock,California,34.521104,-117.9836793
+East Whittier,California,33.9633461,-118.018121
+East Los Angeles,California,34.0239015,-118.1720157
+South San Gabriel,California,34.0625103,-118.0903465
+South San Jose Hills,California,34.0127895,-117.9047845
+South Whittier,California,33.9608463,-118.0417328
+Quartz Hill,California,34.6452645,-118.2181308
+Rowland Heights,California,33.9761238,-117.9053395
+Val Verde,California,34.4449952,-118.657589
+Valinda,California,34.0452883,-117.9436749
+Carson,California,33.8314058,-118.2820165
+Cerritos,California,33.8583484,-118.0647871
+Claremont,California,34.0966764,-117.7197785
+Vincent,California,34.5005487,-118.1164615
+Walnut Park,California,33.9680703,-118.2250723
+West Whittier-Los Nietos,California,33.9760015,-118.068925
+Willowbrook,California,33.9169602,-118.2550726
+Agoura Hills,California,34.1363945,-118.7745348
+Alhambra,California,34.095287,-118.1270146
+Arcadia,California,34.1397292,-118.0353449
+Artesia,California,33.8658484,-118.0831212
+Avalon,California,33.3428065,-118.3278506
+Azusa,California,34.1336186,-117.9075627
+Baldwin Park,California,34.0852868,-117.9608978
+Bell,California,33.9775142,-118.1870156
+Bell Gardens,California,33.9652918,-118.1514588
+Bellflower,California,33.8816819,-118.1170117
+Beverly Hills,California,34.0736204,-118.4003563
+Bradbury,California,34.1469511,-117.9708982
+Burbank,California,34.1808392,-118.3089661
+Calabasas,California,34.1577833,-118.6384203
+Huntington Park,California,33.9816812,-118.2250725
+Industry,California,34.0197335,-117.9586754
+Inglewood,California,33.9616801,-118.3531311
+Irwindale,California,34.1069527,-117.9353413
+Commerce,California,34.0005691,-118.1597929
+Compton,California,33.8958492,-118.2200712
+Covina,California,34.0900091,-117.8903397
+Cudahy,California,33.9605701,-118.1853486
+Culver City,California,34.0211224,-118.3964665
+Diamond Bar,California,34.0286226,-117.8103367
+Downey,California,33.9400143,-118.1325688
+Duarte,California,34.1394513,-117.9772873
 Dimmitt,Texas,34.5509028,-102.3118607
 Childress,Texas,34.4264529,-100.2040019
 Bovina,Texas,34.5136823,-102.8829977
@@ -495,11 +1008,43 @@ Bellevue,Texas,33.6364933,-98.0139278
 Byers,Texas,34.0681503,-98.1905989
 Jolly,Texas,33.8639877,-98.3494937
 Dean,Texas,33.9503748,-98.34616
+Mecca,California,33.571692,-116.0772244
+Mira Loma,California,33.9925135,-117.5164389
+Nuevo,California,33.801408,-117.145866
+Pedley,California,33.9752919,-117.4758817
+Romoland,California,33.7458534,-117.1750335
+Rubidoux,California,33.9961256,-117.4056018
+Thousand Palms,California,33.8200183,-116.3902887
+Valle Vista,California,33.7477981,-116.8933555
+Cathedral City,California,33.7797426,-116.4652911
+Coachella,California,33.6803003,-116.173894
+Winchester,California,33.706966,-117.0844733
+Woodcrest,California,33.8822392,-117.3572651
+Banning,California,33.9255713,-116.8764103
+Beaumont,California,33.9294606,-116.977248
+Blythe,California,33.6103022,-114.5963456
+Calimesa,California,34.0039039,-117.0619755
+Canyon Lake,California,33.6850215,-117.2730931
+Sunnyslope,California,34.0119582,-117.4333807
+Indian Wells,California,33.7186333,-116.3083426
+Indio,California,33.7205771,-116.2155619
+Corona,California,33.8752935,-117.5664384
+Desert Hot Springs,California,33.961124,-116.5016784
 Bowie,Texas,33.5589953,-97.8486457
 Clarksville,Texas,33.6106648,-95.052722
 Bogata,Texas,33.4706656,-95.2138351
 Denison,Texas,33.7556593,-96.536658
 Callisburg,Texas,33.6978844,-97.0088971
+North Tustin,California,33.764462,-117.7939431
+Rossmoor,California,33.7855722,-118.0850642
+Aliso Viejo,California,33.565038,-117.727116
+Anaheim,California,33.8352932,-117.9145036
+Brea,California,33.9166805,-117.9000604
+Buena Park,California,33.8675143,-117.9981181
+Irvine,California,33.6694649,-117.8231107
+Costa Mesa,California,33.6411316,-117.9186689
+Cypress,California,33.8169599,-118.0372852
+Dana Point,California,33.4669721,-117.6981075
 Blossom,Texas,33.6614962,-95.3857864
 Deport,Texas,33.5262198,-95.3157832
 Bailey,Texas,33.4320531,-96.1658091
@@ -511,9 +1056,34 @@ Crosbyton,Texas,33.6600847,-101.2379276
 Idalou,Texas,33.6664733,-101.6829424
 Anton,Texas,33.8112013,-102.1637854
 De Kalb,Texas,33.5087256,-94.616319
+Spring Valley,California,32.744774,-116.998916
+Pine Valley,California,32.8214402,-116.5291841
+Rainbow,California,33.4103083,-117.1478096
+Ramona,California,33.0417111,-116.868082
+Rancho San Diego,California,32.7472748,-116.9353032
+Rancho Santa Fe,California,33.0203211,-117.202813
+Valley Center,California,33.2183701,-117.0341967
+Chula Vista,California,32.6400541,-117.0841955
+Winter Gardens,California,32.8311613,-116.9333599
+Carlsbad,California,33.1580933,-117.3505939
+Imperial Beach,California,32.5839444,-117.1130849
+Coronado,California,32.6858854,-117.1830891
+Del Mar,California,32.9594891,-117.2653146
 Cooper,Texas,33.3734427,-95.6882925
 Bryson,Texas,33.1612263,-98.385607
 Jacksboro,Texas,33.2184477,-98.1586558
+Desert Shores,California,33.4041996,-116.039724
+Niland,California,33.2400366,-115.5188756
+Ocotillo,California,32.7386713,-115.99418
+Palo Verde,California,33.432807,-114.7321814
+Salton City,California,33.2986497,-115.9561112
+Salton Sea Beach,California,33.3750346,-116.0119455
+Seeley,California,32.7931129,-115.6911118
+Winterhaven,California,32.739491,-114.6346751
+Brawley,California,32.9786566,-115.530267
+Calexico,California,32.6789476,-115.4988834
+Calipatria,California,33.1255957,-115.5141538
+Imperial,California,32.8475529,-115.5694391
 Chico,Texas,33.2959463,-97.7989236
 Aurora,Texas,33.0606784,-97.5033561
 Bridgeport,Texas,33.2101155,-97.7547552
@@ -842,18 +1412,192 @@ Santa Maria,Texas,26.0786883,-97.8494421
 Tierra Bonita,Texas,26.2714619,-97.8258298
 Villa del Sol,Texas,26.1914635,-97.574154
 Brownsville,Texas,25.9017472,-97.4974838
+Etna,California,41.4568065,-122.8947551
+Fort Jones,California,41.6076387,-122.8403099
+Montague,California,41.7281985,-122.5278007
+Mount Shasta,California,41.3098746,-122.3105666
+Eureka,California,40.8020712,-124.1636729
+Ferndale,California,40.5762406,-124.2639442
+Fortuna,California,40.5981867,-124.1572756
+Rio Dell,California,40.4993013,-124.1064369
+Redding,California,40.5865396,-122.3916754
+Red Bluff,California,40.1784886,-122.2358302
+Portola,California,39.8104567,-120.4691034
+Gridley,California,39.3637773,-121.6935833
+Oroville,California,39.5137752,-121.556359
+Fort Bragg,California,39.445723,-123.8052935
+Point Arena,California,38.908798,-123.6930726
+Orland,California,39.7473803,-122.1963748
+Loyalton,California,39.6762936,-120.2410385
+Marysville,California,39.1457253,-121.5913547
+Lakeport,California,39.0429506,-122.9158293
+Grass Valley,California,39.2190608,-121.0610606
+Nevada City,California,39.2615606,-121.0160594
+Lincoln,California,38.891565,-121.2930079
+Rocklin,California,38.7907339,-121.2357828
+Roseville,California,38.7521235,-121.2880059
+Live Oak,California,39.2757232,-121.6599701
+Placerville,California,38.7296252,-120.798546
+Napa,California,38.2971367,-122.2855293
+Healdsburg,California,38.6104658,-122.8691609
+Rohnert Park,California,38.3396367,-122.7010984
+Petaluma,California,38.232417,-122.6366524
+Elk Grove,California,38.4087993,-121.3716178
+Folsom,California,38.6779591,-121.1760583
+Galt,California,38.2546373,-121.2999485
+Rancho Cordova,California,38.5890723,-121.302728
+Plymouth,California,38.4818531,-120.844659
+Fairfield,California,38.2493581,-122.0399663
+Rio Vista,California,38.1557502,-121.6913439
+Mill Valley,California,37.9060368,-122.5449763
+Novato,California,38.1074199,-122.5697032
+Larkspur,California,37.9340915,-122.5352539
+Escalon,California,37.7974273,-120.9966033
+Lodi,California,38.1301968,-121.2724473
+Ripon,California,37.741595,-121.1243828
+Manteca,California,37.7974273,-121.2160526
+Lathrop,California,37.8227046,-121.27661
+El Cerrito,California,37.9157581,-122.3116367
+Hercules,California,38.0171441,-122.2885808
+Richmond,California,37.9357576,-122.3477486
+Martinez,California,38.0193657,-122.1341321
+Oakley,California,37.9974219,-121.7124536
+Orinda,California,37.8771476,-122.1796888
+Pinole,California,38.0043667,-122.2988587
+Pittsburg,California,38.0279762,-121.8846806
+Pleasant Hill,California,37.9479786,-122.0607963
+Lafayette,California,37.8857582,-122.1180201
+Hughson,California,37.5968764,-120.8660408
+Riverbank,California,37.7360396,-120.9354895
+Modesto,California,37.6390972,-120.9968782
+Newman,California,37.3138267,-121.0207614
+Oakdale,California,37.7665947,-120.8471545
+Patterson,California,37.4716001,-121.129656
+Emeryville,California,37.831316,-122.2852473
+Fremont,California,37.5482697,-121.9885719
+Hayward,California,37.6688205,-122.0807964
+Livermore,California,37.6818745,-121.7680088
+Newark,California,37.5296593,-122.0402399
+Oakland,California,37.8043722,-122.2708026
+Piedmont,California,37.8243715,-122.231635
+Pleasanton,California,37.6624312,-121.8746789
+Madera,California,36.9613356,-120.0607176
+East Palo Alto,California,37.4688273,-122.1410751
+Foster City,California,37.5585465,-122.2710788
+Half Moon Bay,California,37.4635519,-122.4285862
+Redwood City,California,37.4852152,-122.2363548
+Menlo Park,California,37.4538274,-122.1821871
+Millbrae,California,37.5985468,-122.3871942
+Pacifica,California,37.6138253,-122.4869194
+Atherton,California,37.4613272,-122.197743
+Gustine,California,37.2577171,-120.9988154
+Livingston,California,37.3868826,-120.7235329
+Los Banos,California,37.0582786,-120.8499151
+Merced,California,37.3021633,-120.4829677
+Firebaugh,California,36.8588376,-120.4560072
+Fowler,California,36.6305058,-119.6784697
+Fresno,California,36.7477272,-119.7723661
+Reedley,California,36.5963395,-119.4504029
+Mendota,California,36.7535611,-120.3815574
+Orange Cove,California,36.624394,-119.3137301
+Parlier,California,36.6116174,-119.5270734
+Kerman,California,36.7235572,-120.059879
+Kingsburg,California,36.5138398,-119.5540175
+Gilroy,California,37.0057816,-121.5682751
+Los Altos,California,37.3852183,-122.1141298
+Milpitas,California,37.4282724,-121.9066238
+Monte Sereno,California,37.236333,-121.992458
+Morgan Hill,California,37.1305012,-121.6543901
+Mountain View,California,37.3860517,-122.0838511
+Palo Alto,California,37.4418834,-122.1430195
+Hollister,California,36.8524545,-121.4016021
+Gonzales,California,36.5066296,-121.4443806
+Greenfield,California,36.3207998,-121.2438138
+Marina,California,36.6844029,-121.802173
+Monterey,California,36.6002378,-121.8946761
+Pacific Grove,California,36.6177375,-121.9166215
+King City,California,36.2127439,-121.1260287
+Exeter,California,36.2960613,-119.1420517
+Farmersville,California,36.2977283,-119.2067767
+Lindsay,California,36.2030064,-119.08816
+Porterville,California,36.06523,-119.0167679
 Gruver,Texas,36.2650314,-101.4062723
 Perryton,Texas,36.4000313,-100.8026505
 Follett,Texas,36.4339237,-100.1415209
 Higgins,Texas,36.1197639,-100.0242899
+Hanford,California,36.3274502,-119.6456844
+Lemoore,California,36.3007835,-119.7829107
 Miami,Texas,35.6914327,-100.6381933
 Fritch,Texas,35.6397656,-101.603228
+Fontana,California,34.0922335,-117.435048
+Grand Terrace,California,34.0339031,-117.3136544
+Hesperia,California,34.4263886,-117.3008784
+Highland,California,34.1283442,-117.2086513
+Loma Linda,California,34.0483474,-117.2611527
+Rialto,California,34.1064001,-117.3703235
+Montclair,California,34.0775104,-117.6897776
+Needles,California,34.8480597,-114.6141315
+Ontario,California,34.0633443,-117.6508876
+Rancho Cucamonga,California,34.1063989,-117.5931084
+Redlands,California,34.0555693,-117.1825381
+El Paso de Robles,California,35.6394065,-120.655849
+Grover Beach,California,35.1216424,-120.6212821
+Morro Bay,California,35.3658075,-120.8499013
+Pismo Beach,California,35.1427533,-120.6412827
+Ridgecrest,California,35.6224561,-117.6708966
+Maricopa,California,35.058858,-119.4009509
+McFarland,California,35.6780104,-119.2292748
 Pampa,Texas,35.5361559,-100.9598709
 Mobeetie,Texas,35.5131022,-100.4417955
 Bishop Hills,Texas,35.2597744,-101.9504679
 Hereford,Texas,34.8150622,-102.3977036
 Hedley,Texas,34.8669964,-100.6604111
 Howardwick,Texas,35.0372721,-100.9068118
+Guadalupe,California,34.971644,-120.5718363
+Lompoc,California,34.6391501,-120.4579409
+Fillmore,California,34.3991639,-118.918154
+Moorpark,California,34.285558,-118.8820414
+Ojai,California,34.4480495,-119.242889
+Oxnard,California,34.1975048,-119.1770516
+Port Hueneme,California,34.1477829,-119.1951074
+El Monte,California,34.0686207,-118.0275667
+El Segundo,California,33.9191799,-118.4164652
+Gardena,California,33.8883487,-118.3089624
+Glendale,California,34.1425078,-118.255075
+Glendora,California,34.1361187,-117.865339
+Hawaiian Gardens,California,33.8314045,-118.0728424
+Hawthorne,California,33.9164032,-118.3525748
+Hermosa Beach,California,33.8622367,-118.3995194
+Hidden Hills,California,34.1602832,-118.6523096
+Lomita,California,33.7922392,-118.3150722
+Long Beach,California,33.7669623,-118.1892348
+Los Angeles,California,34.0522342,-118.2436849
+Lynwood,California,33.930293,-118.2114603
+Rolling Hills,California,33.7569615,-118.3539613
+Rolling Hills Estates,California,33.7877943,-118.3581284
+Rosemead,California,34.0805651,-118.072846
+Manhattan Beach,California,33.8847361,-118.4109089
+Maywood,California,33.9866807,-118.185349
+Monrovia,California,34.1480621,-117.9989548
+Montebello,California,34.0094444,-118.1052778
+Monterey Park,California,34.0625106,-118.1228476
+Norwalk,California,33.9022367,-118.081733
+Palmdale,California,34.5794343,-118.1164613
+Palos Verdes Estates,California,33.8005714,-118.3900737
+Paramount,California,33.8894598,-118.1597911
+Pasadena,California,34.1477849,-118.1445155
+Pico Rivera,California,33.9830688,-118.096735
+Pomona,California,34.0552886,-117.7522793
+Rancho Palos Verdes,California,33.7444613,-118.3870173
+Redondo Beach,California,33.8491816,-118.3884078
+La Cañada Flintridge,California,34.1991718,-118.1878507
+La Habra Heights,California,33.9608461,-117.9506186
+La Mirada,California,33.9172357,-118.0120086
+La Puente,California,34.0200114,-117.9495083
+La Verne,California,34.1008426,-117.7678355
+Lakewood,California,33.8536269,-118.1339563
+Lancaster,California,34.6980406,-118.1367393
+Lawndale,California,33.887237,-118.3525744
 Kress,Texas,34.3664546,-101.7485133
 Quitaque,Texas,34.3661771,-101.0570931
 Hart,Texas,34.3850726,-102.1157408
@@ -872,12 +1616,40 @@ Muleshoe,Texas,34.2264676,-102.7238264
 Electra,Texas,34.0292588,-98.9189575
 Henrietta,Texas,33.8173224,-98.1953221
 Petrolia,Texas,34.0131515,-98.232267
+Hemet,California,33.7475203,-116.9719684
+Riverside,California,33.9533487,-117.3961564
+Moreno Valley,California,33.937517,-117.2305944
+Murrieta,California,33.5539143,-117.2139232
+Norco,California,33.9311257,-117.548661
+Palm Desert,California,33.7222445,-116.3744556
+Palm Springs,California,33.8302961,-116.5452921
+Perris,California,33.7825194,-117.2286478
+Rancho Mirage,California,33.739744,-116.41279
+La Quinta,California,33.6633573,-116.3100095
+Lake Elsinore,California,33.6680772,-117.3272615
 Nocona,Texas,33.7867684,-97.7258626
 Avery,Texas,33.5520559,-94.7810463
 Gunter,Texas,33.4478881,-96.747494
 Bells,Texas,33.6103837,-96.4108188
 Gainesville,Texas,33.6259414,-97.1333453
 Muenster,Texas,33.6517736,-97.3764089
+Fountain Valley,California,33.7091847,-117.9536697
+Fullerton,California,33.8702924,-117.925338
+Garden Grove,California,33.7739053,-117.9414477
+Huntington Beach,California,33.660297,-117.9992265
+Los Alamitos,California,33.8030717,-118.0725641
+Mission Viejo,California,33.6000233,-117.6719953
+Newport Beach,California,33.6189101,-117.9289469
+Orange,California,33.7877945,-117.8531119
+Placentia,California,33.8722371,-117.8703363
+Rancho Santa Margarita,California,33.640855,-117.603104
+La Habra,California,33.9319578,-117.9461734
+La Palma,California,33.846404,-118.0467306
+Laguna Beach,California,33.5422475,-117.7831104
+Laguna Hills,California,33.612523,-117.71283
+Laguna Niguel,California,33.5225261,-117.7075526
+Laguna Woods,California,33.6103009,-117.7253305
+Lake Forest,California,33.6469661,-117.689218
 Reno,Texas,33.6631622,-95.4624548
 Roxton,Texas,33.5462168,-95.7257949
 Paris,Texas,33.6609389,-95.555513
@@ -901,7 +1673,17 @@ Maud,Texas,33.3329014,-94.3426964
 Nash,Texas,33.4423462,-94.130747
 New Boston,Texas,33.4598415,-94.4154787
 Red Lick,Texas,33.4648454,-94.1710266
+El Cajon,California,32.7947731,-116.9625269
+Encinitas,California,33.0369867,-117.2919818
+Escondido,California,33.1192068,-117.086421
+Lemon Grove,California,32.7425516,-117.0314172
+National City,California,32.6781085,-117.0991967
+Oceanside,California,33.1958696,-117.3794834
+Poway,California,32.9628233,-117.0358646
+La Mesa,California,32.7678288,-117.0230839
 Pecan Gap,Texas,33.4370521,-95.8466311
+El Centro,California,32.792,-115.5630514
+Holtville,California,32.8111612,-115.3802643
 Rhome,Texas,33.0534563,-97.4719662
 Runaway Bay,Texas,33.1678941,-97.8783697
 New Fairview,Texas,33.09917,-97.44639
@@ -1310,6 +2092,76 @@ Palm Valley,Texas,26.2017416,-97.7541602
 Port Isabel,Texas,26.0734119,-97.2085844
 La Feria,Texas,26.1589644,-97.8238853
 Bayview,Texas,26.1286875,-97.3983143
+Tulelake,California,41.9559885,-121.4774916
+Weed,California,41.4226498,-122.3861269
+Yreka,California,41.7354187,-122.6344708
+Trinidad,California,41.059291,-124.1431246
+Susanville,California,40.4162842,-120.6530063
+Shasta Lake,California,40.6804279,-122.3708419
+Tehama,California,40.0271015,-122.1233228
+Ukiah,California,39.1501709,-123.2077831
+Willits,California,39.4096079,-123.3555656
+Willows,California,39.5243265,-122.1935931
+Wheatland,California,39.0098947,-121.4230133
+Williams,California,39.1546137,-122.1494187
+Loomis,California,38.8212889,-121.1930041
+Yuba City,California,39.1404477,-121.6169108
+South Lake Tahoe,California,38.9332411,-119.9843482
+West Sacramento,California,38.5804609,-121.530234
+Winters,California,38.5249065,-121.9708017
+Woodland,California,38.6785157,-121.7732971
+Saint Helena,California,38.5051866,-122.4702578
+Yountville,California,38.4015781,-122.3608105
+Santa Rosa,California,38.4404675,-122.7144314
+Sebastopol,California,38.4021359,-122.8238806
+Sonoma,California,38.291859,-122.4580356
+Sacramento,California,38.5815719,-121.4943996
+Sutter Creek,California,38.3929675,-120.8024357
+Suisun City,California,38.2471183,-122.0085249
+Vacaville,California,38.3565773,-121.9877444
+Vallejo,California,38.1040864,-122.2566367
+Sonora,California,37.9840911,-120.3821381
+San Rafael,California,37.9735346,-122.5310874
+Sausalito,California,37.8590938,-122.4852507
+Ross,California,37.9624239,-122.5549775
+Fairfax,California,37.9871455,-122.5888686
+Stockton,California,37.9577016,-121.2907796
+Tracy,California,37.7396513,-121.4252227
+San Pablo,California,37.9621457,-122.3455263
+San Ramon,California,37.7799273,-121.9780153
+Walnut Creek,California,37.9063131,-122.064963
+Danville,California,37.8215929,-121.9999606
+Turlock,California,37.4946568,-120.8465941
+Waterford,California,37.6413202,-120.7604834
+San Leandro,California,37.7249296,-122.1560768
+Union City,California,37.5958333,-122.0191667
+San Francisco,California,37.7749295,-122.4194155
+San Bruno,California,37.6304904,-122.4110835
+San Carlos,California,37.5071591,-122.2605222
+San Mateo,California,37.5629917,-122.3255254
+South San Francisco,California,37.654656,-122.4077498
+Portola Valley,California,37.3841067,-122.2352443
+Hillsborough,California,37.5741032,-122.3794163
+San Joaquin,California,36.6066162,-120.1890447
+Sanger,California,36.708006,-119.5559652
+Selma,California,36.5707838,-119.6120765
+San Jose,California,37.3393857,-121.8949555
+Santa Clara,California,37.354108,-121.9552356
+Saratoga,California,37.2638324,-122.0230146
+Sunnyvale,California,37.3688301,-122.0363496
+Los Altos Hills,California,37.3796627,-122.1374637
+Los Gatos,California,37.226611,-121.9746797
+Santa Cruz,California,36.9741171,-122.0307963
+Scotts Valley,California,37.0510595,-122.0146841
+Watsonville,California,36.910231,-121.7568946
+San Juan Bautista,California,36.8455108,-121.5379974
+Salinas,California,36.6777372,-121.6555013
+Sand City,California,36.6171819,-121.8482855
+Seaside,California,36.611041,-121.844605
+Soledad,California,36.424687,-121.3263187
+Tulare,California,36.2077288,-119.3473379
+Visalia,California,36.3302284,-119.2920585
+Woodlake,California,36.4135606,-119.0987176
 Stratford,Texas,36.3361403,-102.0721191
 Texhoma,Texas,36.4937,-101.793764
 Spearman,Texas,36.1983665,-101.1923795
@@ -1317,6 +2169,17 @@ Booker,Texas,36.4533648,-100.5373673
 Darrouzett,Texas,36.446144,-100.3248604
 Stinnett,Texas,35.8269841,-101.4429435
 Sunray,Texas,36.0167027,-101.824616
+San Bernardino,California,34.1083449,-117.2897652
+Twentynine Palms,California,34.1355582,-116.0541689
+Upland,California,34.09751,-117.6483876
+Victorville,California,34.5361067,-117.2911565
+Yucaipa,California,34.033625,-117.0430865
+Apple Valley,California,34.5008311,-117.1858759
+San Luis Obispo,California,35.2827524,-120.6596156
+Shafter,California,35.5005139,-119.2717761
+Taft,California,35.1424671,-119.4565078
+Tehachapi,California,35.1321878,-118.4489739
+Wasco,California,35.5941238,-119.3409457
 Vega,Texas,35.2428319,-102.4282607
 Groom,Texas,35.2036602,-101.1068215
 Lefors,Texas,35.4364356,-100.805698
@@ -1324,6 +2187,32 @@ Shamrock,Texas,35.2142167,-100.2490075
 Wheeler,Texas,35.4453257,-100.2709552
 Wellington,Texas,34.856166,-100.2137263
 Dodson,Texas,34.7667247,-100.023994
+Santa Barbara,California,34.4208305,-119.6981901
+Santa Maria,California,34.9530337,-120.4357191
+Solvang,California,34.5958201,-120.1376481
+San Buenaventura,California,34.2675042,-119.2548257
+Santa Paula,California,34.3541659,-119.0592705
+Simi Valley,California,34.2694474,-118.781482
+Thousand Oaks,California,34.1705609,-118.8375937
+San Dimas,California,34.1066756,-117.8067257
+San Fernando,California,34.2819461,-118.4389719
+San Gabriel,California,34.0961111,-118.1058333
+San Marino,California,34.121397,-118.1064585
+Santa Clarita,California,34.3916641,-118.542586
+Santa Fe Springs,California,33.9472359,-118.0853451
+Santa Monica,California,34.0194543,-118.4911912
+Sierra Madre,California,34.1616729,-118.0528456
+Signal Hill,California,33.8044614,-118.1678456
+South El Monte,California,34.0519548,-118.0467339
+South Gate,California,33.954737,-118.2120161
+South Pasadena,California,34.1161196,-118.1503488
+Temple City,California,34.1072305,-118.0578456
+Torrance,California,33.8358492,-118.3406288
+Vernon,California,34.003903,-118.230073
+Walnut,California,34.0202894,-117.8653386
+West Covina,California,34.0686208,-117.9389526
+Westlake Village,California,34.1458389,-118.8056474
+Whittier,California,33.9791793,-118.032844
 Tulia,Texas,34.5358942,-101.7585159
 Happy,Texas,34.7436704,-101.8546322
 Silverton,Texas,34.4742306,-101.3046051
@@ -1337,6 +2226,8 @@ Edmonson,Texas,34.2825704,-101.900181
 Sudan,Texas,34.0678644,-102.5243624
 Wichita Falls,Texas,33.9137085,-98.4933873
 Pleasant Valley,Texas,33.9389854,-98.5895016
+San Jacinto,California,33.7839084,-116.958635
+Temecula,California,33.4936391,-117.1483648
 Saint Jo,Texas,33.6948279,-97.5225245
 Annona,Texas,33.5806657,-94.9154952
 Detroit,Texas,33.6614974,-95.266617
@@ -1350,6 +2241,15 @@ Dorchester,Texas,33.5303861,-96.6894367
 Pottsboro,Texas,33.759271,-96.6694402
 Howe,Texas,33.5087196,-96.6122117
 Lindsay,Texas,33.635941,-97.2227927
+San Clemente,California,33.4269728,-117.6119925
+San Juan Capistrano,California,33.5016932,-117.6625509
+Santa Ana,California,33.7455731,-117.8678338
+Seal Beach,California,33.7414065,-118.1047866
+Stanton,California,33.8025155,-117.9931165
+Tustin,California,33.7458511,-117.826166
+Villa Park,California,33.8144608,-117.8131112
+Westminster,California,33.759183,-118.0067271
+Yorba Linda,California,33.8886259,-117.8131125
 Toco,Texas,33.6548268,-95.6460712
 Savoy,Texas,33.5992726,-96.3666507
 Trenton,Texas,33.4306652,-96.3385926
@@ -1367,6 +2267,12 @@ Ransom Canyon,Texas,33.5334202,-101.6796064
 Sundown,Texas,33.456207,-102.4893574
 Texarkana,Texas,33.425125,-94.0476882
 Wake Village,Texas,33.4267912,-94.1063014
+San Diego,California,32.7153292,-117.1572551
+San Marcos,California,33.1433723,-117.1661449
+Santee,California,32.8383828,-116.9739167
+Solana Beach,California,32.991155,-117.2711481
+Vista,California,33.2000368,-117.2425355
+Westmorland,California,33.0372674,-115.6213817
 Boyd,Texas,33.0787326,-97.5653027
 Alvord,Texas,33.3584454,-97.6947537
 Sanger,Texas,33.3631706,-97.1739028
@@ -1623,16 +2529,82 @@ Rancho Viejo,Texas,26.0395222,-97.5563763
 Indian Lake,Texas,26.0892433,-97.5024853
 Laguna Vista,Texas,26.1009111,-97.2902543
 Los Indios,Texas,26.0492445,-97.7449935
+Adin,California,41.19378,-120.945245
+California Pines,California,41.4098922,-120.6791267
+Canby,California,41.4437793,-120.8702442
+Cedarville,California,41.5290606,-120.1732781
+Burnt Ranch,California,40.8090268,-123.4742085
+Bieber,California,41.1212775,-121.1441396
+Bella Vista,California,40.6407071,-122.2325031
+Paradise,California,39.7596061,-121.6219177
+Alleghany,California,39.4696185,-120.843279
+Calpine,California,39.6662911,-120.4396558
+Dobbins,California,39.3715577,-121.2060694
+Truckee,California,39.327962,-120.1832533
+College City,California,39.0057303,-122.0094129
+Camino,California,38.7382366,-120.6749302
+Coloma,California,38.7999014,-120.890216
+Clarksburg,California,38.4204651,-121.5271772
+Windsor,California,38.5471327,-122.8163802
+Bloomfield,California,38.313805,-122.8511046
+Bodega,California,38.345194,-122.9738878
+Carmet,California,38.3743603,-123.0763912
+Cazadero,California,38.533246,-123.08528
+Antelope,California,38.7082357,-121.3299513
+Clay,California,38.3360244,-121.15939
+Courtland,California,38.3310231,-121.568566
+Mammoth Lakes,California,37.648546,-118.972079
+Aspen Springs,California,37.5546544,-118.7131817
+Benton,California,37.819099,-118.4765094
+Bridgeport,California,38.2557527,-119.2312656
+Chalfant,California,37.5104962,-118.3750841
+Coleville,California,38.5662988,-119.5071119
+Buena Vista,California,38.2943599,-120.9132726
+Camanche North Shore,California,38.2442184,-120.9539155
+Camanche Village,California,38.2699164,-120.9732743
+Allendale,California,38.4446306,-121.943022
+Cedar Ridge,California,38.0657558,-120.2768576
+Corte Madera,California,37.9254806,-122.5274755
+San Anselmo,California,37.9746458,-122.5616448
+Tiburon,California,37.8735377,-122.4566392
+Collierville,California,38.2146386,-121.2688365
+Moraga,California,37.8349263,-122.1296871
+Crows Landing,California,37.3938244,-121.0715976
+Bear Valley,California,37.5688237,-120.1193489
+Buck Meadows,California,37.8127044,-120.0643518
+Catheys Valley,California,37.4324391,-120.0979551
+Colma,California,37.6768779,-122.459695
+Woodside,California,37.4299388,-122.2538557
+Ballico,California,37.4543809,-120.7060337
+Cressey,California,37.4196598,-120.6674207
+Calwa,California,36.7105053,-119.7584755
+Centerville,California,36.7338394,-119.4979071
+Bonny Doon,California,37.0416156,-122.1505224
+Brookdale,California,37.1063361,-122.1060755
+Davenport,California,37.0116165,-122.1919133
 Texline,Texas,36.3778066,-103.0240968
 Sanford,Texas,35.7019864,-101.5346143
+Yucca Valley,California,34.1141743,-116.432235
+Avilla Beach,California,35.1971318,-120.719194
 Panhandle,Texas,35.3456038,-101.3804447
 Skellytown,Texas,35.575322,-101.1843245
 White Deer,Texas,35.4353241,-101.1729354
 McLean,Texas,35.2325495,-100.5998558
 Palisades,Texas,35.061721,-101.8024087
+Ballard,California,34.6358193,-120.1132029
+Casmalia,California,34.8380355,-120.5312785
+Cuyama,California,34.9352537,-119.6151279
+Agua Dulce,California,34.4963817,-118.3256348
+Castaic,California,34.4888822,-118.6228656
 Matador,Texas,34.0120211,-100.8220785
 Paducah,Texas,34.0123005,-100.3020588
 Springlake,Texas,34.2317499,-102.3060203
+Wildomar,California,33.5989126,-117.2800372
+Menifee,California,33.728354,-117.1464209
+Aguanga,California,33.4428094,-116.8650235
+Anza,California,33.555028,-116.6736299
+Desert Center,California,33.7125191,-115.4022052
+Desert Edge,California,33.9241667,-116.4413889
 Collinsville,Texas,33.5614982,-96.9111138
 Tioga,Texas,33.4667784,-96.918336
 Whitewright,Texas,33.5128856,-96.3924833
@@ -1647,6 +2619,9 @@ Buffalo Springs,Texas,33.5320312,-101.708218
 Whiteface,Texas,33.6000974,-102.6138084
 Opdyke West,Texas,33.5923153,-102.3024003
 Smyer,Texas,33.5842563,-102.1632291
+Boulevard,California,32.6636712,-116.273629
+Campo,California,32.6064494,-116.4689053
+Descanso,California,32.8528287,-116.6158525
 Northlake,Texas,33.1273432,-97.2655726
 Copper Canyon,Texas,33.0959546,-97.0966777
 Corral City,Texas,33.1001215,-97.2261266
@@ -1786,7 +2761,175 @@ Englevale,North Dakota,46.3927458,-97.9134343
 McLeod,North Dakota,46.3935753,-97.2995351
 Porcupine,North Dakota,46.2188898,-101.0987425
 De Lamere,North Dakota,46.2671834,-97.3350905
+Fort Bidwell,California,41.8604463,-120.1513388
+Lake City,California,41.6426708,-120.2168926
+Likely,California,41.2304507,-120.5041193
+Lookout,California,41.2079441,-121.1552523
+Newell,California,41.8882132,-121.3722116
+New Pine Creek,California,41.9926652,-120.2971776
+Douglas City,California,40.6520897,-122.9447474
+Hyampom,California,40.6173635,-123.4525362
+Junction City,California,40.733199,-123.0536402
+Mad River,California,40.4523655,-123.509756
+Trinity Center,California,40.9832011,-122.6997441
+Doyle,California,40.0279592,-120.1038161
+Herlong,California,40.1435142,-120.1346519
+Johnstonville,California,40.3843408,-120.5874483
+Keswick,California,40.6223721,-122.4658452
+Shasta,California,40.5993165,-122.4919571
+Downieville,California,39.5593405,-120.8268905
+Goodyears Bar,California,39.5398949,-120.8843931
+Pike,California,39.4390595,-120.9980079
+Sattley,California,39.6160137,-120.4271545
+Sierra City,California,39.5657329,-120.6338273
+Sierraville,California,39.5896256,-120.3674301
+Verdi,California,39.5243535,-120.0132564
+Plumas Lake,California,39.0207272,-121.5580176
+Soda Bay,California,39.0010075,-122.7891577
+Grimes,California,39.0743383,-121.8938583
+Lodoga,California,39.3018307,-122.4891522
+Maxwell,California,39.2762768,-122.191366
+Princeton,California,39.4032192,-122.009975
+Stonyford,California,39.3751619,-122.5441551
+Newcastle,California,38.8740658,-121.1332806
+Sheridan,California,38.9796179,-121.3755114
+East Nicolaus,California,38.9101746,-121.5449598
+Meridian,California,39.1432254,-121.9144153
+Nicolaus,California,38.9032305,-121.5777385
+Rio Oso,California,38.9610064,-121.544405
+Robbins,California,38.8701766,-121.7063532
+Trowbridge,California,38.9107301,-121.525237
+Dunnigan,California,38.8851773,-121.9696908
+Knights Landing,California,38.7996238,-121.718297
+Madison,California,38.6793483,-121.9683023
+Yolo,California,38.7318481,-121.8077431
+Oakville,California,38.4368549,-122.4022007
+Rutherford,California,38.458521,-122.422479
+Silverado Resort,California,38.3536373,-122.2555398
+Fulton,California,38.4962997,-122.7699886
+Geyserville,California,38.707687,-122.9024964
+Jenner,California,38.4496365,-123.1155588
+Kenwood,California,38.4138005,-122.5460935
+Penngrove,California,38.2996376,-122.6666533
+Salmon Creek,California,38.350472,-123.0622242
+Sea Ranch,California,38.7151899,-123.4544532
+Valley Ford,California,38.3179721,-122.9241635
+Elverta,California,38.713791,-121.4627326
+Franklin,California,38.3790776,-121.4543973
+Freeport,California,38.4618527,-121.5016216
+Herald,California,38.2957474,-121.2443919
+Hood,California,38.3682444,-121.5174543
+Parkway,California,38.4960185,-121.458843
+June Lake,California,37.7796529,-119.0754228
+Lee Vining,California,37.9574254,-119.1218156
+Paradise,California,37.4828541,-118.6022137
+Topaz,California,38.61882,-119.51949
+Walker,California,38.5149112,-119.4768329
+Drytown,California,38.4410213,-120.8543816
+Fiddletown,California,38.5037966,-120.7554891
+Martell,California,38.3668572,-120.7960468
+Pine Grove,California,38.4129668,-120.6588196
+Pioneer,California,38.4318551,-120.5718719
+Red Corral,California,38.411648,-120.6055161
+Volcano,California,38.4429658,-120.6307628
+Hartley,California,38.4171313,-121.9469106
+Long Barn,California,38.0929762,-120.1343539
+Pine Mountain Lake,California,37.8598738,-120.1843574
+Sierra Village,California,38.0718659,-120.1729657
+Tuttletown,California,37.9915909,-120.4596408
+Dogtown,California,38.2138064,-121.0885546
+Peters,California,37.9807573,-121.0479965
+Victor,California,38.1379746,-121.206057
+Norris Canyon,California,37.7460422,-121.9887844
+North Richmond,California,37.9588126,-122.3674713
+Saranap,California,37.8849248,-122.0760744
+Valley Home,California,37.8288158,-120.9121571
+El Portal,California,37.6746514,-119.7840609
+Fish Camp,California,37.4785497,-119.6404311
+Greeley Hill,California,37.744651,-120.1299092
+Midpines,California,37.5443798,-119.9204507
+Wawona,California,37.5368803,-119.6562684
+Fairmead,California,37.0763341,-120.1929487
+Dos Palos Y,California,37.0488349,-120.6354636
+El Nido,California,37.1349442,-120.4921291
+Santa Nella,California,37.1014377,-121.0153651
+Snelling,California,37.5191028,-120.4374151
+Stevinson,California,37.3277166,-120.8515908
+Tuttle,California,37.2960525,-120.3787966
+Volta,California,37.0974438,-120.92603
+Fort Washington,California,36.8792978,-119.761256
+Mayfair,California,36.7692726,-119.7613554
+Minkler,California,36.7238391,-119.458183
+Old Fig Garden,California,36.7988503,-119.8051527
+Sunnyside,California,36.7491167,-119.6993068
+Tarpey Village,California,36.7930055,-119.7009743
+Three Rocks,California,36.5024507,-120.391548
+La Selva Beach,California,36.9366187,-121.8646774
+Lompico,California,37.1055028,-122.0527402
+Mount Hermon,California,37.0510596,-122.0585746
+Paradise Park,California,37.0102272,-122.0435747
+Zayante,California,37.0918919,-122.0435734
+Tres Pinos,California,36.7899573,-121.321043
+Lockwood,California,35.9441337,-121.0832489
+Allensworth,California,35.8635651,-119.3890044
+California Hot Springs,California,35.881329,-118.664435
+Camp Nelson,California,36.1427237,-118.6092561
+Cedar Slope,California,36.1452233,-118.5784223
+Delft Colony,California,36.5118952,-119.4459569
+Hartland,California,36.6543914,-118.9576057
+Idlewild,California,35.8107846,-118.6720328
+Lindcove,California,36.3577274,-119.0645489
+Monson,California,36.4921726,-119.3365066
+Panorama Heights,California,35.8049511,-118.6292547
+Patterson Tract,California,36.3795181,-119.2956021
+Pine Flat,California,35.8780059,-118.6514771
+Plainview,California,36.1441184,-119.1339951
+Posey,California,35.8046737,-118.6828662
+Poso Park,California,35.8107844,-118.6348103
+Seville,California,36.4857832,-119.2231676
+Silver City,California,36.4660536,-118.6459278
+Sultana,California,36.5455058,-119.3401188
+Tonyville,California,36.2485614,-119.0906602
+Tooleville,California,36.2877535,-119.115435
+Waukena,California,36.1385621,-119.509567
+Wilsonia,California,36.7349465,-118.9564964
+Yettem,California,36.486339,-119.2595581
+Lytle Creek,California,34.2591728,-117.5000512
+Oak Glen,California,34.0494574,-116.9478045
+Oak Hills,California,34.383134,-117.381355
+Silver Lakes,California,34.745583,-117.340982
+Spring Valley Lake,California,34.493641,-117.268324
+Edna,California,35.2038641,-120.6129476
+Garden Farms,California,35.4180286,-120.6062789
+Los Berros,California,35.0788653,-120.542668
+Oak Shores,California,35.7624222,-120.9817286
+San Simeon,California,35.6438587,-121.1907533
+Santa Margarita,California,35.3899734,-120.609057
+Whitley Gardens,California,35.6591366,-120.5076614
+Garey,California,34.8885904,-120.31488
+Los Olivos,California,34.667763,-120.11487
+New Cuyama,California,34.9469212,-119.6854086
+Sisquoc,California,34.8647019,-120.2915456
+Lake Sherwood,California,34.1336822,-118.8804599
+Santa Rosa Valley,California,34.2454305,-118.9023743
+Santa Susana,California,34.2716694,-118.7089797
+Saticoy,California,34.2830582,-119.1498291
+Green Valley,California,34.6216542,-118.4139702
+Lake Hughes,California,34.6769294,-118.4453598
+Leona Valley,California,34.618321,-118.288133
+Sun Village,California,34.5596225,-117.9555844
+Topanga,California,34.0936181,-118.6014735
+Indio Hills,California,33.831128,-116.2313958
+Lake Riverside,California,33.5171356,-116.8104779
+North Shore,California,33.5156791,-115.9092358
+Ripley,California,33.5253044,-114.6560685
+Sky Valley,California,33.890015,-116.3525097
+Thermal,California,33.6403013,-116.1394485
+Whitewater,California,33.9355876,-116.687212
+Midway City,California,33.7447388,-117.9892263
+Sunset Beach,California,33.7164069,-118.0689517
 Guthrie,Texas,33.6206404,-100.3228885
+Jacumba,California,32.6175626,-116.189739
 Lantana,Texas,33.09073,-97.12416
 Paloma Creek,Texas,33.2256049,-96.9370823
 Paloma Creek South,Texas,33.2108318,-96.9366405
@@ -1816,6 +2959,76 @@ Bluetown,Texas,26.074244,-97.8230522
 Manning,North Dakota,47.2300147,-102.7701851
 Driscoll,North Dakota,46.8441533,-100.1414961
 Menoken,North Dakota,46.8205487,-100.5312304
+Happy Camp,California,41.7931797,-123.3794996
+Gasquet,California,41.8453908,-123.9695195
+Hiouchi,California,41.7926137,-124.0720219
+Smith River,California,41.9281678,-124.1470274
+Eagleville,California,41.3162846,-120.1157746
+Alderpoint,California,40.1762567,-123.6116952
+Benbow,California,40.068479,-123.7844721
+Big Lagoon,California,41.1604014,-124.1336821
+Fieldbrook,California,40.9656826,-124.0356196
+Garberville,California,40.1001449,-123.795029
+Loleta,California,40.6409618,-124.2253348
+Miranda,California,40.2345864,-123.8236457
+Myers Flat,California,40.2662524,-123.8703146
+Orick,California,41.2867896,-124.0597937
+Scotia,California,40.4823573,-124.1008808
+Shelter Cove,California,40.0304212,-124.0730866
+Weott,California,40.3218069,-123.9217063
+Fields Landing,California,40.7245711,-124.2150604
+Trinity Village,California,40.8754135,-123.5283794
+Clear Creek,California,40.2979436,-121.0485719
+Janesville,California,40.2965645,-120.5241117
+Cassel,California,40.9190499,-121.5477609
+Bend,California,40.2551551,-122.2086092
+Flournoy,California,39.920433,-122.4361082
+Mabie,California,39.7935114,-120.5213272
+Bangor,California,39.3885002,-121.4052424
+Berry Creek,California,39.6451637,-121.4032995
+Butte Meadows,California,40.0812707,-121.5510858
+Cherokee,California,39.6462739,-121.5383036
+Clipper Mills,California,39.5326673,-121.1574587
+Cohasset,California,39.9254385,-121.7310898
+Forbestown,California,39.51711,-121.267184
+Forest Ranch,California,39.8821053,-121.6727541
+Honcut,California,39.3290561,-121.5338564
+Kelly Ridge,California,39.5288045,-121.4662585
+Nord,California,39.7796044,-121.9572023
+Richvale,California,39.4937751,-121.7446978
+Stirling City,California,39.9076606,-121.5280275
+Yankee Hill,California,39.7034956,-121.5221924
+Albion,California,39.2235117,-123.7686251
+Anchor Bay,California,38.8026883,-123.5777894
+Boonville,California,39.0090663,-123.3661194
+Calpella,California,39.2335015,-123.2038939
+Caspar,California,39.3635049,-123.8158488
+Cleone,California,39.4898875,-123.785571
+Comptche,California,39.2648954,-123.5911224
+Artois,California,39.6196036,-122.1938726
+Elk Creek,California,39.6051574,-122.5391598
+Camptonville,California,39.4518363,-121.0485656
+Floriston,California,39.3946303,-120.021308
+Alta,California,39.2065652,-120.8113268
+Carnelian Bay,California,39.2268512,-120.0818587
+Dutch Flat,California,39.206009,-120.8377169
+Cold Springs,California,38.7418469,-120.8702154
+Buckhorn,California,38.452158,-120.52854
+River Pines,California,38.5462958,-120.7440998
+Cold Springs,California,38.1624181,-120.053241
+Cowan,California,37.5599133,-120.9890625
+Ahwahnee,California,37.3654982,-119.7262667
+Bass Lake,California,37.3246665,-119.5662539
+Coarsegold,California,37.2621687,-119.7009834
+Big Creek,California,37.2049456,-119.2459561
+West Goshen,California,36.3490261,-119.4516038
+Grangeville,California,36.3435612,-119.7087425
+Phelan,California,34.4261089,-117.572275
+Piñon Hills,California,34.433331,-117.6467225
+Lucerne Valley,California,34.443889,-116.9678136
+Baker,California,35.2649814,-116.0744571
+Fort Irwin,California,35.2627527,-116.6847524
+Creston,California,35.5188604,-120.5237744
 Boys Ranch,Texas,35.531436,-102.2540841
 Montague,Texas,33.6648266,-97.7205857
 Nocona Hills,Texas,33.851701,-97.650068
@@ -1887,6 +3100,80 @@ Ricardo,Texas,27.4214275,-97.8511088
 Riviera,Texas,27.2986535,-97.8149965
 Sarita,Texas,27.2217116,-97.7891623
 Hargill,Texas,26.4425672,-98.0138932
+Indianola,California,40.6862383,-124.2333925
+Manila,California,40.8517929,-124.1622856
+Phillipsville,California,40.2090317,-123.785866
+Redcrest,California,40.4004168,-123.9500421
+Samoa,California,40.8187372,-124.1864518
+Ruth,California,40.2695914,-123.3214139
+Litchfield,California,40.3826772,-120.3871634
+Milford,California,40.1712892,-120.3724376
+Nubieber,California,41.0957214,-121.1830294
+Mountain Gate,California,40.7162613,-122.331674
+Old Station,California,40.6751608,-121.4308105
+Lake California,California,40.3608342,-122.2102439
+Las Flores,California,40.0718231,-122.1627696
+Paskenta,California,39.8845994,-122.5458323
+Paynes Creek,California,40.335435,-121.9149899
+Proberta,California,40.0815453,-122.1705478
+Richfield,California,39.9748791,-122.1766565
+Vina,California,39.932936,-122.0538745
+Gerber,California,40.0562678,-122.1502688
+Hopland,California,38.9729542,-123.1163918
+Leggett,California,39.8657071,-123.7141884
+Little River,California,39.2707318,-123.7883473
+Manchester,California,38.9701853,-123.6880732
+Philo,California,39.0657324,-123.4450093
+Potter Valley,California,39.3221089,-123.113059
+Redwood Valley,California,39.2654449,-123.2044496
+Smartsville,California,39.2073932,-121.2985701
+Graniteville,California,39.4407321,-120.7396623
+Kingvale,California,39.3210149,-120.4288153
+North San Juan,California,39.3693365,-121.1038434
+Rough and Ready,California,39.2301715,-121.1360642
+Soda Springs,California,39.3232377,-120.3799251
+Washington,California,39.3593424,-120.7991077
+Penryn,California,38.8521217,-121.1693926
+Grizzly Flats,California,38.6356962,-120.5354311
+Tahoma,California,39.0674074,-120.1282439
+Guinda,California,38.8290674,-122.1938633
+Strawberry,California,38.19825,-120.009351
+Groveland,California,37.8382608,-120.2326894
+Phoenix Lake,California,38.005939,-120.307024
+Nicasio,California,38.0615885,-122.6985975
+Marin City,California,37.868538,-122.5091404
+Mountain House,California,37.7832614,-121.5427262
+Terminous,California,38.1132523,-121.4955075
+Thornton,California,38.2260268,-121.4246733
+Waterloo,California,38.0346444,-121.1868893
+Acampo,California,38.1746398,-121.2785588
+Woodbridge,California,38.1540849,-121.301337
+Monterey Park Tract,California,37.5268136,-121.0114871
+Hornitos,California,37.5021592,-120.238241
+La Vina,California,36.8805022,-120.1104401
+Nipinnawasee,California,37.4041078,-119.7329352
+Rolling Hills,California,36.9032823,-119.7976481
+La Honda,California,37.3191086,-122.2741352
+Loma Mar,California,37.2710544,-122.3085815
+Pescadero,California,37.2549443,-122.3813627
+Bear Creek,California,37.2971635,-120.4174093
+Monmouth,California,36.5660611,-119.7401376
+West Park,California,36.7102258,-119.851258
+Hardwick,California,36.401339,-119.7187441
+Homestead Valley,California,34.2730263,-116.4145301
+Greenacres,California,35.3832927,-119.1098266
+Greenfield,California,35.26885,-119.0028801
+Cherokee Strip,California,35.4671811,-119.2606647
+Edmundson Acres,California,35.2288506,-118.8231531
+Fuller Acres,California,35.2999602,-118.9117658
+Mexican Colony,California,35.4688478,-119.2687206
+Smith Corner,California,35.4782921,-119.2787209
+Garnet,California,33.9019598,-116.5455688
+Mountain Center,California,33.7041889,-116.7258522
+Oasis,California,33.465863,-116.0988922
+Mount Laguna,California,32.872273,-116.4183496
+Potrero,California,32.6047822,-116.6130731
+Eucalyptus Hills,California,32.8797708,-116.9466942
 Coyote Flats,Texas,32.351883,-97.290319
 Mentone,Texas,31.7051291,-103.5993477
 Hornsby Bend,Texas,30.2474328,-97.5833339
@@ -1894,6 +3181,126 @@ Manchaca,Texas,30.1407673,-97.833061
 Driftwood,Texas,30.1229876,-98.0308425
 Staples,Texas,29.7813348,-97.8361137
 La Casita,Texas,26.3236791,-98.7153026
+Sawyers Bar,California,41.2973587,-123.1303203
+Callahan,California,41.3095885,-122.8014177
+Clear Creek,California,41.7092899,-123.4503347
+Hamburg,California,41.7829093,-123.0603186
+Pondosa,California,41.1993273,-121.6888808
+Hilt,California,41.994859,-122.6233613
+Willow Ranch,California,41.9023885,-120.3582886
+Perez,California,41.6762729,-121.2541503
+Blocksburg,California,40.2759769,-123.6364206
+Kneeland,California,40.7612425,-123.9947779
+Westhaven,California,41.0359583,-124.111179
+Whitethorn,California,40.0237557,-123.9430832
+Orleans,California,41.3015154,-123.5411704
+Salyer,California,40.8901348,-123.5844933
+Helena,California,40.7734757,-123.128365
+Madeline,California,41.0510078,-120.4755054
+Ravendale,California,40.7985091,-120.3652225
+Igo,California,40.5054281,-122.5416799
+Ono,California,40.4751501,-122.6180702
+Castella,California,41.1384854,-122.3177877
+Ingot,California,40.7276534,-122.0791666
+Lamoine,California,40.9779272,-122.4308472
+Platina,California,40.3595937,-122.894741
+Dos Rios,California,39.7168221,-123.3533476
+Gualala,California,38.7657447,-123.5280651
+Brownsville,California,39.4732217,-121.2691283
+Hobergs,California,38.8435139,-122.7244339
+Weimar,California,39.0373968,-120.9724425
+Blue Canyon,California,39.2571225,-120.711046
+Pilot Hill,California,38.8349001,-121.0143878
+Kyburz,California,38.7746298,-120.2968596
+Pope Valley,California,38.6151837,-122.427757
+Fetters Hot Springs,California,38.3199138,-122.4860921
+Lytton,California,38.659354,-122.8716615
+Birds Landing,California,38.132695,-121.8707927
+Tuolumne,California,37.9607582,-120.2374109
+Forest Knolls,California,38.0152007,-122.6885967
+Greenbrae,California,37.9485354,-122.5246979
+San Quentin,California,37.9413133,-122.4849739
+Terra Linda,California,38.0040893,-122.5497
+Ignacio,California,38.0701986,-122.5385899
+Marinwood,California,38.0382549,-122.5377558
+Los Medanos,California,38.0121434,-121.8513461
+Walnut Heights,California,37.8765916,-122.0510736
+Canyon,California,37.8315934,-122.1877447
+O'Neals,California,37.1282815,-119.6943135
+Berenda,California,37.0402237,-120.1535014
+Palomar Park,California,37.4816043,-122.2644113
+Conejo,California,36.5182834,-119.7190244
+Helm,California,36.5316159,-120.0982058
+Camden,California,36.431061,-119.7979143
+Pineridge,California,37.0632815,-119.3609609
+Owenyo,California,36.6782657,-118.0442548
+Little Lake,California,35.9366136,-117.9067408
+Haiwee,California,36.1466081,-117.9759131
+Pebble Beach,California,36.5663496,-121.9466223
+Big Sur,California,36.270241,-121.8074545
+Elderwood,California,36.4716161,-119.1223301
+Lemoncove,California,36.3827271,-119.0245475
+Worth,California,36.0524513,-118.9370424
+Roads End,California,35.9266155,-118.4992534
+Badger,California,36.6313367,-119.0131624
+Amboy,California,34.5577721,-115.7444411
+Cadiz,California,34.5199973,-115.5127662
+Daggett,California,34.8633187,-116.888092
+Dunlap Acres,California,34.0311254,-117.1075341
+Goffs,California,34.9191646,-115.0627541
+Helendale,California,34.7438754,-117.324492
+Hinkley,California,34.9347025,-117.1992124
+Hodge,California,34.8155403,-117.1933779
+Ivanpah,California,35.3405433,-115.3105436
+Kelso,California,35.0124884,-115.6536072
+Ludlow,California,34.7211004,-116.1600117
+Nipton,California,35.4666532,-115.2722098
+Oro Grande,California,34.5988813,-117.3342134
+Rimforest,California,34.2297292,-117.2250419
+South Fontana,California,34.0627896,-117.4889386
+Yermo,California,34.9049849,-116.8203127
+Afton,California,35.0363724,-116.3797442
+Crafton,California,34.0630688,-117.1217021
+Crucero,California,35.0472061,-116.1655703
+Bryn Mawr,California,34.0483474,-117.2308736
+Kramer Junction,California,34.9924765,-117.5417235
+Arrowbear Lake,California,34.2108413,-117.0833709
+Devore,California,34.2163964,-117.4014365
+Cholame,California,35.7238556,-120.2965384
+Harmony,California,35.5085836,-121.0226879
+Cantil,California,35.3088502,-117.9684031
+Pond,California,35.7177326,-119.3287234
+Saltdale,California,35.3591276,-117.8875671
+Searles,California,35.4838485,-117.6353383
+Wheeler Ridge,California,35.0044129,-118.9495461
+Monolith,California,35.1199664,-118.3742489
+Edison,California,35.3474591,-118.8717638
+San Augustine,California,34.4594321,-120.3582119
+Gaviota,California,34.4716558,-120.2148716
+Casitas Springs,California,34.3713862,-119.3065023
+Montalvo,California,34.2538929,-119.2037197
+Solromar,California,34.0500078,-118.9537079
+Wheeler Springs,California,34.5080466,-119.2915028
+Clifton,California,33.8275154,-118.3797962
+Florence,California,33.9744592,-118.2481287
+Los Nietos,California,33.9683465,-118.0706228
+Otterbein,California,33.9875125,-117.8847835
+Gorman,California,34.7960902,-118.8525956
+Newhall,California,34.3847198,-118.530919
+Edgemont,California,33.9202949,-117.2786518
+Moreno,California,33.9175171,-117.1578126
+Pine Cove,California,33.7605756,-116.7377964
+Rice,California,34.0836252,-114.8496918
+Atwood,California,33.8655708,-117.8308905
+Cowan Heights,California,33.7777952,-117.7739427
+Fernbrook,California,32.968102,-116.9116944
+Glenview,California,32.8322727,-116.9058591
+Jamacha Junction,California,32.739775,-116.9433589
+Otay,California,32.5947777,-117.0644718
+Warner Springs,California,33.2822596,-116.6336303
+Flinn Springs,California,32.8550504,-116.8525246
+Glamis,California,32.997542,-115.0719158
+Ogilby,California,32.8169898,-114.8388505
 Nanson,North Dakota,48.5738865,-99.7798658
 Kelvin,North Dakota,48.9372256,-100.0509619
 Eckman,North Dakota,48.6580761,-101.0579333
@@ -2898,6 +4305,211 @@ Santa Elena,Texas,26.7600544,-98.4864057
 Viboras,Texas,26.7172758,-98.8272495
 Roma-Los Saenz,Texas,26.4050626,-99.0158635
 Red Gate,Texas,26.4967315,-98.1338977
+Cecilville,California,41.1409709,-123.1400409
+Bray,California,41.6440414,-121.9708384
+Somes Bar,California,41.3762377,-123.4761693
+Klamath River,California,41.8612461,-122.825589
+Requa,California,41.5467862,-124.0664634
+Fort Dick,California,41.8678909,-124.1489706
+Hackamore,California,41.5518309,-121.1235876
+Tionesta,California,41.6459944,-121.3280415
+Crannell,California,41.0117923,-124.0847889
+Moonstone,California,41.0301251,-124.1095121
+Rohnerville,California,40.5670768,-124.135607
+Honeydew,California,40.2443059,-124.12282
+Korbel,California,40.8704078,-123.9583922
+Petrolia,California,40.3254132,-124.2869926
+Shively,California,40.4306939,-123.9697655
+Hoopa,California,41.0504076,-123.6742236
+Briceland,California,40.1079215,-123.900031
+Big Bar,California,40.740975,-123.2558671
+Island Mountain,California,40.0262607,-123.4903007
+Standish,California,40.3651768,-120.4221645
+Termo,California,40.8657308,-120.4602262
+Wendel,California,40.3482346,-120.2335461
+Viola,California,40.5179358,-121.6777639
+Lakehead,California,40.90515,-122.3791777
+Vinton,California,39.804349,-120.1782603
+Sloat,California,39.8665618,-120.7274464
+Feather Falls,California,39.5932207,-121.2563504
+Elk,California,39.1301809,-123.7177934
+Piercy,California,39.9662591,-123.7953024
+Rockport,California,39.7387659,-123.8161313
+Westport,California,39.6357148,-123.7830734
+Glenn,California,39.5218283,-122.0138651
+Newville,California,39.790989,-122.5283302
+Challenge,California,39.4873887,-121.2235715
+Delevan,California,39.3540526,-122.1910897
+Applegate,California,39.0007303,-120.9924431
+Emigrant Gap,California,39.296845,-120.6727122
+Tahoe City,California,39.1721291,-120.1388031
+South Yuba City,California,39.1165591,-121.6391332
+Tierra Buena,California,39.1487807,-121.6669123
+Omo Ranch,California,38.5812956,-120.5732603
+Meeks Bay,California,39.034352,-120.1240761
+Woodfords,California,38.7776832,-119.8218443
+Arden Town,California,38.5740724,-121.3830078
+Toms Place,California,37.5613209,-118.6812364
+White Pines,California,38.2660282,-120.3407525
+Altaville,California,38.0838106,-120.5618692
+Wilseyville,California,38.3790793,-120.5146478
+Dardanelle,California,38.3410234,-119.8337902
+Big Oak Flat,California,37.8235391,-120.2582456
+Moccasin,California,37.8107616,-120.2999137
+Almonte,California,37.8899262,-122.5249749
+Black Point,California,38.1101973,-122.5055338
+Lagunitas,California,38.011312,-122.7022085
+Lucas Valley,California,38.027422,-122.5583121
+Alamo Oaks,California,37.8393701,-121.993016
+Cowell,California,37.9527005,-121.9894053
+Maltby,California,38.0149212,-122.0702414
+Shore Acres,California,38.0357536,-121.9655164
+Selby,California,38.0565876,-122.2438579
+Montpelier,California,37.5449341,-120.7060355
+Kilkare Woods,California,37.6282659,-121.9121802
+Komandorski Village,California,37.7160404,-121.9088466
+Mount Eden,California,37.6360439,-122.0999636
+Russell City,California,37.65271,-122.1335757
+Yosemite Village,California,37.7452032,-119.598221
+Raymond,California,37.2171683,-119.9054382
+Los Trancos Woods,California,37.3493854,-122.19941
+Redwood Terrace,California,37.3146644,-122.2949695
+San Gregorio,California,37.3271651,-122.3866404
+Sky Londa,California,37.3835512,-122.2627453
+Highlands,California,37.5199379,-122.3438596
+Hilmar,California,37.4085479,-120.8502035
+Irwin,California,37.3968815,-120.8499254
+Cedar Grove,California,36.7907744,-118.6703779
+Pinedale,California,36.8427269,-119.7898688
+Herndon,California,36.8366136,-119.9173752
+Lakeshore,California,37.2530003,-119.1748429
+Pinehurst,California,36.6952252,-119.0164975
+Rolinda,California,36.7352234,-119.9618199
+Tollhouse,California,37.018838,-119.3992957
+Trimmer,California,36.9049485,-119.296234
+Burrel,California,36.4882821,-119.9851457
+Monta Vista,California,37.3227199,-122.0580165
+Rancho Rinconada,California,37.3149424,-122.0030145
+Deep Springs,California,37.3715981,-117.9850939
+Laws,California,37.4007622,-118.3456639
+Bartlett,California,36.4766016,-118.0309189
+Opal Cliffs,California,36.9607842,-121.9641267
+Paicines,California,36.7285708,-121.2785409
+San Benito,California,36.5096854,-121.0818602
+Idria,California,36.4169007,-120.6743379
+Carmel Valley,California,36.4796839,-121.7324476
+Parkfield,California,35.8996856,-120.4326542
+Angiola,California,35.9891192,-119.4759537
+Balance Rock,California,35.8060623,-118.6520326
+Cotton Center,California,36.0660638,-119.142884
+Johnsondale,California,35.9746706,-118.5409204
+Kaweah,California,36.4696697,-118.9184341
+Poplar,California,36.0532862,-119.1431617
+Chubbuck,California,34.3650047,-115.2860921
+Essex,California,34.7336097,-115.2449794
+Fenner,California,34.8158313,-115.1791451
+Scotland,California,34.242229,-117.4981066
+Alta Loma,California,34.1222317,-117.5981086
+Arrowhead Highlands,California,34.2300069,-117.2628206
+Atolia,California,35.3146869,-117.6092257
+Bagdad,California,34.5827704,-115.8755563
+Blue Jay,California,34.2461175,-117.2097638
+Cajon Junction,California,34.3116702,-117.4747722
+Cedar Glen,California,34.2538951,-117.1647628
+Cedarpines Park,California,34.2500062,-117.3258786
+Cima,California,35.2377644,-115.4991602
+College Heights,California,34.1066762,-117.6892221
+Del Rosa,California,34.148899,-117.243375
+East Highlands,California,34.1097338,-117.170594
+Green Valley Lake,California,34.2408403,-117.0772605
+Guasti,California,34.0650112,-117.5864414
+Los Serranos,California,33.9727911,-117.7081106
+Narod,California,34.0580666,-117.6844996
+Newberry Springs,California,34.8272104,-116.6883644
+Red Mountain,California,35.3582967,-117.6167261
+Skyforest,California,34.2352847,-117.1792073
+Sleepy Hollow,California,33.9477915,-117.778668
+Smiley Park,California,34.1983417,-117.1275386
+Twin Peaks,California,34.2388955,-117.2336533
+Valley View Park,California,34.2350067,-117.3081
+Verdemont,California,34.1930639,-117.3675463
+Vidal,California,34.1189042,-114.5102364
+Vidal Junction,California,34.1886253,-114.5741282
+Westend,California,35.7069001,-117.3922787
+Di Giorgio,California,35.2527389,-118.8514873
+Garlock,California,35.4024608,-117.7900644
+Caliente,California,35.291071,-118.6278688
+Miracle Hot Springs,California,35.5757871,-118.534531
+South Lake,California,35.6368977,-118.3670267
+Betteravia,California,34.9177564,-120.5148893
+Honda,California,34.6155392,-120.6335037
+Las Cruces,California,34.5080438,-120.2290397
+Tajiguas,California,34.4666572,-120.1084784
+Sespe,California,34.3999971,-118.9503775
+Somis,California,34.2572261,-118.9962124
+Ventura,California,34.2783352,-119.2931676
+Bassett,California,34.0497323,-117.9967323
+City Terrace,California,34.0500116,-118.1828495
+Cornell,California,34.1144504,-118.7778678
+Dominguez,California,33.8347392,-118.2186814
+Glenview,California,34.1244507,-118.6014742
+La Crescenta,California,34.2241708,-118.2400751
+Montrose,California,34.2063938,-118.224241
+Pearblossom,California,34.506383,-117.9097881
+Saugus,California,34.4113854,-118.5400858
+View Park,California,33.9989018,-118.3425759
+West Whittier,California,33.9886238,-118.0570117
+Windsor Hills,California,33.9889018,-118.3539649
+Agoura,California,34.1430611,-118.7378669
+East La Mirada,California,33.9244577,-117.9889525
+Belltown,California,34.011681,-117.3833789
+El Casco,California,33.9811269,-117.118367
+Alberhill,California,33.7272418,-117.3997644
+Idyllwild,California,33.7400209,-116.7189075
+Midland,California,33.8611293,-114.8021881
+Sunnymead,California,33.940017,-117.2436507
+Palm Desert Country,California,33.7405771,-116.3155649
+East Blythe,California,33.6105801,-114.5738449
+Murrieta Hot Springs,California,33.5605814,-117.1580876
+Quail Valley,California,33.7069654,-117.2450367
+Sedco Hills,California,33.6416892,-117.2908712
+Sun City,California,33.7091878,-117.1972566
+Capistrano Beach,California,33.4625277,-117.6717175
+Silverado,California,33.7461295,-117.6369939
+Emerald Bay,California,33.5525247,-117.809222
+Lemon Heights,California,33.7589067,-117.7819981
+Orange Park Acres,California,33.8019612,-117.7822767
+Panorama Heights,California,33.7777951,-117.79811
+San Juan Hot Springs,California,33.5908562,-117.5094895
+Santa Ana Heights,California,33.6525204,-117.8956126
+South Laguna,California,33.5005827,-117.7431097
+Surfside,California,33.7277956,-118.0822856
+Top of the World,California,33.5483587,-117.7542208
+Trabuco Canyon,California,33.662521,-117.5903258
+Trabuco Highlands,California,33.6147446,-117.5664361
+Calavo Gardens,California,32.7628296,-116.9611375
+Cardiff-by-the-Sea,California,33.0217096,-117.2811482
+Del Dios,California,33.0728195,-117.1191997
+Grossmont,California,32.7783843,-116.9883606
+Johnstown,California,32.838106,-116.8966923
+Lakeview,California,32.842828,-116.9041925
+Leucadia,California,33.0680967,-117.3033709
+Moreno,California,32.8733823,-116.9250269
+Riverview Farms,California,32.8450498,-116.9319711
+Casa de Oro,California,32.7489409,-116.98086
+Castle Park,California,32.6103329,-117.0675278
+Jesmond Dene,California,33.1803157,-117.1091988
+Lincoln Acres,California,32.6678312,-117.0728066
+Live Oak Springs,California,32.6906137,-116.334462
+Lynwood Hills,California,32.645332,-117.0516942
+Mesa Grande,California,33.1803185,-116.7691893
+San Luis Rey,California,33.2319797,-117.3236485
+Suncrest,California,32.8042186,-116.8644688
+Sunnyside,California,32.6742204,-117.0164155
+Tecate,California,32.5772833,-116.6275176
+Pala,California,33.3653102,-117.0766965
+Coyote Wells,California,32.7386713,-115.9675123
+Plaster City,California,32.7925584,-115.8586183
 Marshall Creek,Texas,33.01679,-97.2086255
 Eagle Mountain,Texas,32.8934599,-97.4444646
 Anderson Mill,Texas,30.4549224,-97.8058432
@@ -2910,9 +4522,22 @@ Town West,Texas,29.6638438,-95.6310571
 Dominion,Texas,29.6568915,-98.6164103
 Sandy Point,Texas,29.385517,-95.4810532
 Pernitas Point,Texas,28.0600129,-97.9047221
+Trona,California,35.7627322,-117.3728346
 Monahans,Texas,31.5942991,-102.8926536
+Mount Baldy,California,34.2361168,-117.6600553
 Boquillas Crossing,Texas,29.1888165,-102.9454397
 Quarry,Texas,30.3077111,-96.5105241
+Rheem,California,37.8607589,-122.1271871
 Isla,Texas,31.48734,-106.2063654
 Falcon Lake,Texas,26.8728176,-99.255314
+Furnace Creek,California,36.4580039,-116.8708863
+Clearlake,California,38.9562556755,-122.643928573
+Albany,California,37.885802227,-122.305978754
+Malibu,California,34.0331807183,-118.687880183
+West Hollywood,California,34.0900091,-118.3617443
+Mesa Verde,California,33.6058577,-114.7310717
+Rackerby,California,39.4382671832,-121.345874011
+Coulterville,California,37.710486,-120.1979658
+El Toro,California,33.6282146949,-117.695961609
+Hollywood,California,34.0983987873,-118.326648503
 Carbury,North Dakota,48.8909301758,-100.544616699

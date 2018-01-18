@@ -1,12 +1,10 @@
 package model;
 
 public class Metrics {
-    private int nrOfPoints;
-    private int nrOfPositiveClassifiedPoints;
-    private double accuracy;
-    private double purity;
-
-    public Metrics(){}
+    private int nrOfPoints; // Total number of points
+    private int nrOfPositiveClassifiedPoints; // Number of positive classified points
+    private double accuracy; // Accuracy : nrOfPoints / nrOfPositiveClassifiedPoints
+    private double purity; // Purity
 
     public Metrics(int nrOfPoints, int nrOfPositiveClassifiedPoints, double accuracy, double purity) {
         this.nrOfPoints = nrOfPoints;
@@ -47,7 +45,7 @@ public class Metrics {
         this.purity = purity;
     }
 
-    public String toString(){
-        return "Dokładność: " + accuracy + ", Czystość: " + purity;
+    public String toString() {
+        return "Accuracy: " + accuracy + ", Purity: " + purity;
     }
 }

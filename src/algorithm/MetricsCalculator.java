@@ -12,12 +12,15 @@ public class MetricsCalculator {
 
     private static final int MIN_CLUSTER_OCCURRENCE = 3;
 
-    public Metrics calculate(List<Cluster> clusters){
+    /*
+        Method to calculate metrics of clustering
+     */
+    public Metrics calculate(List<Cluster> clusters) {
         int nrOfPoints = 0;
         int nrOfPositiveClassifiedPoints = 0;
         double totalPurity = 0;
 
-        for(Cluster cluster : clusters){
+        for (Cluster cluster : clusters) {
             Metrics clusterMetrics = calculateClusterMetrics(cluster);
             cluster.setMetrics(clusterMetrics);
             nrOfPoints += clusterMetrics.getNrOfPoints();
@@ -31,21 +34,25 @@ public class MetricsCalculator {
         return new Metrics(nrOfPoints, nrOfPositiveClassifiedPoints, accuracy, averagePurity);
     }
 
+    /*
+        Method to calculate metrics for each cluster
+     */
     private Metrics calculateClusterMetrics(Cluster cluster) {
         int nrOfPoints = cluster.getPoints().size();
         int nrOfPositiveClassifiedPoints = 0;
         String clusterName = cluster.getName();
+        // Map (originalClusterName, count of occurrences)
         Map<String, Integer> occurrences = new HashMap<>();
 
-        for(Point point : cluster.getPoints()){
+        for (Point point : cluster.getPoints()) {
             String originalClusterName = point.getOriginalCluster();
-            if(clusterName.equals(originalClusterName)){
+            if (clusterName.equals(originalClusterName)) {
                 nrOfPositiveClassifiedPoints++;
             }
 
-            if(occurrences.containsKey(originalClusterName)){
-                occurrences.merge(originalClusterName,1,Integer::sum);
-            }else{
+            if (occurrences.containsKey(originalClusterName)) {
+                occurrences.merge(originalClusterName, 1, Integer::sum);
+            } else {
                 occurrences.put(originalClusterName, 1);
             }
         }
@@ -58,4 +65,3 @@ public class MetricsCalculator {
         return new Metrics(nrOfPoints, nrOfPositiveClassifiedPoints, accuracy, purity);
     }
 }
-
