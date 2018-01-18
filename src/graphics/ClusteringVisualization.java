@@ -92,5 +92,6 @@ public class ClusteringVisualization {
             points.forEach(p -> g.drawLine((int) p.getX(), (int) p.getY(), (int) p.getX(), (int) p.getY()));
         }
         g.drawImage(image, 0, 0, null);
+
     }
 }

@@ -76,7 +76,7 @@ public class Cluster {
     }
 
     public String printMetrics() {
-        return "Grupa: " + name + ", " + metrics;
+        return "Cluster: " + name + ", " + metrics;
     }
 
     @Override
